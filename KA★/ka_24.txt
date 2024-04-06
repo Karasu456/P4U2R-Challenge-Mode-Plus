@@ -1,0 +1,50 @@
+-MISSION-	24
+HP	43
+SP	60
+HPRecover	0
+
+-LIST-
+PCommandNageC
+OiuchiAB
+UltimateCriticalComboB
+CmnCancelBurst i c
+ReversalAction
+_Kakusei c
+UltimateCriticalComboB
+-KEY-
+2	-	2
+1	-	1
+4	-	5
+4	C	2
+5	C	3
+5	-	180
+2	-	4
+3	-	2
+6	-	2
+6	AB	6
+5	-	12
+2	-	5
+3	-	2
+6	-	6
+2	-	4
+3	-	1
+6	-	4
+6	B	4
+5	B	4
+5	-	193
+5	ACD	11
+5	-	51
+6	-	3
+5	-	5
+6	-	19
+5	-	9
+5	BD	9
+5	-	1
+2	-	6
+3	-	2
+6	-	6
+2	-	3
+3	-	1
+6	-	4
+5	B	7
+5	-	337

@@ -1,0 +1,92 @@
+-MISSION-	12
+Hashi
+SP 75
+Kakusei
+
+-LIST-
+NmlAtkThrow c
+UltimateSukukajaC a
+Sukukaja5A
+Sukukaja5A_2nd
+Sukukaja5A_3rd
+Sukukaja5A_4th
+Sukukaja5A_Finish
+KunaiHit_D
+CmnFAirDash i c
+KunaiHit_CD
+VSlashD
+UltimateKunaiC        |UltimateKunaiD        +UltimateKunai
+-KEY-
+5	-	16
+6	-	6
+5	-	3
+6	-	7
+5	CD	3
+5	-	29
+2	-	5
+1	-	2
+4	-	5
+2	-	4
+1	-	3
+4	-	2
+4	C	2
+5	-	100
+6	-	4
+5	-	4
+6	-	2
+3	-	3
+3	C	2
+2	C	1
+2	-	1
+5	-	14
+5	C	4
+5	-	18
+5	A	5
+5	-	7
+5	A	5
+5	-	7
+5	A	4
+5	-	7
+5	A	4
+5	-	7
+5	A	5
+5	-	7
+5	A	5
+5	-	6
+5	A	5
+5	-	7
+5	A	3
+5	-	8
+2	-	6
+2	B	3
+2	-	6
+2	B	4
+2	-	5
+2	B	3
+2	-	4
+2	B	3
+2	-	8
+5	-	20
+6	-	3
+5	-	5
+6	-	3
+3	-	3
+2	-	2
+2	AB	1
+2	-	1
+5	-	6
+2	-	5
+3	-	1
+6	-	2
+5	D	3
+5	-	44
+2	-	3
+1	-	1
+4	-	5
+1	-	1
+2	-	2
+1	-	2
+4	-	2
+4	D	1
+5	D	1
+5	-	26

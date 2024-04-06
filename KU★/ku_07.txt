@@ -1,0 +1,43 @@
+-MISSION-	7
+KumasItemFix 1
+KumasItem2Fix 1
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5A3rd_P4U2 c
+ScrewDriverB
+NmlAtk5B c
+NmlAtk5D a c
+
+-KEY-
+5	-	16
+6	-	4
+5	-	5
+6	-	4
+6	A	3
+5	A	4
+5	-	4
+5	A	8
+5	-	6
+5	A	9
+5	-	4
+5	A	9
+5	-	5
+5	A	7
+5	-	4
+5	A	10
+5	-	49
+2	-	6
+3	-	2
+6	-	1
+6	B	3
+5	B	4
+5	-	69
+4	-	4
+5	-	4
+4	-	1
+4	B	8
+5	B	1
+5	-	5
+5	D	11
+5	-	239

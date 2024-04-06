@@ -1,0 +1,26 @@
+-MISSION-	1
+SP	50
+
+-LIST-
+ArenBeam	+NmlAtk5A	c
+ArenBeam2nd	+NmlAtk5A2nd	c
+ArenBeam3rd	+NmlAtk5A3rd	c
+ArenBeam4th	+NmlAtk5A3rd	c
+ArenBeam5th	+NmlAtk5A3rd	c
+Shinkuha_YarinageC	+StylishShinkuha
+PersonaChargeSlashA	+StylishSPSkill
+
+-KEY-
+5	-A	3
+5	-	10
+5	-A	3
+5	-	10
+5	-A	3
+5	-	10
+5	-A	3
+5	-	10
+5	-A	3
+5	-	10
+5	-A	3
+5	-	10
+5	-A	3

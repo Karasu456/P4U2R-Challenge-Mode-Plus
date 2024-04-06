@@ -1,0 +1,101 @@
+-MISSION-	3
+NoMiss
+Junhudo
+Kakusei
+SP 150
+
+-LIST-
+UltimateSenpukonA
+UltimateSenpukonB
+UltimateSenpukonAB
+am431_FireatkC |FireBlessC
+am431_FireatkD |FireBlessD
+am431_FireatkCD |FireBlessCD
+UltimateXAttackA
+UltimateXAttackB
+UltimateXAttackAB
+
+-KEY-
+5	-	15
+2	-	6
+6	-	5
+5	-	3
+2	-	4
+3	-	2
+6	A	4
+5	-	160
+6	-	5
+5	-	5
+6	-	25
+2	-	5
+3	-	2
+6	-	6
+2	-	5
+3	-	2
+6	B	30
+5	-	173
+6	-	3
+5	-	6
+6	-	26
+5	-	9
+2	-	4
+3	-	3
+6	-	5
+2	-	3
+3	-	2
+6	-	4
+5	AB	56
+5	-	147
+6	-	4
+5	-	6
+6	-	6
+5	-	4
+2	-	6
+6	-	6
+2	-	4
+3	-	3
+6	C	11
+5	-	153
+2	-	7
+6	-	4
+5	-	2
+2	-	3
+3	-	3
+6	D	5
+5	-	162
+2	-	4
+3	-	3
+6	-	3
+2	-	4
+3	-	5
+6	CD	7
+5	-	180
+2	-	3
+1	-	3
+4	-	5
+2	-	6
+1	-	4
+4	A	12
+5	-	335
+6	-	4
+5	-	5
+6	-	36
+2	-	3
+1	-	4
+4	-	3
+2	-	5
+1	-	2
+4	B	4
+5	B	3
+5	-	339
+6	-	4
+5	-	6
+6	-	27
+2	-	2
+1	-	3
+4	-	6
+2	-	4
+1	-	3
+4	-	7
+5	AB	8
+5	-	213

@@ -1,0 +1,93 @@
+-MISSION-	24
+SP 100
+Counter
+HP        43
+HPRecoverEnemyOnly	0
+
+-LIST-
+ReversalAction
+UltimateKokoroeC a
+_Kakusei	i	c
+WavingC |HaseiWavingC a
+DashUpperA
+BodyBlowB
+DashUpperB
+HaseiWavingD |WavingD a
+CmnMiniJump i c
+AirTosshinAB
+HaseiDuckingD |DuckingD a
+BodyBlowA
+CorkScrewB
+UltimateUpperAB
+
+-KEY-
+5	-	15
+6	-	3
+5	-	6
+6	-	13
+6	BD	4
+5	BD	1
+5	-	8
+2	-	4
+3	-	3
+6	-	5
+5	-	1
+2	-	6
+3	-	3
+6	-	1
+6	C	3
+5	C	3
+5	-	43
+2	-	5
+1	-	2
+4	-	1
+4	C	4
+5	-	5
+8	-	4
+8	A	4
+8	-	1
+5	-	3
+4	-	7
+4	B	6
+4	-	18
+5	-	5
+8	-	16
+8	B	8
+8	-	5
+5	-	3
+4	-	10
+4	D	14
+4	-	3
+5	-	3
+2	-	4
+2	AC	3
+2	C	2
+2	-	7
+1	-	2
+4	A	1
+4	AB	3
+5	AB	1
+5	B	2
+5	-	30
+6	-	6
+6	D	10
+6	-	2
+5	-	1
+4	-	8
+4	A	7
+4	-	23
+6	-	4
+6	B	7
+6	-	4
+5	-	5
+2	-	8
+5	-	12
+2	-	7
+3	-	4
+6	-	5
+2	-	4
+3	-	3
+6	-	1
+6	AB	2
+5	AB	3
+5	-	169

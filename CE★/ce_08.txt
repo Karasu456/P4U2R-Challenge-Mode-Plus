@@ -1,0 +1,67 @@
+-MISSION-	8
+Tooi
+-LIST-
+NmlAtk2A c
+NmlAtk2B c
+NmlAtk5B c
+AbaremakuriA
+NoutenotoshiA
+100inchPunchA
+NmlAtk5A c
+Persona5C c
+Persona2C c
+_Dash	+CmnActFDash	i	c
+Ashibarai c
+-KEY-
+6	-	5
+5	-	4
+6	-	16
+3	-	2
+2	A	6
+2	-	4
+2	B	9
+2	-	6
+5	-	5
+5	B	8
+5	-	4
+2	-	4
+3	-	3
+6	-	1
+6	A	4
+5	A	3
+5	-	32
+2	-	4
+3	-	3
+6	-	2
+6	A	3
+5	A	5
+5	-	51
+2	-	3
+1	-	3
+4	A	3
+5	A	2
+5	-	35
+6	-	5
+5	-	2
+6	-	2
+6	A	2
+5	A	2
+5	-	4
+5	C	7
+5	-	14
+2	-	6
+2	C	10
+2	-	4
+5	-	9
+6	-	6
+5	-	4
+6	-	27
+3	-	1
+2	-	3
+2	AB	5
+2	-	6
+5	-	54
+2	-	17
+5	-	56
+4	-	85
+5	-	61

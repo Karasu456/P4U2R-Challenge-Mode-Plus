@@ -1,0 +1,23 @@
+-MISSION-	1
+SP	50
+
+-LIST-
+NmlAtk5A	c
+NmlAtk5A2nd_P4U2	c
+NmlAtk5A3rd_P4U2	c
+dmy_machinegun10
+dmy_machinegun_9B	+StylishCanon
+PersonaAthenaSurfingD	|PersonaAirAthenaSurfingD	+StylishSurfing
+
+-KEY-
+5	-A	3
+5	-	12
+5	-A	3
+5	-	17
+5	-A	3
+5	-	17
+5	-A	3
+5	-	27
+5	-A	3
+5	-	42
+5	-A	3

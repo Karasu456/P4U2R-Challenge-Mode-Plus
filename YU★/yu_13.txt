@@ -1,0 +1,40 @@
+-MISSION-	13
+Jump
+
+-LIST-
+NmlAtkAir5A c
+Sensu_Air5B +NmlAtkAir5B c
+AirAgiA
+AgishotA
+AirAgiA
+AgishotA
+AirAgiA
+AgishotA
+
+-KEY-
+5	-	20
+6	-	1
+9	-	5
+9	A	1
+6	A	1
+5	A	5
+5	-	4
+5	B	8
+5	-	10
+2	-	2
+3	-	3
+6	-	3
+6	A	1
+5	A	48
+5	-	3
+2	-	5
+3	-	2
+6	-	5
+5	A	48
+5	-	5
+2	-	3
+3	-	3
+6	-	3
+6	A	1
+5	A	49
+5	-	19

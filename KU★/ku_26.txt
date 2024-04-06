@@ -1,0 +1,76 @@
+-MISSION-	26
+Hashi
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5B c
+ScrewDriverB
+NmlAtk5B c
+_HighJump a c nOnly
+PersonaAir5C c
+NmlAtkAir5B c
+NmlAtkAir5A c
+NmlAtk5B c
+Persona5C c
+NmlAtk2B c
+NmlAtkAir5A c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B c
+NmlAtkAir5D a c
+
+-KEY-
+5	-	14
+6	-	4
+5	-	5
+6	-	3
+6	A	3
+5	A	2
+5	-	7
+5	A	6
+5	-	24
+5	B	5
+5	-	9
+2	-	3
+3	-	2
+6	-	1
+6	B	3
+5	B	3
+5	-	83
+5	B	9
+5	-	9
+2	-	6
+5	-	1
+8	-	3
+5	C	6
+5	-	50
+5	B	7
+5	-	6
+5	A	5
+5	-	15
+5	B	4
+5	-	9
+5	C	4
+5	-	56
+2	-	3
+2	B	3
+5	B	2
+5	-	8
+6	-	2
+9	-	4
+8	-	1
+5	-	4
+5	A	7
+5	-	17
+6	-	2
+9	-	3
+9	A	1
+5	A	7
+5	-	16
+5	B	5
+5	-	8
+5	D	8
+5	-	8
+5	D	4
+5	-	146

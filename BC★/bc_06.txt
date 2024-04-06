@@ -1,0 +1,30 @@
+-MISSION-	6
+Tooi
+
+-LIST-
+NmlAtkAir5B c
+NmlAtk2B c
+NmlAtk5B c
+Persona5C c
+PersonaLowAssaultC
+-KEY-
+5	-	19
+6	-	1
+9	-	9
+6	-	14
+5	-	2
+5	B	13
+5	-	18
+2	-	3
+2	B	7
+5	B	4
+5	-	11
+5	B	10
+5	-	10
+5	C	6
+5	-	12
+2	-	5
+1	-	2
+4	C	2
+5	C	4
+5	-	410

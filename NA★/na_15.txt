@@ -1,0 +1,56 @@
+-MISSION-	15
+Crouch
+
+-LIST-
+Chudan c
+ChudanOiuchi c
+ChudanFinish c
+ChudanJump a c
+NmlAtkAir5B c
+PersonaAir5C c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+NmlAtkAir5A c
+NmlAtkAir5A c
+PersonaAir5C c
+AirBanditRevolverB
+
+-KEY-
+5	-	8
+6	-	5
+5	-	5
+6	-	4
+6	A	1
+6	AB	8
+6	-	4
+5	-	14
+5	AB	3
+6	AB	15
+5	AB	59
+6	A	2
+9	-	3
+9	C	10
+9	-	30
+5	-	7
+5	B	8
+5	-	7
+5	C	8
+5	-	9
+6	-	1
+9	-	6
+9	B	9
+8	B	1
+5	B	1
+5	-	3
+5	A	7
+5	-	6
+5	A	7
+5	-	9
+5	C	8
+5	-	4
+2	-	3
+3	-	3
+6	B	5
+5	B	16
+5	-	13
+6	-	24

@@ -1,0 +1,20 @@
+-MISSION-	1
+SP	50
+
+-LIST-
+NmlAtk5A	c
+NmlAtk5A2nd	c
+NmlAtk5A3rd	c
+DashAssaultA	+StylishDashAssault
+UltimateAirAssaultC_atk	+StylishSPSkill
+
+-KEY-
+5	-A	3
+5	-	16
+5	-A	4
+5	-	16
+5	-A	4
+5	-	18
+5	-A	7
+5	-	10
+5	-A	3

@@ -1,0 +1,77 @@
+-MISSION-	4
+HashiEx
+Kakusei
+Counter
+SP 150
+
+-LIST-
+NmlAtk2C c
+NmlAtk2B c
+NmlAtk5C c
+NmlAtk5B c
+Ashibarai c
+AssaultA_1st
+UltimateAssaultA
+UltimateAssaultA
+UltimateAssaultA
+
+-KEY-
+5	-	12
+6	-	4
+5	-	6
+3	-	2
+3	C	2
+2	C	2
+5	C	2
+5	-	51
+2	-	2
+2	B	5
+5	B	5
+5	-	33
+5	C	8
+5	-	20
+5	B	9
+5	-	10
+2	-	14
+2	AB	8
+2	-	30
+3	-	3
+6	A	4
+5	-	3
+2	-	4
+3	-	2
+6	-	5
+2	-	3
+3	A	4
+5	-	242
+2	-	5
+6	-	6
+3	-	2
+2	-	7
+6	-	6
+2	A	4
+3	-	2
+6	-	2
+6	A	3
+2	-	6
+6	A	2
+6	-	4
+2	A	6
+6	-	3
+5	-	214
+2	-	5
+6	-	8
+2	-	6
+6	-	6
+2	A	2
+2	-	2
+3	-	2
+6	-	2
+6	A	2
+2	-	6
+6	A	2
+6	-	3
+2	-	2
+2	A	5
+6	-	3
+5	-	25

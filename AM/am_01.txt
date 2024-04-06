@@ -1,0 +1,25 @@
+-MISSION-	1
+SP	50
+
+-LIST-
+NmlAtk5A	c
+NmlAtk5A2nd	c
+NmlAtk5A3rd	c
+Koromaru5C	nOnly
+NyoisoA	+NyoisoA_Stylish
+PersonaRaigekisouA
+am431_FireatkC	|FireBlessC	+Fire_Stylish
+
+-KEY-
+5	-	15
+5	-A	3
+5	-	10
+5	-A	3
+5	-	20
+5	-A	3
+5	-	20
+5	-A	3
+5	-	40
+5	-A	3
+5	-	35
+5	-A	6

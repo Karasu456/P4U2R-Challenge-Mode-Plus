@@ -1,0 +1,53 @@
+-MISSION-	8
+Counter
+
+-LIST-
+Persona2C c
+_Dash +CmnActFDash i c
+NmlAtk2B c
+NmlAtk5B c
+Persona5C c
+Persona2C c
+KakeagariB
+VSlashC +VSlashHaseiC
+WarpLowSlashC
+-KEY-
+5	-	13
+6	-	4
+5	-	4
+6	-	5
+5	-	2
+2	-	2
+2	C	4
+2	-	2
+5	-	12
+6	-	5
+5	-	4
+6	-	7
+5	-	10
+2	-	5
+2	B	6
+5	-	11
+5	B	5
+5	-	20
+5	C	6
+5	-	8
+2	-	4
+2	C	4
+2	-	1
+5	-	19
+2	-	4
+3	-	3
+6	-	3
+6	B	3
+5	-	33
+2	-	5
+1	-	2
+4	-	4
+4	C	1
+5	C	3
+5	-	34
+2	-	5
+2	C	3
+5	C	1
+5	-	78

@@ -1,0 +1,96 @@
+-MISSION-	28
+Jump
+SP 62
+Tooi
+
+-LIST-
+NmlAtk2B c
+Persona2C c
+CmnActHeatUp +HeatUp a c
+PersonaAir5C c
+KunaiHit_CD
+CmnFAirDash i c
+KunaiHit_C
+MoonsaltMoveA a n2miss
+VSlashCD
+MoonsaltMoveB a n2miss
+MoonsaltSlashB
+KunaiHit_CD
+PersonaAir5D c
+KunaiHit_C
+KunaiHit_D
+TatsumakiCD
+-KEY-
+5	-	13
+6	-	4
+5	-	3
+6	-	4
+2	-	2
+2	B	5
+2	-	5
+2	C	5
+2	-	3
+5	-	27
+5	ACD	5
+5	-	4
+5	ACD	5
+5	-	46
+8	-	6
+8	C	1
+5	C	2
+5	-	20
+2	-	5
+2	AB	3
+2	-	3
+5	-	22
+6	-	3
+5	-	4
+6	-	5
+5	-	5
+2	-	6
+2	A	2
+5	A	1
+5	-	5
+2	-	4
+3	-	4
+6	-	4
+6	A	3
+5	A	1
+5	-	5
+2	-	3
+3	-	5
+6	-	3
+6	CD	3
+5	CD	1
+5	-	64
+4	-	4
+4	B	6
+4	-	3
+5	-	32
+5	B	4
+5	-	3
+2	-	5
+2	AB	4
+2	-	3
+5	-	29
+5	D	4
+5	-	14
+6	-	4
+5	-	4
+6	-	18
+9	-	6
+5	-	2
+2	-	4
+2	A	3
+2	-	28
+2	B	3
+2	-	1
+5	-	4
+2	-	3
+3	-	2
+6	-	5
+2	-	3
+3	-	2
+6	CD	3
+6	-	1
+5	-	486

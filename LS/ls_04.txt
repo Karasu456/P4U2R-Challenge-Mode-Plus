@@ -1,0 +1,19 @@
+-MISSION-	4
+Ichigeki
+SP        100
+
+-LIST-
+IchigekiJunbi a
+Ichigeki
+-KEY-
+2	-	3
+5	-	3
+2	-	3
+5	-	3
+2	-AB	3
+5	-	70
+2	-	3
+5	-	3
+2	-	3
+5	-	3
+2	-AB	3

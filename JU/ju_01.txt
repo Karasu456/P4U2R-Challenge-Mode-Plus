@@ -1,0 +1,25 @@
+-MISSION-	1
+SP	50
+JunpeisPoint	0
+JunpeisOtakebi	1
+
+-LIST-
+NmlAtk5A	c
+NmlAtk5A2nd	c
+NmlAtk5A3rd	c
+AirSpinHomerunA	|SpinHomerunA	|AirSpinHomerunAClean	|SpinHomerunAClean	+StylishSpin
+UltimateGrandSlamA	a	+StylishHomerun
+UltimateGrandSlamA	+UltimateGrandSlamABUpper
+
+-KEY-
+5	-A	3
+5	-	12
+5	-A	3
+5	-	17
+5	-A	3
+5	-	32
+5	-A	3
+5	-	52
+5	-A	3
+5	-	62
+5	-A	3

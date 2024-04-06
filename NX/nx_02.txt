@@ -1,0 +1,99 @@
+-MISSION-	2
+SP 100
+NoMiss
+Junhudo
+
+-LIST-
+Shinkuha_YarinageC |Shinkuha_TatsumakiC
+Shinkuha_TatsumakiD
+Shinkuha_TatsumakiCD
+PersonaGaleSlashA
+PersonaGaleSlashB
+PersonaGaleSlashAB
+PersonaGodHandC_Atk
+PersonaGodHandD_Atk
+PersonaGodHandCD_Atk
+NmlAtkAir22C a
+NmlAtkAir22D a
+
+-KEY-
+5	-	12
+2	-	3
+3	-	3
+6	C	3
+5	C	9
+5	-	44
+6	-	4
+5	-	6
+6	-	27
+5	-	9
+6	-	20
+3	-	2
+2	-	5
+3	-	3
+6	D	4
+5	D	69
+5	-	32
+6	-	3
+5	-	6
+6	-	30
+5	-	17
+6	-	10
+5	-	7
+2	-	3
+3	-	3
+6	CD	3
+5	CD	62
+5	-	58
+6	-	4
+5	-	6
+6	-	11
+5	-	4
+2	-	3
+1	-	2
+4	-	3
+5	A	9
+5	-	83
+2	-	3
+1	-	4
+4	B	2
+5	B	9
+5	-	108
+2	-	2
+1	-	5
+4	AB	9
+5	-	101
+2	-	5
+5	-	16
+2	-	2
+1	-	3
+4	C	3
+5	C	6
+5	-	92
+2	-	2
+1	-	4
+4	D	3
+5	D	11
+5	-	64
+2	-	2
+1	-	4
+4	CD	3
+5	CD	11
+5	-	64
+4	-	2
+7	-	7
+4	-	2
+5	-	7
+2	-	4
+5	-	5
+2	-	3
+2	C	4
+5	-	85
+8	-	7
+5	-	4
+2	-	4
+5	-	6
+2	-	4
+2	D	2
+5	D	3
+5	-	82

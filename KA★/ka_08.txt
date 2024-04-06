@@ -1,0 +1,41 @@
+-MISSION-	8
+SP 25
+Tooi
+
+-LIST-
+Persona5C c
+BusterAttackAB |AirBusterAttackAB
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk2B c
+PersonaAntiAirC
+Oiuchi +OiuchiA
+-KEY-
+5	-	20
+5	C	8
+5	-	19
+2	-	5
+3	-	2
+6	-	1
+6	AB	6
+5	AB	2
+5	B	1
+5	-	60
+5	A	5
+5	-	7
+5	A	9
+5	-	4
+2	-	8
+2	B	9
+2	-	22
+3	-	2
+6	-	2
+6	C	6
+6	-	4
+5	-	78
+2	-	7
+3	-	3
+6	-	1
+6	A	5
+6	-	1
+5	-	90

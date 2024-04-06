@@ -1,0 +1,125 @@
+-MISSION-	29
+SP 100
+Burst	100
+Jump
+Tooi
+Counter
+
+-LIST-
+NmlAtk2B c
+AirTosshinB
+CmnActHeatUp +HeatUp a c
+DashUpperB
+HaseiWavingC |WavingC a
+BodyBlowA
+CorkScrewAB
+WavingC |HaseiWavingC a
+BodyBlowB +BodyBlowB_Charge
+AirTosshinAB
+DashUpperA
+Persona5C c
+ReversalAction
+NmlAtk2A c
+NmlAtk5A2nd c
+BodyBlowA
+CorkScrewA
+UltimateUpperB
+UltimateUpperAB 
+
+-KEY-
+5 - 5
+6	-	5
+5	-	3
+6	-	10
+2	-	3
+2	B	5
+5	B	4
+2	-	8
+9	-	8
+6	-	2
+2	-	3
+1	-	4
+4	B	4
+5	B	7
+5	-	40
+5	ACD	11
+5	-	39
+2	-	8
+3	-	4
+6	C	3
+5	C	2
+5	-	2
+8	-	3
+8	B	4
+5	B	3
+5	-	10
+4	-	5
+4	C	31
+4	AC	7
+4	-	7
+4	C	9
+5	-	5
+6	-	3
+6	AB	5
+5	AB	3
+2	-	3
+1	-	5
+4	C	6
+4	-	5
+4	B	43
+5	B	2
+5	-	5
+2	-	6
+2	AC	5
+5	AC	2
+5	-	6
+2	-	7
+1	-	6
+4	AB	2
+5	AB	10
+5	-	24
+8	-	4
+8	A	6
+5	A	3
+5	-	13
+5	C	7
+5	-	24
+2	-	4
+3	-	4
+6	C	2
+5	C	2
+5	-	9
+5	BD	21
+5	-	75
+2	-	2
+2	A	6
+5	-	5
+5	A	6
+5	-	3
+5	A	7
+5	-	4
+5	A	5
+5	-	55
+4	-	4
+4	A	6
+5	A	2
+5	-	4
+6	-	5
+6	A	3
+5	A	4
+5	-	2
+2	-	7
+3	-	2
+6	C	8
+2	-	2
+3	-	3
+6	B	4
+5	B	3
+5	-	114
+2	-	7
+3	-	2
+6	-	6
+2	-	8
+6	-	4
+5	AB	11
+5	-	61

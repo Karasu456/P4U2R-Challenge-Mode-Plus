@@ -1,0 +1,88 @@
+-MISSION-	19
+Hashi
+SP	50
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5B c
+ScrewDriverB
+NmlAtk5B c
+Persona5C c
+NmlAtk2B c
+_HighJump a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B c
+PersonaAir2C c
+MoudokuTsumeA
+AirMissileD |MissileD |MissileBomb
+CmnFAirDash i c
+PersonaAir2C c
+AirChudan
+MissileBomb nOnly
+
+-KEY-
+5	-	16
+6	-	5
+5	-	5
+6	-	13
+6	A	8
+6	-	5
+6	A	38
+5	A	2
+5	-	8
+5	B	8
+5	-	3
+2	-	4
+3	-	2
+6	-	1
+6	B	3
+5	B	2
+5	-	84
+5	B	9
+5	-	8
+5	C	14
+5	-	26
+2	-	2
+2	B	7
+5	B	2
+5	-	4
+2	-	6
+3	-	2
+9	-	6
+5	-	4
+5	A	10
+5	-	24
+5	B	7
+5	-	2
+2	-	6
+2	C	9
+2	-	15
+1	-	4
+4	-	1
+4	A	3
+5	A	6
+5	-	8
+2	-	5
+3	-	2
+6	-	4
+5	-	2
+2	-	4
+3	D	3
+6	D	4
+5	D	101
+6	D	4
+5	D	4
+6	D	16
+3	D	3
+2	CD	9
+2	D	1
+5	D	11
+5	ABD	8
+5	ABD	1
+5	D	37
+5	-	90
+5	D	3
+8	D	11
+5	D	15
+5	-	19

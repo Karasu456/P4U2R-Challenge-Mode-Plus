@@ -1,0 +1,74 @@
+-MISSION-	6
+Tooi
+Jump
+
+-LIST-
+MatoNageA a
+eff_MatoNage_Atk
+Air2B_Atk +Air2B_Atk_Charge
+5B_Atk
+CmnFAirDash i c
+Air5B_Atk
+5B_Atk
+2B_Atk +2B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+CmnActJumpExUpper	a	c	nOnly
+Air5B_Atk +Air5B_Atk_Charge
+MoonsaltJumpC a n2miss
+MoonsaltArrowConfuse
+
+-KEY-
+5	-	6
+2	-	3
+1	-	2
+4	-	2
+4	A	2
+5	A	8
+5	-	69
+8	-	10
+5	B	9
+5	-	28
+6	-	3
+5	-	5
+6	-	4
+9	-	5
+8	-	2
+2	B	28
+5	B	5
+5	-	9
+6	-	4
+5	-	4
+6	-	5
+6	B	6
+5	B	4
+5	-	10
+9	-	4
+5	-	4
+6	-	9
+6	B	3
+5	B	8
+6	-	10
+5	-	14
+5	B	9
+5	-	2
+2	-	6
+2	B	14
+5	B	16
+5	-	2
+8	-	5
+5	B	31
+8	-	4
+8	B	2
+5	B	16
+2	B	4
+3	B	3
+6	-	2
+6	C	3
+5	C	9
+5	-	13
+5	B	9
+5	-	41
+-EKEY-
+8	-	4
+4	-	35
+5	-	12

@@ -1,0 +1,72 @@
+-MISSION-	8
+Tooi
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd_P4U2	c
+Sensu_2B
+Persona5C c
+Sensu_5B
+Sensu_5B2nd
+CmnFAirDash i c
+NmlAtkAir5A c
+NmlAtkAir5A c
+Sensu_Air5B
+Sensu_5B
+Persona2C c
+Ashibarai c
+LandAgiA
+AgishotA
+-KEY-
+5	-	19
+6	-	4
+5	-	6
+6	-	10
+6	A	2
+5	A	3
+5	-	6
+5	A	6
+5	-	5
+2	-	9
+2	B	6
+5	B	3
+5	-	7
+6	-	9
+6	C	5
+6	-	7
+6	B	3
+6	-	6
+6	B	3
+6	-	5
+6	B	4
+6	-	4
+6	B	4
+6	-	4
+6	B	5
+6	-	3
+6	B	4
+5	B	2
+5	-	8
+9	-	3
+8	-	1
+5	-	6
+6	-	6
+6	A	3
+5	A	1
+5	-	6
+5	A	6
+5	-	12
+5	B	8
+5	-	27
+5	B	8
+5	B	1
+5	-	7
+2	C	12
+5	-	7
+2	AB	7
+2	-	9
+3	-	2
+6	-	1
+6	A	3
+6	-	9
+5	-	25

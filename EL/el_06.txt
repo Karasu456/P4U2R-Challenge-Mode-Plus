@@ -1,0 +1,70 @@
+-MISSION-	6
+HashiEx
+
+-LIST-
+NmlAtk2C	a i	+NmlAtk2Cmiss
+Persona5C	c	|Persona5Cex
+TatsumakiHit_D
+NmlAtk5A c
+elef203_CardShot
+Persona5C	c	|Persona5Cex
+Persona2C c
+PersonaMahabufudainB
+Persona5D c
+elef251_CardShotAir
+NmlAtkAir2B c
+CmnActJumpExUpper a c nOnly
+PersonaAir5C c
+
+-KEY-
+5	-	10
+7	-	3
+8	-	2
+5	-	4
+4	-	17
+5	-	6
+2	-	4
+2	C	5
+5	-	56
+6	-	4
+5	-	6
+6	-	32
+6	C	4
+5	C	2
+5	-	35
+2	-	4
+3	-	4
+6	D	3
+5	D	6
+5	-	7
+8	-	47
+5	-	34
+5	A	5
+5	-	3
+5	B	8
+5	-	36
+5	C	9
+5	-	30
+2	-	6
+2	C	7
+2	-	24
+1	-	3
+4	B	2
+5	B	5
+5	-	117
+5	D	12
+5	-	70
+4	-	2
+7	-	5
+4	B	3
+5	B	5
+5	-	18
+2	-	4
+2	B	6
+5	B	3
+5	-	4
+6	-	2
+9	-	4
+5	-	2
+5	C	8
+5	-	124

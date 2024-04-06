@@ -1,0 +1,61 @@
+-MISSION-	16
+Crouch
+Hashi
+
+-LIST-
+Chudan c
+ChudanOiuchi c
+ChudanBlow c
+PersonaAir2D c
+NmlAtkAir2B c
+Persona5C c
+100inchPunchB
+Persona5C c
+Persona2C c
+100inchPunchA
+DragonKickC
+-KEY-
+6	-	5
+5	-	4
+6	-	8
+6        AB        4
+5        AB        5
+5        -        21
+5        AB        76
+5        9        1
+5        D        9
+5        -        5
+8        -        15
+5        -        1
+2        -        4
+2        D        9
+2        -        4
+5        -        50
+2        -        3
+2        B        5
+2        -        2
+5        -        19
+5        C        5
+5        -        12
+2	-	3
+1	-	2
+4	-	1
+4	B	1
+5	B	5
+5	-	64
+5	C	10
+5	-	1
+2	-	16
+2	C	13
+5	-	25
+2	-	3
+1	-	2
+4	-	1
+4	A	1
+5	A	5
+5	-	12
+2	-	3
+3	-	2
+6	-	1
+6	C	1
+5	C	5

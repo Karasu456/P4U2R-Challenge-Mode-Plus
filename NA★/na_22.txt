@@ -1,0 +1,140 @@
+-MISSION-	22
+Counter
+Hashi
+Kakusei
+SP 150
+
+-LIST-
+BanditRevolverB
+Persona5C c
+Ashibarai c
+PersonaAssaultC
+Persona5C c
+CmnFAirDash i c
+PersonaAir5C c
+Persona5C c
+PersonaAssaultC
+Persona5C c
+PersonaAir5D c
+CmnCancelBurst i c
+PersonaAssaultCD
+DanganKakushiAB
+Ashibarai c
+DanganUltimate
+DanganUltimate +DanganUltimateTama
+DanganUltimate +DanganUltimateTama
+UltimateWalkingShotKick +UltimateWalkingShotKickC
+
+-KEY-
+6	-	4
+5	-	4
+6	-	4
+2	-	3
+3	-	2
+6	B	3
+5	-	65
+5	D	10
+6	-	4
+5	-	4
+6	-	4
+6	C	34
+2	-	3
+2	AB	7
+2	-	4
+3	-	2
+6	-	3
+5	C	3
+5	-	7
+5	C	3
+5	-	5
+5	C	2
+5	-	6
+5	C	3
+5	-	5
+5	C	3
+5	-	5
+5	C	3
+5	-	5
+5	C	3
+5	-	4
+5	C	4
+5	-	3
+5	C	5
+5	-	7
+6	-	1
+9	-	4
+5	-	5
+6	-	9
+6	C	10
+6	-	1
+5	-	27
+5	C	9
+5	-	17
+2	-	5
+3	-	2
+6	C	4
+5	C	4
+5	-	8
+5	C	3
+5	-	5
+5	C	3
+5	-	5
+5	C	3
+5	-	5
+5	C	4
+5	-	5
+5	C	3
+5	-	4
+5	C	6
+5	-	7
+2	-	3
+7	-	4
+5	-	4
+5	D	7
+5	-	15
+5	ACD	3
+5	-	6
+5	ACD	4
+5	-	31
+6	-	3
+5	-	5
+6	-	20
+6	C	4
+5	C	1
+5	-	15
+2	-	5
+3	-	4
+6	CD	9
+2	-	3
+3	-	2
+6	-	4
+2	-	4
+3	-	2
+6	AB	3
+5	-	253
+6	-	3
+5	-	5
+6	-	18
+3	-	3
+2	AB	6
+5	-	3
+2	-	4
+1	-	2
+4	-	4
+2	-	2
+2	A	1
+1	A	1
+1	-	2
+4	-	3
+5	-	1
+5	A	3
+5	-	5
+5	A	4
+5	-	12
+5	A	3
+5	-	61
+5	A	4
+5	-	51
+5	A	4
+5	-	48
+5	C	61

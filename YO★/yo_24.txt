@@ -1,0 +1,112 @@
+-MISSION-	24
+Hashi
+SP 100
+HP 45
+Counter
+HPRecoverEnemyOnly        0
+
+-LIST-
+Persona5D c
+ReversalAction a
+NmlAtk5D2nd i c
+NmlAtk2B c
+Persona2C c
+VSlashC
+WarpLowSlashC
+_Kakusei c
+TatsumakiD
+CmnOneMoreCancel i c
+WarpLowSlashC
+UltimateSukukajaC a
+KakeagariB
+UltimateKunaiC        |UltimateKunaiD        +UltimateKunai
+-KEY-
+5	-	6
+5	D	10
+5	-	34
+6	-	4
+5	-	4
+6	-	7
+6	BD	6
+5	BD	2
+5	-	42
+2	-	3
+2	B	7
+2	-	8
+2	C	7
+2	-	6
+5	-	12
+8	-	6
+5	-	2
+2	-	3
+3	-	2
+6	-	2
+6	C	2
+6	-	1
+5	-	23
+2	-	7
+2	C	3
+2	-	2
+5	-	21
+2	-	4
+1	-	2
+4	-	5
+2	-	5
+1	-	1
+4	-	2
+4	D	3
+5	-	20
+4	-	77
+7	-	10
+4	-	1
+5	-	20
+4	-	2
+7	-	7
+5	-	16
+8	-	1
+7	-	6
+4	-	1
+5	-	15
+4	-	9
+5	-	10
+4	-	24
+5	-	1
+5	ABC	3
+5	-	2
+2	-	3
+2	C	3
+2	-	2
+5	-	3
+2	-	4
+3	-	1
+6	-	5
+5	-	1
+2	-	3
+3	-	3
+6	-	2
+5	-	3
+2	-	2
+3	-	2
+6	-	1
+6	C	2
+5	C	1
+5	-	100
+2	-	3
+1	-	3
+4	-	2
+4	B	3
+4	-	1
+5	-	2
+2	-	5
+3	-	2
+6	-	3
+5	-	3
+2	-	3
+3	-	2
+6	-	3
+5	-	2
+2	-	1
+2	D	2
+2	-	1
+6	-	4
+5	-	345

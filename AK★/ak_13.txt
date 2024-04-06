@@ -1,0 +1,46 @@
+-MISSION-	13
+Jump
+
+-LIST-
+NmlAtkAir5B c
+NmlAtkAir5A c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+NmlAtkAir5A c
+NmlAtk2B c
+_HighJump a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B c
+AirTosshinA
+
+-KEY-
+5	-	10
+6	-	3
+9	-	6
+6	-	1
+5	B	10
+5	-	24
+5	A	6
+5	-	4
+6	-	1
+9	-	6
+5	B	7
+5	-	34
+5	A	6
+5	-	10
+2	-	4
+2	B	5
+5	B	1
+5	-	4
+2	-	4
+9	-	7
+5	-	3
+5	A	8
+5	-	14
+5	B	7
+5	-	3
+2	-	20
+1	-	2
+4	A	3
+5	A	1
+5	-	40

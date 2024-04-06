@@ -1,0 +1,93 @@
+-MISSION-	6
+SP 50
+
+-LIST-
+NmlAtk5B c
+NmlAtk2B c
+Ashibarai c
+PersonaKokutengekiC
+UltimateChargeA a
+NmlAtk5B c
+Persona5C c
+PersonaAir5C c
+AirAbaremakuriB
+NoutenotoshiB
+Persona5C c
+Persona2C c
+100inchPunchB
+DragonKickC
+
+-KEY-
+5	-	13
+6	-	4
+5	-	5
+6	-	12
+6	B	2
+5	B	6
+5	-	1
+2	-	5
+2	B	8
+2	-	7
+2	AB	5
+5	AB	3
+5	-	3
+2	-	4
+1	-	2
+4	-	3
+4	C	3
+5	C	4
+5	-	2
+2	-	5
+3	-	2
+6	-	3
+5	-	2
+2	-	2
+3	-	2
+6	A	3
+6	-	1
+5	-	5
+5	A	5
+5	-	29
+6	-	3
+5	-	5
+6	-	6
+6	B	6
+5	B	2
+5	-	4
+5	C	11
+5	-	14
+6	-	4
+9	-	7
+6	-	2
+5	-	3
+5	C	10
+2	-	4
+3	-	3
+6	B	3
+5	B	6
+5	-	6
+6	-	25
+5	-	23
+2	-	5
+3	-	2
+6	B	4
+5	B	10
+5	-	3
+6	-	17
+5	-	17
+6	-	14
+5	-	19
+5	C	12
+5	-	3
+2	-	7
+2	C	13
+2	-	5
+5	-	7
+2	-	4
+1	-	2
+4	B	3
+5	B	4
+5	-	19
+2	-	4
+3	-	3
+6	C	3

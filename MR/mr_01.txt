@@ -1,0 +1,22 @@
+-MISSION-	1
+MariesOtenki	1
+SP	50
+
+-LIST-
+NmlAtk5A	c
+NmlAtk5A2nd	c
+NmlAtk5A3rd	c
+AssaultA	+AssaultA_Stylish
+mr430B_Atk	+SPSkill_Stylish
+
+-KEY-
+5	-	15
+5	-A	3
+5	-	9
+5	-A	4
+5	-	15
+5	-A	4
+5	-	22
+5	-A	4
+5	-	62
+5	-A	3

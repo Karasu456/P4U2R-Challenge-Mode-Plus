@@ -1,0 +1,147 @@
+-MISSION-	22
+SP 100
+Kakusei
+Tooi
+Counter
+
+-LIST-
+PersonaTentarahuC
+NmlAtk2B c
+NmlAtkAir2B	+NmlAtkAirAB	c
+MoonsaltSlashA
+MoonsaltSlashB
+MoonsaltSlashB
+VSlashD +VSlashHaseiD
+WarpLowSlashC
+NmlAtk2A c
+Persona2C c
+PersonaAir5C c
+KunaiHit_CD
+VSlashC +VSlashHaseiC
+UltimateSukukajaC a
+NmlAtkAir2B	+NmlAtkAirAB	c
+KunaiHit_D
+KunaiHit_CD
+KunaiHit_C
+UltimateKunaiC        |UltimateKunaiD        +UltimateKunai
+
+-KEY-
+2	-	5
+3	-	4
+6	C	3
+6	-	2
+5	-	109
+6	-	3
+5	-	5
+6	-	4
+3	-	2
+3	B	2
+2	B	3
+5	-	12
+8	-	7
+5	-	3
+5	AB	3
+5	-	11
+2	-	4
+3	-	3
+6	-	2
+6	A	4
+5	-	22
+5	A	5
+5	-	2
+4	-	7
+4	B	3
+5	B	2
+5	-	6
+5	B	6
+5	-	7
+5	B	6
+5	-	4
+6	-	3
+6	B	5
+6	-	2
+5	-	6
+5	B	6
+5	-	7
+5	B	5
+5	-	8
+4	-	3
+4	D	4
+5	-	75
+2	-	5
+2	C	4
+5	-	51
+2	-	6
+2	A	5
+2	-	7
+2	C	3
+2	-	10
+5	-	16
+8	-	7
+5	-	3
+5	C	3
+5	-	21
+2	-	5
+2	AB	3
+5	-	23
+6	-	4
+5	-	4
+6	-	13
+5	-	4
+2	-	4
+3	-	2
+6	-	2
+6	C	3
+5	-	36
+2	-	4
+2	C	3
+5	-	15
+2	-	5
+3	-	3
+6	-	4
+2	-	4
+3	-	5
+6	C	3
+5	-	102
+2	-	4
+2	C	5
+5	-	20
+8	-	7
+5	-	3
+5	B	4
+5	-	10
+5	AB	3
+5	-	18
+2	-	6
+2	B	3
+2	-	35
+2	AB	4
+2	-	4
+5	-	11
+4	-	4
+5	-	4
+4	-	6
+5	-	7
+2	-	6
+2	A	3
+2	-	2
+5	-	5
+2	-	4
+1	-	3
+4	-	2
+4	A	3
+4	-	2
+5	-	2
+2	-	4
+1	-	4
+4	-	3
+4	C	3
+5	-	40
+2	-	5
+3	-	2
+6	-	3
+5	-	3
+2	-	3
+3	-	3
+6	-	3
+5	D	3

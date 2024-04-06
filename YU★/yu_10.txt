@@ -1,0 +1,67 @@
+-MISSION-	10
+Hashi
+PersonaBreak
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+Sensu_5B
+Sensu_5B2nd
+CmnFAirDash i c
+NmlAtkAir5A c
+NmlAtkAir5A c
+NmlAtkAir5A c
+NmlAtk2A c
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+Ashibarai c
+-KEY-
+6	-	4
+5	-	5
+6	-	15
+6	A	1
+5	A	2
+5	-	6
+5	A	4
+5	-	5
+5	A	5
+5	-	14
+5	B	3
+5	-	5
+5	B	4
+5	-	4
+5	B	4
+5	-	7
+6	-	2
+9	-	3
+8	-	1
+5	-	4
+6	-	6
+5	A	3
+5	-	6
+5	A	4
+5	-	3
+5	A	5
+5	-	3
+5	A	6
+5	-	3
+5	A	5
+5	-	14
+5	A	3
+5	-	12
+2	-	3
+2	A	6
+2	-	6
+3	-	2
+6	-	1
+5	A	5
+5	-	7
+5	A	6
+5	-	3
+5	A	7
+5	-	6
+2	-	4
+2	A	1
+2	AB	4
+2	A	1
+2	-	11

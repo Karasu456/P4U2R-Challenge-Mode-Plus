@@ -1,0 +1,71 @@
+-MISSION-	5
+SP        100
+NoMiss
+
+-LIST-
+Ashibarai c
+Oiuchi +OiuchiA
+NmlAtkThrow c
+Oiuchi +OiuchiA
+PCommandNageC
+Oiuchi +OiuchiA
+NmlAtk2B c
+PersonaAntiAirC
+OiuchiAB
+-KEY-
+5	-	17
+2	-	4
+2	AB	5
+5	AB	2
+5	-	17
+2	-	2
+3	-	1
+3	A	1
+6	A	4
+5	A	2
+5	-	72
+6	-	13
+5	-	10
+5	CD	11
+5	-	53
+2	-	3
+1	-	2
+4	A	3
+5	A	5
+5	-	24
+2	-	2
+1	-	2
+4	-	4
+5	-	60
+4	-	11
+5	-	3
+2	-	5
+3	-	2
+6	-	4
+5	C	9
+5	-	189
+2	-	4
+1	-	2
+4	A	3
+5	A	5
+5	-	8
+2	-	2
+1	-	1
+4	-	8
+5	-	64
+2	-	4
+2	B	3
+5	B	4
+5	-	13
+2	-	4
+1	-	2
+4	-	1
+4	C	2
+5	C	5
+5	-	108
+2	-	4
+1	A	1
+1	AB	1
+4	AB	2
+5	AB	3
+5	-	27

@@ -1,0 +1,138 @@
+-MISSION-	2
+SP 100
+NoMiss
+Junhudo
+Tooi
+
+-LIST-
+AbaremakuriA
+NoutenotoshiA
+AbaremakuriB
+NoutenotoshiB
+AbaremakuriAB
+NoutenotoshiAB
+100inchPunchA
+100inchPunchB
+100inchPunchAB
+DragonKickC
+DragonKickD
+DragonKickCD
+PersonaKokutengekiC
+PersonaKokutengekiD
+PersonaKokutengekiCD
+
+-KEY-
+5	-	15
+6	-	42
+2	-	4
+3	-	4
+6	A	3
+5	A	13
+6	-	11
+5	-	12
+2	-	4
+3	-	2
+6	-	2
+6	A	2
+5	A	9
+5	-	61
+6	-	3
+5	-	6
+6	-	13
+5	-	14
+2	-	3
+3	-	3
+6	B	3
+5	B	13
+5	-	53
+2	-	4
+3	-	2
+6	B	4
+5	B	5
+5	-	110
+2	-	3
+3	-	2
+3	AB	2
+6	AB	2
+5	AB	6
+5	A	2
+5	-	47
+2	-	3
+3	-	4
+6	-	2
+6	AB	2
+5	AB	11
+5	-	113
+2	-	2
+1	-	2
+4	A	2
+5	A	6
+5	-	65
+2	-	3
+1	-	2
+4	B	3
+5	B	8
+5	-	92
+2	-	3
+1	-	4
+4	AB	3
+5	AB	6
+5	-	99
+2	-	2
+3	-	4
+6	C	3
+5	C	10
+5	-	135
+7	AC	5
+5	AC	5
+4	C	2
+4	-	7
+5	-	24
+2	-	3
+1	-	2
+4	B	3
+5	B	6
+5	-	31
+2	-	5
+3	-	3
+6	-	2
+6	D	2
+5	D	12
+6	-	10
+5	-	67
+5	AC	10
+5	C	4
+5	-	12
+2	-	3
+1	-	2
+4	B	5
+5	B	8
+5	-	31
+2	-	3
+3	-	3
+6	-	4
+6	CD	5
+5	-	90
+2	-	3
+1	-	2
+4	C	3
+5	C	5
+5	-	63
+2	-	4
+1	-	2
+4	D	3
+5	D	10
+5	-	77
+2	-	4
+1	-	2
+4	CD	3
+5	CD	9
+5	-	160
+2	-	4
+1	-	4
+4	-	2
+5	-	2
+2	-	3
+1	-	2
+4	-	4
+5	CD	9

@@ -1,0 +1,20 @@
+-MISSION-	1
+SP	50
+
+-LIST-
+NmlAtk5A	c
+NmlAtk5A2nd_P4U2	c
+NmlAtk5A3rd_P4U2	c
+ScrewDriverA	|AirScrewDriverA	+StylishDriver
+MissileC	|AirMissileC	|MissileBomb	+StylishMissile
+
+-KEY-
+5	-A	3
+5	-	11
+5	-A	3
+5	-	39
+5	-A	3
+5	-	65
+5	-A	3
+5	-	37
+5	-A	3

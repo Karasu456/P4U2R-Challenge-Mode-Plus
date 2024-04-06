@@ -1,0 +1,73 @@
+-MISSION-	14
+Tooi
+Jump
+
+-LIST-
+Persona2D c
+2Dhikiyose
+NmlAtk5Btame
+Ashibarai c
+IceMiller_ShotC
+NmlAtk5Btame
+NmlAtk2Btame
+IceMiller_ShotD
+NmlAtk5Btame
+Chudan c
+ChudanOiuchi c
+ChudanBlow c
+_Dash i c
+
+-KEY-
+2	-	30
+2	D	6
+2	-	5
+2	D	4
+2	-	5
+2	D	4
+2	-	4
+2	D	8
+2	-	3
+5	-	7
+4	-	3
+4	B	16
+1	B	9
+1	-	13
+1	AB	13
+1	B	1
+1	-	13
+7	-	3
+1	-	2
+1	C	5
+1	-	16
+4	-	1
+5	-	17
+6	-	4
+6	B	12
+5	B	5
+2	B	11
+2	-	7
+2	B	25
+2	-	1
+8	-	4
+8	D	1
+2	D	10
+2	-	9
+5	-	29
+6	-	2
+6	B	20
+5	B	10
+5	-	2
+6	-	5
+5	A	1
+5	AB	15
+6	AB	4
+6	-	17
+5	-	8
+5	A	1
+5	AB	75
+5	B	1
+5	D	9
+5	-	19
+6	-	4
+5	-	4
+6	-	17

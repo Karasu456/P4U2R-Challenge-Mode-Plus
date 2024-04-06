@@ -1,0 +1,41 @@
+-MISSION-	9
+Hashi
+
+-LIST-
+NmlAtk5B c
+Persona5C c
+PersonaLowAssaultC
+NmlAtk5A c
+Persona5C c
+Persona2C c
+MidAssaultB
+
+-KEY-
+5	-	23
+6	-	4
+5	-	4
+6	-	4
+6	B	6
+5	B	6
+5	-	8
+5	C	7
+2	-	1
+5	-	5
+2	-	3
+1	-	3
+4	-	2
+4	C	3
+5	C	6
+5	-	48
+5	A	5
+5	-	4
+5	C	9
+5	-	11
+2	-	6
+2	C	11
+2	-	21
+1	-	3
+4	-	2
+4	B	2
+5	B	9
+5	-	55

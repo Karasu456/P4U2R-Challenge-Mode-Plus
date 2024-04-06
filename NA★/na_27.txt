@@ -1,0 +1,58 @@
+-MISSION-	27
+SP	20
+Burst	100
+
+-LIST-
+NmlAtkThrow c
+CmnActHeatUp +HeatUp a c
+TrapD a
+BanditRevolverA
+DanganD
+KamaeA a
+DanganLastAB |DanganLastB +DanganLastB nOnly
+DanganKakushiAB
+
+-KEY-
+5	-	14
+6	-	5
+5	-	6
+6	-	5
+6	CD	10
+5	CD	2
+5	D	1
+5	-	51
+5	ACD	4
+5	-	45
+2	-	4
+1	-	2
+4	D	5
+5	D	5
+5	-	19
+2	-	4
+3	-	1
+3	A	2
+6	A	4
+5	A	3
+5	-	34
+6	-	1
+6	D	7
+5	D	2
+5	-	1
+2	-	3
+1	-	5
+4	A	5
+5	-	5
+5	C	1
+5	AC	6
+5	-	3
+2	-	3
+3	-	2
+6	-	5
+5	-	1
+2	-	3
+3	-	1
+3	A	1
+6	AB	4
+6	B	1
+5	B	1
+5	-	265

@@ -1,0 +1,117 @@
+-MISSION-	3
+Kakusei
+Junhudo
+NoMiss
+SP        150
+
+-LIST-
+UltimateLaserLandC |UltimateLaserAirC
+UltimateLaserLandD |UltimateLaserAirD
+UltimateLaserLandCD |UltimateLaserAirCD
+UltimateAssaultA
+UltimateAssaultB
+UltimateAssaultAB
+UltimateBladeC
+UltimateBladeD
+UltimateBladeCD
+-KEY-
+5        -        12
+2        -        3
+3        -        3
+6        -        4
+5        -        1
+2        -        3
+3        -        2
+3        C        1
+6        C        3
+5        C        3
+5        -        203
+2        -        4
+3        -        3
+6        -        3
+5        -        2
+2        -        4
+3        -        2
+6        -        2
+6        D        2
+5        D        8
+5        -        157
+6        -        5
+5        -        5
+6        -        30
+5        -        11
+2        -        5
+3        -        2
+6        -        4
+5        -        1
+2        -        4
+3        -        2
+6        -        1
+6        CD        2
+5        CD        10
+5        -        183
+6        -        5
+5        -        5
+6        -        12
+5        -        9
+2        -        5
+3        -        2
+6        -        3
+5        -        1
+2        -        5
+3        -        2
+6        A        3
+5        A        5
+5        -        200
+5        -        9
+2        -        5
+3        -        2
+6        -        3
+5        -        1
+2        -        5
+3        -        2
+6        B        3
+5        B        5
+5        -        168
+2        -        3
+3        -        3
+6        -        3
+5        -        1
+2        -        4
+3        -        2
+6        -        1
+6        AB        2
+5        AB        2
+5        -        158
+2        -        4
+1        -        2
+4        -        2
+5        -        3
+2        -        3
+1        -        2
+4        C        3
+5        C        1
+5        -        300
+2        -        4
+1        -        2
+4        -        2
+5        -        3
+2        -        3
+1        -        2
+1        D        1
+4        D        2
+5        D        7
+5        -        291
+6        -        5
+5        -        5
+6        -        20
+2        -        4
+1        -        4
+4        -        2
+5        -        2
+2        -        3
+1        -        2
+4        -        3
+5        -        1
+5        CD        9
+5        -        300

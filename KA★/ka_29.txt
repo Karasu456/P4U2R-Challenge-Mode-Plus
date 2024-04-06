@@ -1,0 +1,79 @@
+-MISSION-	29
+SP	100
+
+-LIST-
+NmlAtk2B c
+PersonaAntiAirC
+CmnActHeatUp +HeatUp a c
+CmnFAirDash i c
+NmlAtkAir5B c
+NmlAtk2B c
+NmlAtkAir5B c
+PersonaAir5C c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+PersonaAir5C c
+AirBusterAttackB
+UltimateCriticalCombo +UltimateCriticalComboA
+CmnOneMoreCancel i c
+UltimateThrowCD
+-KEY-
+5        -        19
+2        -        13
+2        B        11
+2        -        11
+3        -        2
+6        -        2
+6        C        8
+5        C        2
+5        -        102
+5        D        1
+5        ACD        8
+5        D        1
+5        -        48
+9        -        5
+6        -        1
+5        -        4
+6        -        11
+6        B        2
+5        B        8
+5        -        3
+2        -        20
+2        B        12
+2        -        6
+5        -        2
+9        -        16
+9        B        4
+5        B        6
+5        -        11
+5        C        10
+5        -        28
+9        -        3
+9        B        5
+5        B        2
+5        -        12
+5        C        10
+5        -        23
+2        -        4
+3        -        2
+6        B        7
+5        B        1
+5        -        38
+2        -        6
+3        -        1
+6        -        5
+3        -        2
+3        A        1
+6        A        2
+5        A        5
+5        -        136
+5        ABC        6
+2        B        1
+2        -        4
+1        -        1
+4        -        5
+1        -        4
+4        -        2
+4        CD        3
+5        CD        19
+5        -        381

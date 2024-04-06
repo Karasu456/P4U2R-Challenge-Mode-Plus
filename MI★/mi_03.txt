@@ -1,0 +1,128 @@
+-MISSION-	3
+NoMiss
+Junhudo
+Kakusei
+SP 150
+
+-LIST-
+UltimateRenzokuA
+UltimateRenzokuB
+UltimateRenzokuAB
+aref_431_colC
+aref_431_colD
+aref_431_colCD
+UltimateTsuraraThrough a
+Tsurara_ShotC
+UltimateTsuraraThroughCD a
+Tsurara_ShotD
+
+-KEY-
+5	-	9
+2	-	4
+3	-	3
+6	-	2
+5	-	2
+2	-	4
+3	-	3
+6	A	146
+6	-	77
+5	-	44
+6	-	5
+5	-	5
+6	-	24
+5	-	14
+2	-	5
+3	-	2
+6	-	3
+5	-	2
+2	-	3
+3	-	1
+3	B	1
+6	B	4
+5	B	38
+6	B	87
+5	B	34
+5	-	23
+6	-	62
+5	-	40
+6	-	4
+5	-	6
+6	-	22
+5	-	14
+2	-	4
+3	-	2
+6	-	3
+5	-	2
+2	-	3
+3	-	3
+6	-	2
+6	AB	2
+5	AB	47
+6	AB	50
+5	AB	83
+5	-	136
+2	-	3
+3	-	4
+6	-	4
+5	-	1
+2	-	3
+3	-	3
+6	-	2
+6	C	1
+5	C	5
+5	-	152
+2	-	4
+3	-	3
+6	-	4
+5	-	1
+2	-	3
+3	-	3
+6	-	1
+6	D	2
+5	D	6
+5	-	211
+2	-	4
+3	-	2
+6	-	3
+5	-	3
+2	-	3
+3	-	2
+6	CD	3
+5	CD	4
+5	D	1
+5	-	85
+2	-	3
+1	-	8
+2	-	1
+5	-	130
+2	-	5
+1	-	2
+4	-	4
+1	-	4
+1	C	3
+4	C	2
+5	C	2
+5	-	83
+5	C	8
+5	-	38
+5	C	7
+5	-	63
+5	C	4
+5	-	58
+5	C	5
+5	-	55
+5	C	7
+5	-	75
+2	-	4
+1	-	2
+4	-	4
+2	-	5
+1	-	3
+4	CD	3
+5	CD	4
+5	D	2
+5	-	71
+5	D	8
+5	-	27
+5	D	7
+5	-	90

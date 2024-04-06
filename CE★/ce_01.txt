@@ -1,0 +1,21 @@
+-MISSION- 1
+SP	50
+
+-LIST-
+NmlAtk5A	c
+NmlAtk5A2nd_P4U2	c
+NmlAtk5A3rd_P4U2	c
+100inchPunchA	+Stylish100inchPunch
+PersonaGodHandD	+StylishGodHand
+
+-KEY-
+6	-	15
+5	-A	3
+5	-	8
+5	-A	3
+5	-	31
+5	-A	3
+5	-	60
+5	-A	3
+5	-	38
+5	-A	3

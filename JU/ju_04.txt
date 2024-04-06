@@ -1,0 +1,13 @@
+-MISSION-	4
+Ichigeki
+SP	100
+JunpeisPoint	0
+JunpeisOtakebi	1
+-LIST-
+PersonaIchigekiShot	+Dmy_Ichigeki
+-KEY-
+2	-	3
+5	-	3
+2	-	3
+5	-	3
+2	-CD	3

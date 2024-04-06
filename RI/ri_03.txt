@@ -1,0 +1,93 @@
+-MISSION-	3
+NoMiss
+Junhudo
+Kakusei
+SP 150
+RisesBitFastRecover 1
+RisesTetraFastRecover 1
+
+-LIST-
+UltimateHysterieBintaA
+UltimateHysterieBintaB
+UltimateHysterieBintaAB
+UltimateBitFunnelC a
+UltimateBitFunnelD a
+UltimateBitFunnelCD a
+rpef_431_BombAtk
+UltimateRiseMusicGameC
+
+-KEY-
+5	-	9
+2	-	3
+3	-	3
+6	-	4
+5	-	3
+2	-	2
+3	-	4
+6	A	4
+5	-	360
+2	-	4
+3	-	2
+6	-	5
+2	-	6
+6	B	2
+5	-	388
+6	-	5
+5	-	5
+6	-	5
+2	-	7
+6	-	5
+2	-	3
+3	AB	4
+5	-	383
+2	-	6
+6	-	5
+2	-	6
+6	C	2
+5	-	89
+6	-	4
+5	-	5
+6	-	120
+5	-	16
+4	-	5
+5	-	50
+2	-	6
+6	-	5
+2	-	6
+6	D	2
+5	-	142
+5	C	7
+5	-	60
+5	C	11
+5	-	38
+5	C	11
+5	-	84
+2	-	6
+6	-	5
+2	-	6
+6	CD	2
+5	-	99
+5	C	12
+5	-	37
+5	C	12
+5	-	32
+5	C	10
+5	-	42
+5	C	11
+5	-	64
+4	-	2
+7	-	5
+4	-	3
+5	-	77
+6	-	5
+5	-	5
+6	-	6
+5	-	9
+2	-	5
+4	-	2
+5	-	3
+2	-	3
+1	-	2
+4	-	3
+2	-	7
+4	C	3

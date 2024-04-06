@@ -1,0 +1,130 @@
+-MISSION-	11
+SP 100
+NoMiss
+Kakusei
+
+-LIST-
+ReversalAction
+ReversalActionAir
+NmlAtkCounterAssault c
+_GCSurinuke a c +CmnGCSurinuke
+CmnDamageBurst c i
+UltimateLaserLandC
+CmnOneMoreCancel i c
+UltimateLaserLandCD
+UltimateBladeC |UltimateBladeCD
+-KEY-
+5 - 38
+4 - 110
+5 BD 4
+5 - 7
+5 BD 8 
+5 - 27
+6 - 4
+5 - 53
+6 - 10
+5 - 2
+4 - 142
+5 - 6
+8 - 5
+5 - 5
+5 BD 5
+5 - 9
+6 - 17
+5 - 44
+6 - 3
+5 - 6
+6 - 23
+4 - 1
+1 - 2
+4 - 138
+6 - 3
+6 AB 3
+5 AB 2
+5 AB 1
+5 - 3
+6 - 13
+5 - 30
+6 - 4
+5 - 6
+6 - 26
+5 - 1
+4 - 122
+6 AC 3
+5 - 64
+4 - 6
+5 - 4
+4 - 28
+4 ACD 6
+5 - 9
+5 ACD 1
+5 - 55
+4 - 4
+5 - 6
+4 - 26
+6 - 123
+3 - 2
+2 - 5
+1 - 3
+4 - 4
+5 - 1
+2 - 5
+1 - 2
+4 - 2
+4 C 2
+5 C 3
+5 - 6
+5 C 6
+5 - 58
+5 ABC 3
+4 ABC 1
+4 - 3
+5 - 5
+4 - 36
+4 - 4
+6 - 14
+5 - 97
+4 - 7
+5 - 4
+6 - 148
+2 - 5
+1 - 2
+4 - 3
+5 - 2
+2 - 4
+1 - 2
+4 CD 5
+5 - 2
+5 - 139
+4 - 10
+5 - 40
+4 - 4
+5 - 5
+4 - 45
+5 - 1
+6 - 42
+5 - 2
+6 - 87
+3 - 1
+2 - 7
+3 - 1
+6 - 5
+2 - 4
+3 - 2
+6 C 3
+6 C 3
+5 - 45
+
+-EKEY-
+5        -        16
+6        -        4
+5        -        5
+6        -        14
+5        -A        3
+5        -        10
+5        -A        3
+5        -        17
+5        -A        3
+5        -        28
+5        -A        3
+5        -        37

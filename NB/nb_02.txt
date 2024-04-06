@@ -1,0 +1,102 @@
+-MISSION-	2
+NoMiss
+Junhudo
+SP 100
+
+-LIST-
+eff_Shot
+AssaultA_1st
+AssaultA_2nd
+AssaultA_3rd
+AssaultB_1st
+AssaultB_2nd
+AssaultB_3rd
+AssaultAB_1st
+AssaultAB_2nd
+AssaultAB_3rd
+PersonaWarpC
+PersonaWarpD
+PersonaWarpCD a
+PersonaThrowC
+PersonaThrowD
+PersonaThrowCD
+
+-KEY-
+5	-	12
+2	-	4
+3	-	2
+6	-	3
+5	A	5
+5	-	61
+6	-	32
+5	-	21
+2	-	6
+1	-	2
+4	A	6
+4	-	10
+4	A	9
+4	-	15
+4	A	7
+4	-	22
+5	-	52
+2	-	4
+1	-	3
+4	B	9
+4	-	8
+4	B	11
+4	-	16
+4	B	10
+4	-	34
+5	-	83
+2	-	6
+1	-	3
+4	AB	3
+5	AB	4
+5	-	10
+4	-	3
+4	AB	8
+4	-	11
+4	AB	7
+4	-	16
+4	AB	7
+4	-	17
+5	-	45
+2	-	5
+3	-	3
+6	-	3
+5	C	7
+5	-	75
+2	-	5
+3	-	3
+6	D	2
+5	D	10
+5	-	75
+2	-	3
+3	-	3
+6	CD	2
+5	CD	7
+5	D	2
+5	-	63
+2	-	3
+1	-	3
+4	C	2
+5	C	6
+5	-	125
+6	-	4
+5	-	5
+6	-	6
+5	-	3
+2	-	4
+1	-	2
+4	D	3
+5	D	8
+5	-	128
+6	-	4
+5	-	6
+6	-	2
+3	-	2
+2	-	6
+1	-	2
+4	CD	2
+5	CD	11
+5	-	189

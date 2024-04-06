@@ -1,0 +1,12 @@
+-MISSION-	4
+Ichigeki
+SP        100
+
+-LIST-
+IchigekiArrowFinish_Atk
+-KEY-
+2        -        3
+5        -        3
+2        -        3
+5        -        3
+2        -CD        3

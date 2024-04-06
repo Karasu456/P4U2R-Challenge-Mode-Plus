@@ -1,0 +1,69 @@
+-MISSION-	5
+HashiEx
+NoMiss
+Crouch
+YukikosFireGuardKill	1
+
+-LIST-
+FireBoosterD a
+MaharagiC
+FireBoosterC a
+FireBoosterC a
+FireBoosterC a
+FireBoosterD a
+PersonaFireBirdA
+
+-KEY-
+5	-	40
+2	-	4
+1	-	3
+4	-	2
+4	D	1
+5	D	12
+5	-	48
+2	-	4
+3	-	3
+6	-	2
+6	C	1
+5	C	23
+5	-	40
+4	-	8
+1	-	87
+2	-	1
+5	-	23
+2	-	3
+1	-	4
+4	-	2
+4	C	1
+5	C	12
+5	-	37
+2	-	4
+1	-	4
+4	-	1
+4	C	2
+5	C	11
+5	-	40
+2	-	4
+1	-	4
+4	-	1
+4	C	2
+5	C	11
+5	-	46
+2	-	5
+1	-	2
+4	-	1
+4	D	3
+5	D	15
+5	-	44
+2	-	5
+1	-	2
+4	-	2
+5	-	4
+2	-	4
+1	-	2
+4	-	1
+4	A	3
+5	A	7
+5	-	72
+-EKEY-
+1 - 108000

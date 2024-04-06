@@ -1,0 +1,132 @@
+-MISSION-	5
+SP 100
+NoMiss
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5A3rd_P4U2 c
+100inchPunchA +Stylish100inchPunch
+PersonaGodHandD +StylishGodHand
+UltimateChargeA a
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5A3rd_P4U2 c
+100inchPunchA +Stylish100inchPunch
+PersonaGodHandD +StylishGodHand
+UltimateChargeB a
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5A3rd_P4U2 c
+100inchPunchA +Stylish100inchPunch
+PersonaGodHandD +StylishGodHand
+
+-KEY-
+5	-	30
+6	-	4
+5	-	5
+6	-	10
+6	A	2
+5	A	5
+5	-	5
+5	A	7
+5	-	4
+5	A	6
+5	-	5
+5	A	5
+5	-	6
+5	A	5
+5	-	5
+5	A	5
+5	-	6
+5	A	4
+5	-	6
+5	A	5
+5	-	5
+5	A	5
+5	-	6
+5	A	5
+5	-	5
+5	A	5
+5	-	6
+5	A	6
+5	-	8
+5	A	8
+5	-	14
+5	A	2
+5	-	122
+2	-	4
+3	-	3
+6	-	3
+5	-	2
+2	-	3
+3	-	2
+6	A	4
+5	A	5
+5	-	68
+6	-	4
+5	-	7
+6	-	16
+5	A	6
+5	-	6
+5	A	7
+5	-	6
+5	A	6
+5	-	5
+5	A	6
+5	-	5
+5	A	6
+5	-	5
+5	A	6
+5	-	5
+5	A	6
+5	-	6
+5	A	5
+5	-	6
+5	A	6
+5	-	4
+5	A	7
+5	-	4
+5	A	7
+5	-	3
+5	A	8
+5	-	3
+5	A	8
+5	-	141
+2	-	4
+3	-	3
+6	-	3
+5	-	2
+2	-	4
+3	-	2
+6	B	2
+5	B	7
+5	-	105
+5	A	5
+5	-	7
+5	A	6
+5	-	7
+5	A	6
+5	-	6
+5	A	6
+5	-	6
+5	A	6
+5	-	6
+5	A	6
+5	-	6
+5	A	6
+5	-	6
+5	A	6
+5	-	6
+5	A	6
+5	-	6
+5	A	7
+5	-	5
+5	A	7
+5	-	6
+5	A	7
+5	-	5
+5	A	7
+5	-	5
+5	A	8
+5	-	45

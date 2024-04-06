@@ -1,0 +1,89 @@
+-MISSION-	14
+Jump
+SP 50
+Tooi
+
+-LIST-
+NmlAtk2B c
+Persona5C c
+CmnFAirDash i c
+NmlAtkAir5B c
+PersonaAir5C c
+Persona5C c
+BanditRevolverB
+KamaeCancelD a |KamaeCancelA a +ShagekiD
+Persona5C c
+BanditRevolverA
+DanganHit_Shita
+DanganD
+DanganKakushiA
+
+-KEY-
+6	-	4
+5	-	5
+6	-	14
+5	-	9
+2	B	7
+2	-	2
+5	-	4
+5	C	9
+5	-	20
+6	-	1
+9	-	3
+5	-	5
+6	-	8
+6	B	8
+6	-	6
+5	C	10
+5	-	22
+5	C	10
+5	-	10
+2	-	5
+3	-	2
+6	-	3
+6	B	2
+5	B	9
+5	-	56
+5	D	11
+5	-	1
+6	-	4
+5	-	3
+6	-	4
+6	C	4
+5	C	4
+5	-	1
+2	-	4
+3	-	2
+6	-	1
+6	A	4
+5	A	4
+5	-	46
+5	B	4
+5	-	4
+5	B	4
+5	-	3
+5	B	5
+5	-	4
+5	B	4
+5	-	3
+5	B	1
+6	B	3
+6	-	5
+6	D	3
+6	-	6
+6	D	3
+6	-	5
+6	D	4
+6	-	2
+6	D	2
+3	D	2
+2	D	2
+2	-	2
+3	-	3
+6	-	2
+2	-	2
+3	-	3
+6	A	4
+3	-	2
+6	-	4
+5	-	157

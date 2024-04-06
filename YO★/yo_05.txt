@@ -1,0 +1,45 @@
+-MISSION-	5
+-LIST-
+MoonsaltMoveB a n2miss
+MoonsaltSlashB
+MoonsaltMoveB +MoonsaltMoveHaseiB a n2miss
+MoonsaltSlashB
+MoonsaltMoveB +MoonsaltMoveHaseiB a n2miss
+MoonsaltSlashB
+VSlashC +VSlashHaseiC
+WarpLowSlashC
+-KEY-
+5	-	16
+8	-	5
+2	-	3
+3	-	2
+6	B	4
+5	B	3
+5	-	12
+6	-	11
+5	B	7
+5	-	2
+4	-	3
+4	B	8
+4	-	6
+4	B	9
+4	-	8
+5	B	4
+6	B	3
+6	-	6
+6	B	7
+6	-	5
+6	B	6
+6	-	5
+6	B	7
+2	B	2
+2	-	4
+1	-	4
+4	-	2
+4	C	3
+5	C	8
+5	-	39
+2	-	2
+2	C	6
+5	C	2
+5	-	72

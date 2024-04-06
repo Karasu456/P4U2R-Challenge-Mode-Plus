@@ -1,0 +1,116 @@
+-MISSION-	14
+Jump
+Tooi
+Counter
+SP 25
+
+-LIST-
+NmlAtk2B c
+Persona2C c
+NmlAtkAir2B	+NmlAtkAirAB	c
+KunaiHit_CD
+CmnFAirDash i c
+PersonaAir5C c
+KunaiHit_D
+_Dash i c
+Persona5C c
+NmlAtkAir5B c
+NmlAtkAir2B	+NmlAtkAirAB	c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+VSlashC
+WarpLowSlashC
+-KEY-
+6        -        4
+5        -        4
+6        -        4
+5        -        8
+2        -        5
+2        B        5
+2        -        30
+2        C        4
+2        -        6
+5        -        10
+6        -        4
+9        -        9
+5        AB        4
+5        -        9
+2        -        6
+2        AB        5
+5        -        33
+6        -        4
+5        -        3
+6        -        11
+6        C        1
+5        C        1
+5        -        17
+2        -        4
+2        B        5
+2        -        3
+5        -        45
+6        -        4
+5        -        4
+6        -        18
+6        C        4
+5        C        1
+5        -        13
+6        -        5
+9        -        10
+6        -        1
+6        B        1
+5        B        4
+5        -        7
+5        AB        3
+5        -        24
+6        -        4
+9        -        5
+9        B        1
+8        B        2
+5        B        2
+5        -        2
+2        -        5
+3        -        3
+6        -        1
+6        C        3
+6        -        2
+5        -        32
+2        -        5
+2        C        4
+5        -        78
+5        B        5
+5        -        6
+5        B        6
+5        -        3
+6        -        3
+6        B        6
+6        -        1
+5        -        4
+5        B        6
+5        -        8
+5        B        5
+5        -        5
+5        B        4
+5        -        1
+4        -        3
+4        D        5
+4        -        2
+5        -        78
+2        -        4
+2        C        5
+5        -        7
+2        -        4
+3        -        2
+6        -        3
+5        -        4
+2        -        3
+3        -        3
+6        -        2
+6        D        2
+5        D        1
+5        -        15
+6        -        81
+9        -        7
+8        -        3
+5        -        29
+8        -        7
+5        -        207

@@ -1,0 +1,66 @@
+-MISSION-	30
+SP	100
+Burst	100
+HashiEx
+Counter
+-LIST-
+ScrewDriverA	|AirScrewDriverA	|ScrewDriverB	|AirScrewDriverB	|ScrewDriverAB	|AirScrewDriverAB	+ScrewDriverFinal	nOnly
+ScrewDriverA	|AirScrewDriverA	|ScrewDriverB	|AirScrewDriverB	|ScrewDriverAB	|AirScrewDriverAB	+ScrewDriverFinal	nOnly
+ScrewDriverA	|AirScrewDriverA	|ScrewDriverB	|AirScrewDriverB	|ScrewDriverAB	|AirScrewDriverAB	+ScrewDriverFinal	nOnly
+ScrewDriverA	|AirScrewDriverA	|ScrewDriverB	|AirScrewDriverB	|ScrewDriverAB	|AirScrewDriverAB	+ScrewDriverFinal	nOnly
+ScrewDriverA	|AirScrewDriverA	|ScrewDriverB	|AirScrewDriverB	|ScrewDriverAB	|AirScrewDriverAB	+ScrewDriverFinal	nOnly
+ScrewDriverA	|AirScrewDriverA	|ScrewDriverB	|AirScrewDriverB	|ScrewDriverAB	|AirScrewDriverAB	+ScrewDriverFinal	nOnly
+ScrewDriverA	|AirScrewDriverA	|ScrewDriverB	|AirScrewDriverB	|ScrewDriverAB	|AirScrewDriverAB	+ScrewDriverFinal	nOnly
+UltimateNihilAB nOnly
+ShadowKuma_s +ShadowKuma nOnly
+-KEY-
+2	-	3
+3	-	3
+6	-A	54
+2	-	3
+3	-	3
+6	-	3
+6	-A	6
+5	-	24
+5	-ACD	12
+2	-	51
+3	-	3
+6	-B	84
+2	-	3
+3	-	3
+6	-A	21
+2	-	3
+3	-	3
+6	-A	10
+5	-	3
+5	-ABC	3
+8	-	5
+2	-	3
+3	-	3
+6	-B	43
+2	-	3
+1	-	3
+4	-B	30
+2	-	3
+3	-	3
+6	-A	25
+2	-	4
+3	-	2
+6	-	4
+5	-	1
+2	-	4
+3	-	3
+6	-	2
+6	C	2
+5	C	120
+5	-	12
+2	-	2
+1	-	2
+4	-	2
+5	-	2
+2	-	3
+1	-	3
+4	AB	2
+5	-	337
+5	A	4
+5	-	229

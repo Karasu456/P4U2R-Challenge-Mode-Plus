@@ -1,0 +1,54 @@
+-MISSION-	14
+SP 50
+Jump
+
+-LIST-
+NmlAtk2B c
+_HighJump a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B c
+AirTosshinA
+CmnOneMoreCancel i c
+NmlAtk2A c
+NmlAtk5A2nd	c
+Ashibarai c
+RushA
+CorkScrewB
+
+-KEY-
+5	-	20
+2	-	2
+2	B	4
+5	B	3
+5	-	5
+2	-	4
+9	-	6
+5	-	5
+5	A	6
+5	-	10
+5	B	7
+5	-	16
+2	-	4
+1	-	2
+4	A	3
+5	A	4
+5	-	35
+5	ABC	5
+5	-	1
+2	-	4
+2	A	6
+5	-	3
+5	A	7
+5	-	12
+2	-	3
+2	AB	4
+2	B	1
+2	-	13
+3	-	3
+6	A	3
+5	A	3
+5	-	23
+6	-	11
+6	B	7
+6	-	13
+5	-	63

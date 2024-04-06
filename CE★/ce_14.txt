@@ -1,0 +1,66 @@
+-MISSION-	14
+Jump
+Tooi
+
+-LIST-
+NmlAtk2B c
+Persona5C c
+PersonaAir5C c
+AirAbaremakuriB
+NoutenotoshiB
+Persona5C c
+Persona2C c
+NmlAtk5B c
+Persona5C c
+NmlAtk2B c
+Ashibarai c
+-KEY-
+5	-	63
+6	-	38
+5	-	23
+2	-	6
+2	B	4
+5	B	2
+5	-	11
+5	C	11
+5	-	8
+6	-	5
+9	-	12
+8	-	1
+5	-	2
+5	C	4
+2	-	2
+3	-	4
+6	-	1
+6	B	3
+5	B	6
+5	-	64
+2	-	3
+3	-	4
+6	-	2
+6	B	3
+5	B	7
+5	-	58
+6	-	5
+5	-	3
+6	-	3
+5	C	3
+5	-	6
+2	-	2
+2	C	8
+2	-	2
+5	-	26
+6	-	5
+5	-	4
+6	-	27
+5	B	5
+5	-	6
+5	C	8
+5	-	4
+2	-	10
+2	B	6
+2	-	16
+2	A	1
+2	AB	5
+2	-	17
+5	-	138

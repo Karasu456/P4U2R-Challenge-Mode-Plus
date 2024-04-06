@@ -1,0 +1,41 @@
+-MISSION-	5
+SP        150
+Kakusei
+
+-LIST-
+UltimateWildRush
+UltimateWildRush_1st
+UltimateWildRush_2nd
+UltimateWildRush_3rd
+UltimateWildRush_4th
+UltimateWildRush_5th
+UltimateWildRush_6th
+UltimateWildRush_7th
+UltimateWildRush_8th
+UltimateWildRush_9th
+PersonaUltimateWildFinish
+-KEY-
+2	-	3
+1	-	3
+4	-	3
+2	-	3
+1	-	3
+4	-AB	3
+5	-	90
+5	-A	3
+5	-	50
+5	-A	24
+5	-B	24
+5	-C	25
+5	-B	20
+5	-C	26
+5	-D	22
+5	-AB	16
+2	-	3
+1	-	3
+4	-	3
+2	-	3
+1	-	3
+4	-CD	3
+2	-	80
+8	-CD	3

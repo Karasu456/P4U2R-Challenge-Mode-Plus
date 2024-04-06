@@ -1,0 +1,86 @@
+-MISSION-	21
+Counter
+SP 75
+
+-LIST-
+RushB
+HaseiDuckingC |DuckingC a
+HaseiWavingC |WavingC a
+BodyBlowA
+DashUpperB
+NmlAtk5D a c
+DashUpperA
+CmnMiniJump i c
+AirTosshinB
+HaseiWavingC |WavingC a
+CmnMiniJump i c
+AirTosshinAB
+BodyBlowB +BodyBlowB_Charge
+CmnMiniJump i c
+AirTosshinA
+Ashibarai c
+UltimateUpperB
+
+-KEY-
+5	-	18
+2	-	6
+3	-	5
+6	B	3
+5	B	5
+5	-	43
+6	-	5
+6	C	3
+5	C	3
+5	-	3
+4	-	2
+4	C	5
+4	-	7
+4	A	6
+4	-	2
+5	-	5
+8	-	4
+8	B	5
+5	B	2
+5	-	27
+5	D	23
+8	D	4
+8	AD	8
+5	D	10
+2	D	4
+2	ACD	7
+5	D	2
+2	D	2
+1	D	6
+4	BD	4
+5	BD	2
+5	D	5
+5	-	36
+4	-	3
+4	C	4
+5	C	2
+5	-	6
+2	-	3
+2	AC	6
+1	-	6
+4	-	3
+5	AB	8
+5	-	17
+4	B	45
+5	-	9
+2	-	2
+2	AC	3
+3	AC	6
+5	-	4
+2	-	4
+1	-	6
+4	-	4
+5	A	9
+5	-	32
+2	-	4
+2	AB	9
+3	-	2
+6	-	7
+2	-	4
+3	-	2
+6	B	5
+5	-	56

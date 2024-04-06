@@ -1,0 +1,90 @@
+-MISSION-	27
+Crouch
+SP	100
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5A3rd c
+BusterAttackA +StylishBusterAttack
+CmnActHeatUp +HeatUp a c
+NmlAtk2B c
+PersonaAssaultC
+PAntiAirNageCD a
+NmlAtk2B c
+NmlAtkAir5B c
+PersonaAir5C c
+AirBusterAttackA
+UltimateCriticalCombo +UltimateCriticalComboA
+CmnOneMoreCancel i c
+UltimateThrowCD
+-KEY-
+5	-	24
+5	A	11
+5	-	6
+5	A	10
+5	-	9
+5	A	13
+5	-	15
+5	A	12
+5	-	22
+5	ACD	12
+5	-	3
+4	-	1
+1	-	49
+1	B	10
+1	-	10
+2	-	2
+3	-	2
+3	C	3
+2	C	2
+2	-	7
+5	-	10
+2	-	4
+3	D	1
+3	CD	2
+6	CD	6
+5	CD	5
+5	D	1
+5	-	20
+6	-	4
+5	-	4
+6	-	54
+5	-	19
+2	-	5
+2	B	6
+5	B	3
+5	-	9
+8	-	1
+9	-	17
+8	B	1
+5	B	8
+5	-	14
+5	C	10
+5	-	16
+2	-	4
+3	-	2
+6	A	7
+5	-	24
+2	-	6
+3	-	1
+6	-	6
+2	-	4
+3	-	2
+6	-	1
+6	A	4
+5	A	5
+5	-	135
+5	ABC	6
+2	ABC	1
+3	-	3
+2	-	1
+1	-	1
+4	-	6
+1	-	1
+2	-	3
+1	-	2
+4	-	2
+4	CD	4
+5	CD	19
+5	-	422

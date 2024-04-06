@@ -1,0 +1,59 @@
+-MISSION-	13
+Jump
+
+-LIST-
+NmlAtkAir5A c
+NmlAtkAir5B c
+NmlAtkAir5B2nd c
+PersonaAir8D
+NmlAtk5B c
+Persona5C c
+Persona2C c
+_Dash	+CmnActFDash	i	c
+NmlAtk5B c
+Persona5C c
+NmlAtk2B c
+Ashibarai c
+-KEY-
+6	-	5
+9	-	6
+8	-	1
+5	-	1
+5	A	6
+5	-	7
+5	B	6
+5	-	7
+5	B	2
+8	B	7
+8	-	5
+8	D	5
+8	-	3
+8	D	14
+5	D	26
+5	-	21
+6	-	5
+5	-	3
+6	-	2
+6	B	1
+5	B	4
+5	-	8
+5	C	11
+5	-	9
+2	-	5
+2	C	12
+2	-	7
+5	-	12
+6	-	4
+5	-	4
+6	-	18
+5	-	9
+5	B	6
+5	-	7
+5	C	9
+5	-	1
+2	-	10
+2	B	5
+2	-	15
+2	AB	5
+2	-	20
+5	-	186

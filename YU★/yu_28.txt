@@ -1,0 +1,101 @@
+-MISSION-	28
+SP	100
+Burst	100
+
+-LIST-
+NmlAtkThrow c
+CmnActHeatUp +HeatUp a c
+PersonaFireAttackB
+PersonaFireAttackA
+MaharagidineD_Frontfire_col |MaharagidineD_Backfire_col
+FireBoosterCD a
+MaharagidineC_Frontfire_col |MaharagidineC_Backfire_col
+FireBoosterCD a
+MaharagidineD_Frontfire_col |MaharagidineD_Backfire_col
+FireBoosterC a
+FireBoosterC a
+
+-KEY-
+5	-	8
+6	-	3
+5	-	4
+6	-	11
+6	CD	1
+5	CD	4
+5	D	2
+5	-	35
+5	ACD	4
+5	-	50
+2	-	2
+1	-	2
+4	B	3
+5	B	4
+5	-	16
+2	-	3
+1	-	2
+4	-	1
+4	A	2
+5	A	2
+5	-	2
+2	-	4
+1	-	3
+4	-	2
+5	-	2
+2	-	3
+1	D	3
+4	D	2
+5	D	1
+5	-	137
+2	-	3
+1	-	3
+4	-	4
+5	C	1
+5	CD	8
+5	D	2
+5	-	14
+2	-	4
+1	-	2
+4	-	2
+5	-	3
+2	-	3
+1	-	3
+4	C	2
+5	C	2
+5	-	138
+2	-	5
+3	-	2
+6	-	3
+6	C	1
+5	CD	8
+5	C	1
+5	-	2
+2	-	4
+3	-	1
+6	-	6
+2	-	4
+3	-	2
+6	-	5
+5	-	2
+5	D	10
+3	D	1
+2	D	2
+2	-	9
+5	-	2
+6	-	7
+5	-	116
+2	-	5
+3	-	2
+6	-	2
+6	C	3
+5	C	6
+5	-	21
+2	-	5
+3	-	2
+6	-	1
+6	C	3
+5	C	5
+5	-	39
+2	-	3
+1	-	2
+4	-	3
+5	-	159

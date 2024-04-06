@@ -1,0 +1,62 @@
+-MISSION-	6
+Tooi
+Jump
+SP 50
+
+-LIST-
+Persona2C c
+Persona5D c
+PersonaWarpD
+NmlAtk2A c
+NmlAtk5B c
+NmlAtk2B c
+Ashibarai c
+AssaultA_1st
+AssaultA_2nd
+AssaultA_3rd
+nbef_430ShougekihaD
+
+-KEY-
+5	-	6
+2	-	5
+2	C	5
+5	-	27
+5	D	10
+5	-	12
+2	-	2
+3	-	4
+6	D	3
+5	D	10
+5	-	61
+4	-	4
+5	-	4
+4	-	2
+1	A	6
+5	-	3
+5	B	7
+5	-	13
+2	-	5
+2	B	8
+2	-	3
+5	-	26
+2	-	4
+2	AB	7
+2	B	2
+2	-	30
+3	-	2
+6	-	2
+6	A	4
+5	A	4
+5	-	6
+6	-	6
+6	A	7
+6	-	10
+6	A	5
+5	A	2
+5	-	5
+2	-	4
+1	-	2
+4	-	4
+2	-	5
+1	D	4
+5	-	91

@@ -1,0 +1,75 @@
+-MISSION-	18
+Tooi
+
+-LIST-
+NmlAtk5B c
+Persona5C c
+PersonaLowAssaultD
+CmnCancelBurst i c
+Persona5D c
+NmlAtk5B c
+NmlAtk5D2nd i c
+MidAssaultB
+NmlAtk5B c
+PersonaAir5C c
+AirMidAssaultA
+NmlAtk5A c
+Persona5C c
+Persona2C c
+MidAssaultB
+-KEY-
+5	-	21
+6	-	4
+5	-	4
+6	-	4
+6	B	5
+5	B	2
+5	-	6
+5	C	8
+5	-	9
+2	-	3
+1	-	3
+4	-	1
+4	D	2
+5	D	10
+5	-	40
+5	ACD	8
+5	-	33
+5	D	11
+5	-	34
+6	-	4
+5	-	5
+6	-	8
+6	B	1
+5	B	6
+5	-	1
+2	-	3
+1	-	1
+1	D	3
+4	D	3
+5	BD	2
+5	B	7
+5	-	52
+5	B	10
+5	-	10
+8	-	3
+8	C	1
+5	C	6
+5	-	2
+2	-	3
+1	-	3
+4	A	3
+5	A	4
+5	-	61
+5	A	5
+5	-	4
+5	C	7
+5	-	9
+2	-	10
+2	C	10
+2	-	22
+1	-	4
+4	-	1
+4	B	2
+5	B	7
+5	-	47

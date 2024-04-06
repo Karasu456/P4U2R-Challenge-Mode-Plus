@@ -1,0 +1,73 @@
+-MISSION-	9
+SP 25
+Hashi
+
+-LIST-
+NmlAtk2A c
+NmlAtk5B c
+Ashibarai c
+RushA
+HaseiWavingCD |WavingCD a
+BodyBlowA
+DashUpperA
+BodyBlowB
+DashUpperB
+CmnMiniJump i c
+AirTosshinB
+Persona2C c
+
+-KEY-
+5	-	12
+6	-	5
+5	-	3
+6	-	13
+3	-	2
+2	-	1
+2	A	5
+2	-	3
+5	-	4
+5	B	4
+5	-	15
+2	-	6
+2	AB	5
+2	B	1
+2	-	9
+3	-	2
+6	-	3
+6	A	2
+5	A	5
+5	-	2
+4	-	38
+4	CD	3
+4	D	3
+4	-	6
+4	A	6
+4	-	2
+5	-	4
+8	-	8
+8	A	3
+8	-	13
+5	-	8
+4	-	6
+4	B	8
+4	-	15
+5	-	1
+8	-	14
+8	B	9
+8	-	1
+8	B	1
+8	-	6
+5	-	5
+2	-	18
+2	AC	8
+2	C	4
+2	-	5
+1	-	2
+4	-	3
+4	B	1
+5	B	11
+5	-	40
+2	-	14
+2	C	8
+2	-	13
+5	-	35

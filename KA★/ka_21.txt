@@ -1,0 +1,65 @@
+-MISSION-	21
+Counter
+Tooi
+
+-LIST-
+Persona2C c
+Persona5C c
+NmlAtk2B c
+BusterAttackB
+NmlAtk2A c
+Ashibarai c
+OiuchiB
+NmlAtk2A c
+NmlAtk2B c
+BusterAttackB a
+AirMountB
+Oiuchi +OiuchiA
+-KEY-
+2	-	9
+2	C	9
+2	-	13
+5	-	24
+5	C	9
+2	-	26
+2	B	9
+2	-	16
+3	-	3
+6	-	2
+6	B	6
+6	-	2
+5	-	25
+2	-	37
+2	A	4
+2	-	6
+2	B	1
+2	AB	14
+2	B	1
+2	-	6
+3	-	3
+6	-	2
+6	B	7
+6	-	2
+5	-	19
+2	-	45
+2	A	5
+2	-	5
+2	B	12
+2	-	11
+3	-	4
+6	-	2
+6	B	8
+6	-	3
+3	-	2
+2	-	1
+1	-	5
+4	-	1
+4	B	8
+4	-	9
+5	-	142
+2	-	3
+3	-	3
+6	-	1
+6	A	6
+6	-	1
+5	-	107

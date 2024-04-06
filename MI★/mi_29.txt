@@ -1,0 +1,144 @@
+-MISSION-	29
+Burst 100
+SP 100
+Tooi
+Counter
+
+-LIST-
+NmlAtk5Btame
+NmlAtk5Btame
+TosshinB
+NmlAtk2A c
+Persona5C c
+NmlAtk5Btame
+NmlAtk2Btame
+Persona2D c
+NmlAtk5Btame
+Ashibarai c
+IceMiller_ShotC
+NmlAtk5Btame
+ChudanBlow c nOnly
+IceMiller_ShotD
+TentarahuC a
+CmnActHeatUp +HeatUp a c
+UltimateTsuraraThrough a
+RenzokufullAB |RenzokufullA |RenzokufullB +Renzokufull nOnly Nandodemo
+RenzokufullAB |RenzokufullA |RenzokufullB +Renzokufull nOnly Nandodemo 
+
+-KEY-
+6	-	4
+5	-	4
+6	-	7
+6	B	13
+5	B	8
+1	-	8
+1	AB	32
+4	AB	1
+4	B	1
+5	-	11
+6	-	4
+5	-	4
+6	-	4
+6	B	11
+5	B	11
+1	B	5
+1	-	7
+1	AB	12
+1	-	19
+6	-	5
+5	-	2
+4	B	5
+4	-	32
+5	-	17
+6	-	4
+5	-	3
+6	-	4
+3	A	3
+2	-	2
+5	-	5
+5	C	138
+6	-	3
+6	B	9
+5	B	9
+1	B	15
+1	-	17
+1	B	20
+1	-	5
+1	D	8
+1	-	4
+4	-	1
+5	-	33
+5	B	10
+1	B	19
+1	-	21
+1	AB	8
+1	-	14
+7	-	4
+1	-	2
+1	C	8
+1	-	11
+4	-	2
+5	-	24
+5	B	28
+5	-	6
+6	-	1
+6	AB	17
+6	-	9
+5	-	11
+1	AB	85
+1	D	10
+1	-	20
+7	-	3
+7	D	9
+1	-	39
+2	-	1
+3	-	1
+6	C	3
+5	C	2
+4	-	9
+4	ACD	4
+5	-	4
+5	ACD	3
+5	-	4
+5	ACD	4
+5	-	4
+5	ACD	5
+5	-	28
+2	-	3
+1	-	3
+4	-	3
+5	-	1
+2	-	4
+2	-	2
+1	-	3
+4	C	2
+5	-	46
+2	-	5
+3	-	2
+6	-	5
+2	-	5
+3	-	2
+6	-	4
+2	-	5
+3	AB	2
+6	AB	5
+5	AB	15
+6	AB	111
+5	AB	46
+5	ABC	13
+5	AB	118
+5	-	39
+5	C	7
+5	-	22
+2	-	3
+3	-	3
+6	-	5
+2	-	2
+3	-	4
+6	AB	3
+5	AB	48
+6	AB	93
+5	AB	20
+5	ABD	14
+5	AB	136
+5	-	53

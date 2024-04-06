@@ -1,0 +1,90 @@
+-MISSION-	17
+Crouch
+SP	50
+Tooi
+
+-LIST-
+NmlAtkAir5B c
+CmnOneMoreCancel i c
+NmlAtkAir5B c
+PersonaAir5C c
+IceMiller_ShotC
+NmlAtk5B |NmlAtk5Btame c
+Ashibarai c
+IceMiller_ShotC
+NmlAtk5Btame
+NmlAtk2Btame
+IceMiller_ShotD
+NmlAtk5Btame
+Chudan c
+ChudanOiuchi c
+ChudanBlow c
+CmnBAirDash i c
+NmlAtk2C |Persona2C a i c
+
+-KEY-
+5	-	12
+6	-	19
+9	-	6
+6	-	6
+6	B	3
+5	B	3
+5	-	6
+5	ABC	4
+5	-	6
+1	-	2
+1	B	2
+1	-	7
+1	C	5
+1	-	5
+1	C	4
+1	-	5
+1	C	6
+1	-	25
+7	-	1
+7	C	3
+1	C	7
+1	-	19
+5	-	13
+6	B	18
+5	B	1
+2	B	5
+2	-	8
+1	-	1
+1	AB	12
+1	A	1
+1	-	15
+7	-	4
+7	C	1
+1	C	7
+1	-	22
+5	-	15
+6	-	2
+6	B	12
+5	B	6
+2	B	6
+2	-	7
+2	B	29
+2	-	1
+8	-	5
+2	D	9
+2	-	15
+5	-	32
+6	B	24
+5	B	1
+5	-	9
+6	AB	14
+6	B	1
+6	-	13
+5	-	12
+5	AB	81
+5	-	1
+5	D	11
+5	-	17
+7	-	4
+5	-	6
+4	-	17
+1	-	1
+2	-	2
+2	C	8
+2	-	22

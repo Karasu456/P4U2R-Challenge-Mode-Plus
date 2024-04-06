@@ -1,0 +1,47 @@
+-MISSION-	15
+Tooi
+Crouch
+JunpeisPoint 0
+JunpeisOtakebi 1
+
+-LIST-
+Chudan c
+ChudanOiuchi c
+ChudanFinish c
+ChudanJump a c
+NmlAtkAir5A c
+NmlAtkAir5B c
+PersonaAir5C c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+PersonaAir5C c
+PersonaDeathBoundAirC
+
+-KEY-
+5	-	14
+6	-	3
+5	-	5
+6	-	6
+6	AB	8
+6	B	2
+6	-	17
+5	-	5
+5	AB	76
+9	C	18
+9	-	25
+5	A	4
+5	-	8
+5	B	9
+5	-	14
+5	C	9
+5	-	18
+9	-	7
+5	B	8
+5	-	8
+5	C	11
+5	-	12
+2	-	4
+1	-	2
+4	C	2
+5	C	7
+5	-	140

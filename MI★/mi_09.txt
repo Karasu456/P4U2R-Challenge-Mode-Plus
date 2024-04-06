@@ -1,0 +1,76 @@
+-MISSION-	9
+Counter
+HashiEx
+
+-LIST-
+TosshinA
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5B c
+NmlAtk2Btame
+Persona2D c
+NmlAtk5Btame
+Ashibarai c
+IceMiller_ShotC
+IceMiller_ShotD
+Chudan c
+ChudanOiuchi c
+ChudanBlow c
+CmnBAirDash i c
+NmlAtk2C |Persona2C a i c
+-KEY-
+5	-	8
+1	-	41
+2	-	1
+6	A	3
+6	-	1
+5	-	26
+6	-	4
+5	-	4
+6	-	1
+6	A	5
+6	-	6
+6	A	5
+6	-	14
+6	B	4
+6	-	12
+5	-	5
+2	-	5
+2	B	29
+2	-	6
+2	D	19
+2	-	19
+5	-	6
+5	B	11
+1	B	13
+1	-	25
+1	AB	9
+1	B	1
+1	-	12
+7	-	4
+1	-	1
+1	C	9
+1	-	34
+7	-	2
+7	D	2
+1	D	8
+1	-	22
+5	-	16
+5	B	29
+5	-	7
+5	A	1
+6	AB	13
+6	B	1
+6	-	23
+5	-	7
+5	AB	73
+5	-	2
+5	D	9
+5	-	18
+7	-	4
+5	-	5
+4	-	19
+5	-	2
+2	-	4
+2	C	8
+2	-	16

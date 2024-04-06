@@ -1,0 +1,84 @@
+-MISSION-	11
+SP 150
+NoMiss
+Kakusei
+
+-LIST-
+ReversalAction
+NmlAtkCounterAssault c
+_GCSurinuke a c +CmnGCSurinuke
+CmnDamageBurst        c        i
+UltimateThrow
+-KEY-
+5 - 10
+4 - 20
+5 - 1
+5 BD 5
+5 - 6
+5 BD 7
+5 - 72
+6 - 4
+5 - 6
+6 - 16
+5 - 3
+4 - 110
+5 - 1
+6 A 1
+6 AB 4
+5 AB 3
+5 B 1
+6 - 4
+5 - 44
+6 - 4
+5 - 6
+6 - 44
+4 - 124
+5 - 1
+6 - 1
+6 AC 6
+5 AC 3
+5 C 1
+5 - 4
+6 - 3
+5 - 12
+4 - 3
+5 - 5
+4 - 27
+6 - 48
+6 ACD 2
+5 ACD 4
+5 - 5
+5 ACD 5
+5 - 5
+5 ACD 5
+5 - 48
+4 - 4
+5 - 6
+4 - 40
+5 - 1
+6 - 114
+3 - 1
+2 - 7
+3 - 1
+6 - 5
+3 - 1
+2 - 4
+3 - 2
+6 - 1
+6 C 2
+5 - 4
+5 C 5
+5 - 30 
+-EKEY-
+5        -        16
+6        -        4
+5        -        5
+6        -        14
+5        -A        3
+5        -        10
+5        -A        3
+5        -        17
+5        -A        3
+5        -        28
+5        -A        3
+5        -        37

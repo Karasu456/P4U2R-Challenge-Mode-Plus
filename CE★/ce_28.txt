@@ -1,0 +1,108 @@
+-MISSION-	28
+SP	36
+Counter
+Tooi
+
+-LIST-
+NmlAtk5B c
+CmnActHeatUp +HeatUp a c
+PersonaKokutengekiC
+100inchPunchA
+PersonaKokutengekiD
+DragonKickC
+AirDragonKickCD
+PersonaAir2D c
+100inchPunchA
+PersonaKokutengekiD
+PersonaKokutengekiC
+DragonKickC
+meteoHit_D
+DragonKickD
+-KEY-
+6	-	2
+5	-	4
+6	-	12
+5	B	6
+5	-	8
+5	CD	1
+5	ACD	4
+5	-	54
+2	-	4
+1	-	4
+4	-	2
+4	C	3
+5	C	1
+5	-	6
+2	-	4
+1	-	3
+4	-	2
+4	A	3
+5	A	3
+5	-	7
+2	-	2
+1	-	4
+4	-	2
+4	D	2
+5	D	3
+5	-	12
+2	-	3
+3	-	4
+6	-	2
+6	C	2
+5	C	4
+5	-	3
+2	-	3
+3	-	3
+6	-	3
+6	CD	2
+5	-	52
+2	-	3
+2	D	7
+2	-	1
+5	-	58
+2	-	4
+3	-	3
+3	A	1
+6	A	4
+5	A	2
+5	-	8
+2	-	3
+3	-	3
+6	D	5
+5	D	1
+5	-	17
+2	-	2
+3	-	3
+6	-	4
+6	C	2
+3	C	2
+2	-	3
+1	-	3
+4	-	2
+4	C	1
+7	C	1
+5	C	3
+2	C	1
+2	-	2
+3	-	4
+6	-	2
+2	-	1
+1	-	2
+2	-	1
+3	-	3
+6	-	4
+6	D	4
+5	D	1
+4	-	1
+5	-	92
+4	-	3
+5	-	3
+4	-	8
+5	-	10
+2	-	3
+1	-	3
+4	-	1
+4	D	2
+8	D	2
+5	D	2
+5	-	16

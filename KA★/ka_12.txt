@@ -1,0 +1,36 @@
+-MISSION-	12
+SP	50
+
+-LIST-
+PCommandNageC
+CmnOneMoreCancel i c
+Persona5C c
+NmlAtk2B c
+PersonaAntiAirC
+Oiuchi +OiuchiA
+-KEY-
+5	-	13
+2	-	5
+1	-	1
+1	C	1
+4	C	3
+5	C	7
+5	-	37
+6	-	150
+6	ABC	6
+6	-	24
+6	C	1
+5	C	9
+2	-	27
+2	B	7
+2	-	17
+3	-	2
+6	-	3
+5	C	7
+5	-	107
+2	-	5
+3	-	1
+3	A	1
+6	A	4
+5	A	4
+5	-	28

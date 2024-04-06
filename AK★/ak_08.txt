@@ -1,0 +1,64 @@
+-MISSION-	8
+SP	25
+
+-LIST-
+NmlAtk5A c
+NmlAtk5B c
+NmlAtk2B c
+RushAB
+BodyBlowB
+DashUpperB
+BodyBlowA
+HaseiDuckingC |DuckingC a
+ReversalAction
+NmlAtk5B c
+Persona2C c
+-KEY-
+5	-	11
+6	-	3
+5	-	5
+6	-	13
+6	A	4
+6	-	6
+6	B	5
+6	-	20
+5	-	1
+2	-	6
+2	B	6
+2	-	9
+3	-	3
+6	-	2
+6	A	1
+6	AB	3
+6	B	1
+6	-	1
+6	B	1
+6	-	16
+5	-	12
+4	-	15
+4	B	6
+4	-	8
+4	B	6
+4	-	18
+5	-	2
+8	-	12
+8	B	6
+8	-	7
+5	-	4
+4	-	15
+4	A	7
+4	-	7
+5	-	4
+6	-	6
+6	C	4
+6	-	7
+5	BD	4
+5	-	9
+2	-	9
+5	-	73
+5	B	4
+5	-	3
+2	-	4
+2	C	7
+2	-	3
+5	-	118

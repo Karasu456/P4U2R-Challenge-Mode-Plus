@@ -1,0 +1,44 @@
+-MISSION-	15
+Tooi
+Crouch
+
+-LIST-
+Chudan c
+ChudanOiuchi c
+ChudanFinish c
+ChudanJump a c
+NmlAtkAir5B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+PersonaAir5C c
+PersonaAir2D c
+PersonaWarpC
+
+-KEY-
+5	-	14
+6	-	4
+5	-	4
+6	-	7
+6	AB	6
+6	-	28
+5	-	12
+5	AB	70
+7	-	3
+7	C	9
+7	-	29
+5	B	19
+5	-	22
+7	-	2
+7	B	4
+5	B	7
+5	-	22
+5	C	8
+5	-	6
+2	-	12
+2	D	8
+2	-	22
+1	-	4
+4	-	2
+4	C	2
+5	C	6
+5	-	88

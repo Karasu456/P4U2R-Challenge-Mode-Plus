@@ -1,0 +1,88 @@
+-MISSION-	26
+Tooi
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk2Btame
+NmlAtk5Btame
+Ashibarai c
+TosshinB
+NmlAtk2A c
+NmlAtk2B c
+IceMiller_ShotC
+IceMiller_ShotD
+NmlAtk5Btame
+Chudan c
+ChudanOiuchi c
+ChudanBlow c
+CmnBAirDash i c
+NmlAtk2C |Persona2C a i c
+
+-KEY-
+5	-	8
+6	-	3
+5	-	5
+6	-	16
+6	A	4
+6	-	7
+6	A	5
+6	-	3
+5	-	2
+2	-	4
+2	B	25
+2	-	1
+3	-	1
+6	-	2
+6	B	14
+5	B	5
+1	B	6
+1	-	29
+1	AB	7
+1	B	1
+1	-	12
+2	-	1
+3	-	2
+6	-	2
+5	-	1
+5	B	1
+4	B	5
+1	B	5
+1	-	15
+4	-	7
+5	-	22
+6	-	4
+5	-	4
+6	-	1
+2	-	3
+2	A	5
+1	-	8
+1	B	8
+1	-	16
+7	-	1
+7	C	2
+1	-	6
+1	-	34
+7	D	4
+1	D	10
+1	-	27
+4	-	1
+5	-	7
+5	B	27
+5	-	6
+5	AB	22
+6	AB	3
+6	-	7
+5	-	15
+5	AB	74
+5	B	2
+5	D	8
+5	-	22
+7	-	3
+5	-	6
+4	-	17
+5	-	2
+2	-	3
+2	C	7
+5	C	2
+5	-	27

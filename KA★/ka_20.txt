@@ -1,0 +1,75 @@
+-MISSION-	20
+Counter
+Hashi
+
+-LIST-
+PersonaAir5C c
+NmlAtk2B c
+PersonaAntiAirD +PersonaAntiAirD_Hit nOnly
+NmlAtk2B c
+PersonaAssaultC
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B c
+PersonaAir5C c
+NmlAtk2A c
+PersonaAntiAirC
+Oiuchi +OiuchiA
+-KEY-
+6	-	6
+5	-	4
+6	-	20
+8	-	5
+8	C	2
+5	C	3
+5	-	52
+2	-	3
+3	-	3
+6	-	2
+6	D	2
+9	D	2
+5	D	2
+5	-	22
+2	-	7
+2	B	7
+2	-	1
+5	-	47
+6	-	29
+5	-	3
+1	-	61
+1	B	10
+1	-	8
+2	-	2
+3	-	2
+3	C	6
+2	C	1
+2	-	16
+5	-	42
+5	A	5
+5	-	4
+5	A	8
+5	-	15
+9	-	14
+9	A	5
+8	A	1
+5	-	5
+5	B	12
+5	-	16
+5	C	8
+5	-	21
+2	-	41
+2	A	8
+2	-	4
+3	-	3
+6	-	1
+6	C	7
+6	-	3
+5	-	83
+2	-	6
+3	-	3
+6	-	1
+6	A	6
+5	A	1
+5	-	100

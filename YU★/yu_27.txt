@@ -1,0 +1,112 @@
+-MISSION-	27
+SP	100
+Burst	100
+Tooi
+
+-LIST-
+Ashibarai c
+LandAgiA
+CmnActHeatUp +HeatUp a c
+Persona5C c
+LandAgirao
+MaharagiD a
+FireBoosterC a
+AgishotAB2nd
+FireBoosterC a
+AgishotAB
+FireBoosterC a
+Persona5C c
+PersonaFireAttackB
+MaharagidineD_Frontfire_col |MaharagidineD_Backfire_col
+FireBoosterCD a
+AgidineD
+
+-KEY-
+5	-	10
+6	-	4
+5	-	4
+6	-	6
+3	-	7
+2	-	2
+2	AB	8
+2	-	4
+3	-	2
+6	-	2
+6	A	2
+5	A	7
+5	-	14
+5	ACD	6
+5	-	47
+6	-	2
+5	-	8
+6	-	7
+6	C	9
+5	-	8
+2	-	2
+3	-	3
+6	AB	5
+5	AB	20
+2	AB	4
+3	AB	3
+6	AB	3
+5	ABD	8
+5	AB	26
+2	AB	3
+1	AB	3
+4	ABC	3
+5	ABC	8
+5	AB	25
+6	AB	5
+5	A	4
+6	A	6
+2	A	3
+1	A	2
+4	A	3
+5	AC	7
+5	A	23
+6	A	3
+5	A	7
+6	-	3
+2	-	4
+1	-	2
+4	-	3
+5	C	3
+5	-	20
+6	-	3
+5	-	6
+6	-	4
+6	C	2
+5	C	7
+5	-	11
+2	-	4
+1	-	2
+4	-	4
+5	B	7
+5	-	8
+2	-	3
+1	-	2
+4	-	3
+5	-	2
+2	-	4
+1	D	5
+5	-	137
+2	-	5
+1	-	2
+4	-	4
+5	CD	10
+2	-	5
+6	-	4
+5	-	2
+2	-	5
+6	-	2
+6	D	3
+5	D	13
+4	D	21
+5	D	19
+4	D	38
+5	D	2
+4	D	40
+5	D	88
+5	-	12
+5	D	7
+5	-	80

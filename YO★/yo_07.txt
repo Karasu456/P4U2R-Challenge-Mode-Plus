@@ -1,0 +1,41 @@
+-MISSION-	7
+-LIST-
+NmlAtk5B c
+Persona5C c
+Persona2C c
+KakeagariB
+VSlashC +VSlashHaseiC
+WarpLowSlashC
+-KEY-
+5	-	9
+6	-	4
+5	-	4
+6	-	14
+6	B	1
+5	B	4
+5	-	16
+5	C	5
+5	-	5
+2	-	6
+2	C	4
+2	-	2
+5	-	15
+2	-	6
+3	-	2
+6	-	3
+6	B	4
+5	-	29
+2	-	5
+1	-	2
+4	-	3
+4	C	3
+5	C	1
+5	-	38
+2	-	5
+2	C	4
+2	-	8
+5	-	133
+2	-	3
+2	C	3
+2	-	3
+5	-	140

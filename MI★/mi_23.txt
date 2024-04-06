@@ -1,0 +1,139 @@
+-MISSION-	23
+Tooi
+Kakusei
+SP        150
+
+-LIST-
+NmlAtk2Btame
+Persona2D c
+2Dhikiyose
+NmlAtk5Btame
+Persona5C c
+NmlAtk2B |NmlAtk2Btame c
+NmlAtk5Btame
+Ashibarai c
+IceMiller_ShotC
+NmlAtk5Btame
+NmlAtk2Btame
+IceMiller_ShotD
+TentarahuC a
+UltimateTsuraraThrough a
+UltimateRenzokuB
+RenzokufullB +Renzokufull nOnly Nandodemo
+UltimateRenzokuB
+Tsurara_ShotD
+RenzokufullB +Renzokufull nOnly Nandodemo
+-KEY-
+1	-	56
+2	B	22
+2	-	3
+2	D	8
+2	-	4
+2	D	5
+2	-	5
+2	D	3
+2	-	5
+2	D	4
+2	-	4
+2	D	5
+2	-	4
+5	-	3
+5	B	29
+5	-	8
+5	C	132
+5	-	1
+6	-	3
+5	-	5
+6	-	17
+3	-	3
+2	B	12
+2	-	1
+5	-	5
+6	-	4
+6	B	23
+5	B	3
+4	B	1
+1	B	5
+1	-	23
+1	AB	11
+1	B	1
+1	-	11
+7	-	2
+8	-	3
+5	C	7
+5	-	34
+6	-	3
+6	B	16
+1	B	15
+1	-	7
+1	B	27
+1	-	1
+7	-	4
+7	D	1
+1	D	5
+1	-	47
+3	-	1
+6	-	1
+6	C	4
+6	-	2
+2	-	3
+1	-	3
+4	-	3
+4	C	1
+1	-	3
+2	-	4
+1	C	1
+4	C	1
+4	-	2
+1	-	1
+2	-	2
+1	C	4
+4	C	1
+4	-	2
+5	-	1
+5	C	4
+5	-	51
+6	-	4
+5	-	5
+6	-	4
+6	B	16
+5	B	11
+5	-	4
+5	C	10
+5	-	1
+2	-	4
+3	-	2
+6	-	5
+2	-	3
+3	-	3
+6	-	1
+6	B	3
+5	B	20
+6	B	69
+5	B	73
+5	BC	9
+5	B	126
+5	-	52
+5	C	5
+5	-	12
+6	-	4
+5	-	3
+6	-	5
+2	-	3
+3	-	3
+6	-	4
+5	-	1
+2	-	4
+3	-	2
+3	B	1
+6	B	4
+6	B	152
+6	BD	9
+6	B	140
+5	-	57
+-EKEY-
+5	-	10
+2	-	26
+1	-	2
+4	-	2
+5	B	5

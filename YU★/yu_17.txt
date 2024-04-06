@@ -1,0 +1,88 @@
+-MISSION-	17
+Counter
+SP 25
+
+-LIST-
+Persona5C c
+LandAgirao
+AgishotAB2nd
+Persona2C c
+AgishotAB
+MaharagiD
+Persona5C c
+Persona2C c
+PersonaFireAttackB
+Persona2C c
+PersonaFireAttackA
+PersonaFireAttackA
+PersonaFireAttackA
+PersonaFireAttackA
+
+-KEY-
+6	-	5
+5	-	4
+6	-	16
+6	C	7
+5	C	11
+2	C	1
+2	-	3
+3	-	3
+6	-	4
+6	AB	2
+5	AB	26
+2	AB	11
+2	A	15
+2	AC	1
+2	A	5
+2	AC	15
+2	A	8
+2	-	1
+3	-	2
+6	-	3
+6	D	1
+5	D	10
+5	-	42
+6	-	4
+5	-	3
+6	-	14
+6	C	5
+5	C	4
+2	C	3
+2	-	15
+2	C	16
+2	-	9
+1	-	4
+4	-	1
+4	B	2
+5	B	9
+5	-	50
+2	-	2
+2	C	15
+2	-	6
+1	-	3
+4	-	3
+5	A	11
+5	-	25
+2	-	4
+1	-	3
+4	-	2
+4	A	2
+5	A	10
+5	-	21
+2	-	5
+1	-	2
+4	-	3
+4	A	1
+5	A	11
+5	-	23
+2	-	4
+1	-	3
+4	-	2
+4	A	1
+5	A	10
+5	-	28
+2	-	3
+1	-	4
+4	A	3
+5	A	7
+5	-	119

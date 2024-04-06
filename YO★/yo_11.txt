@@ -1,0 +1,73 @@
+-MISSION-	11
+SP 100
+NoMiss
+
+-LIST-
+ReversalAction
+NmlAtkCounterAssault c
+_GCSurinuke a c +CmnGCSurinuke
+CmnDamageBurst        c        i
+TatsumakiCD
+-KEY-
+4 - 43
+5 BD 17
+4 BD 3
+4 - 4
+4 BD 4
+4 - 36
+5 - 1
+6 - 23
+5 - 2
+4 - 112
+6 - 2
+6 AB 4
+5 AB 4
+5 A 1
+6 - 26
+5 - 27
+6 - 3
+6 - 21
+5 - 1
+4 - 120
+6 A 1
+6 AC 5
+5 AC 3
+5 C 2
+6 - 12
+5 - 13
+4 - 4
+5 - 5
+4 - 16
+6 - 40
+6 ACD 4
+6 - 6
+6 ACD 2 
+6 ACD 3
+5 - 4
+5 ACD 6
+6 - 26
+5 - 27
+6 - 3
+3 - 45
+5 - 1
+6 - 110
+2 - 3
+1 - 2
+4 - 4
+5 - 1
+2 - 5
+1 - 2
+4 CD 4
+-EKEY-
+5        -        16
+6        -        4
+5        -        5
+6        -        14
+5        -A        3
+5        -        10
+5        -A        3
+5        -        17
+5        -A        3
+5        -        28
+5        -A        3
+5        -        37

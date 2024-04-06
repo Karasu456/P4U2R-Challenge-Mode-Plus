@@ -1,0 +1,91 @@
+-MISSION-	6
+Kakusei
+SP 125
+Tooi
+Crouch
+
+-LIST-
+PersonaAir5C c
+NmlAtk5B c
+Persona5C c
+Ashibarai c
+SpecialWalkA a
+DashAssaultA
+PersonaUltimateHeatRiserA
+Persona2C c
+CmnMiniJump i c
+PersonaAir5C c
+Persona5C c
+SpecialWalkAB a
+DashAssaultAB
+PersonaMoujaNoNagekiD
+
+-KEY-
+5	-	9
+9	-	3
+5	-	5
+6	-	16
+6	C	3
+5	C	6
+5	-	8
+6	-	4
+5	-	5
+6	-	6
+6	B	8
+5	-	44
+5	C	10
+5	-	4
+2	-	8
+2	AB	7
+2	B	2
+2	-	17
+3	-	2
+6	-	3
+6	A	1
+5	A	3
+5	-	7
+5	A	5
+5	-	5
+5	A	1
+2	A	4
+2	-	4
+3	-	2
+6	-	4
+5	-	2
+2	-	3
+3	-	1
+6	A	2
+6	-	1
+5	-	101
+2	-	14
+2	C	11
+2	-	25
+2	A	1
+2	AC	7
+2	C	2
+2	-	2
+5	-	14
+5	C	9
+5	-	16
+5	C	9
+5	-	38
+2	-	5
+5	-	7
+2	-	4
+3	-	2
+6	A	1
+6	AB	3
+5	AB	2
+5	-	8
+5	A	6
+5	-	17
+2	-	4
+3	-	2
+6	-	5
+5	-	1
+2	-	4
+3	-	2
+6	-	4
+6	D	1
+5	D	6
+5	-	259

@@ -1,0 +1,98 @@
+-MISSION-	28
+SP        100
+Jump
+Tooi
+
+-LIST-
+NmlAtkAir5B c
+AirBusterAttackB
+CmnActHeatUp +HeatUp a c
+NmlAtk2A c
+fukidashi
+NmlAtk2B c
+PersonaAntiAirC
+OiuchiAB
+ReversalAction
+UltimateCriticalCombo +UltimateCriticalComboA
+CmnOneMoreCancel i c
+UltimateThrowCD
+-KEY-
+9	-	6
+8	B	4
+5	B	8
+5	-	3
+2	-	6
+3	-	1
+6	-	1
+6	B	7
+5	B	3
+5	-	38
+5	ACD	10
+5	-	1
+2	-	47
+2	A	8
+2	-	3
+5	-	12
+5	B	5
+5	-	1
+2	-	4
+2	B	10
+2	-	7
+3	-	2
+6	-	1
+6	C	5
+5	C	5
+5	-	70
+2	-	4
+3	-	2
+6	AB	7
+5	AB	5
+5	-	70
+5	BD	8
+1	BD	2
+1	-	5
+2	-	2
+3	-	1
+6	-	4
+3	-	1
+2	-	3
+3	-	1
+6	-	2
+6	A	4
+5	A	5
+5	-	131
+5	B	1
+5	ABC	6
+2	B	1
+2	-	5
+1	-	1
+4	-	4
+1	-	2
+2	-	2
+1	-	2
+4	-	3
+4	CD	2
+5	CD	22
+5	D	3
+5	-	350
+2	-	6
+3	-	2
+6	-	4
+3	-	1
+2	-	5
+3	-	2
+6	-	3
+6	A	3
+5	A	5
+5	-	144
+5	ABC	4
+2	ABC	2
+2	B	2
+2	-	4
+1	-	3
+4	-	3
+1	-	8
+4	-	3
+4	C	2
+5	C	4
+5	-	471

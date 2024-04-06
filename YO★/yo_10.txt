@@ -1,0 +1,101 @@
+-MISSION-	10
+Hashi
+SP        50
+
+-LIST-
+NmlAtk5B c
+Persona5C c
+Persona2C c
+Ashibarai c
+KakeagariA
+KunaiHit_CD
+PersonaAir5D c
+NmlAtkAir5B c
+KunaiHit_CD
+CmnFAirDash i c
+MoonsaltMoveA a n2miss
+MoonsaltSlashB
+MoonsaltMoveB +MoonsaltMoveHaseiB a n2miss
+MoonsaltSlashB
+MoonsaltMoveB +MoonsaltMoveHaseiB a n2miss
+MoonsaltSlashB
+VSlashD +VSlashHaseiD
+WarpLowSlashC
+-KEY-
+5        -        12
+6        -        4
+5        -        3
+6        -        18
+6        B        4
+5        B        1
+5        -        17
+5        C        4
+5        -        11
+2        -        5
+2        C        3
+2        -        20
+2        AB        4
+2        -        5
+5        -        6
+2        -        5
+3        -        3
+6        -        1
+6        A        3
+5        -        42
+2        -        8
+2        AB        3
+2        -        1
+5        -        29
+5        D        4
+5        -        18
+6        -        3
+5        -        4
+6        -        8
+5        -        2
+2        -        5
+5        -        2
+8        -        6
+5        -        3
+5        B        3
+5        -        9
+2        -        2
+2        AB        3
+2        -        1
+5        -        26
+6        -        4
+5        -        3
+6        -        4
+5        -        1
+2        -        3
+3        -        2
+6        -        2
+5        A        2
+5        -        15
+5        B        5
+5        -        5
+4        B        5
+4        -        6
+4        B        2
+5        B        3
+5        -        6
+5        B        6
+5        -        7
+5        B        6
+5        -        1
+6        -        4
+6        B        5
+6        -        4
+5        -        1
+5        B        6
+5        -        7
+5        B        4
+5        -        6
+5        B        4
+5        -        2
+4        -        5
+4        D        4
+5        -        86
+2        -        4
+2        C        3
+2        -        1
+5        -        40

@@ -1,0 +1,116 @@
+-MISSION-	22
+Kakusei
+SP 150
+Counter
+YukikosFireBooster 3
+
+-LIST-
+Persona5D c
+Persona2C c
+Persona5C c
+CmnCancelBurst i c
+MaharagiC
+Persona5C c
+Persona2C c
+LandAgirao
+AgishotAB2nd
+MaharagiD
+AgishotAB
+FireBoosterC a
+Persona2C c
+Persona5C c
+PersonaFireAttackB
+MaharagidineD_Frontfire_col |MaharagidineD_Backfire_col
+FireBoosterCD a
+MaharagidineC_Frontfire_col |MaharagidineC_Backfire_col
+PersonaFireBirdA
+
+-KEY-
+5	-	10
+5	D	10
+5	-	31
+6	-	4
+5	-	6
+6	-	32
+3	-	1
+3	C	1
+2	C	8
+5	C	3
+5	-	11
+5	C	18
+5	-	22
+5	ACD	13
+5	-	17
+2	-	4
+1	-	3
+4	C	2
+5	C	8
+5	-	50
+4	-	5
+5	-	4
+4	-	6
+4	C	5
+5	C	8
+2	-	16
+2	C	18
+2	-	9
+1	-	4
+4	-	4
+5	A	1
+5	AB	46
+2	A	4
+1	A	3
+4	A	2
+4	AD	1
+5	AD	7
+5	A	47
+4	A	4
+5	A	6
+4	A	12
+5	A	8
+2	-	3
+3	-	3
+6	-	1
+6	C	3
+5	C	4
+5	-	32
+2	-	7
+2	C	13
+5	-	12
+5	C	13
+5	-	6
+2	-	4
+3	-	2
+6	-	2
+6	B	3
+5	B	3
+2	-	4
+3	-	2
+6	-	4
+5	-	3
+2	-	5
+3	-	3
+6	-	3
+5	D	31
+5	-	115
+2	-	3
+3	-	2
+6	CD	4
+2	-	4
+3	-	3
+6	-	4
+2	-	4
+3	-	3
+6	-	4
+2	-	5
+3	-	2
+6	C	3
+5	C	4
+5	-	146
+8 - 3
+2	-	4
+1	-	3
+4	-	4
+2	-	4
+1	-	3
+4	A	4

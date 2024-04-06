@@ -1,0 +1,23 @@
+-MISSION-	1
+SP	50
+
+-LIST-
+NmlAtk5A	c
+NmlAtk5A2nd	c
+NmlAtk5A3rd	c
+AssaultA_1st	+Stylish1st
+AssaultA_2nd	+Stylish2nd
+nbef_430ShougekihaD	+StylishShougekiha
+
+-KEY-
+5	-A	3
+5	-	14
+5	-A	3
+5	-	19
+5	-A	3
+5	-	32
+5	-A	3
+5	-	15
+5	-A	3
+5	-	14
+5	-A	3

@@ -1,0 +1,42 @@
+-MISSION-	15
+Tooi
+-LIST-
+Chudan c
+ChudanOiuchi c
+ChudanFinish c
+ChudanJump a c
+elef251_CardShotAir
+NmlAtkAir2B c
+CmnActJumpExUpper a c nOnly
+elef251_CardShotAir
+NmlAtkAir2B c
+PersonaAir5C c
+
+-KEY-
+5	-	11
+6	-	5
+5	-	5
+6	-	8
+6	AB	10
+6	-	23
+5	-	2
+5	AB	68
+6	AB	4
+9	-	2
+9	C	16
+9	-	34
+5	-	5
+5	B	14
+5	-	16
+2	-	3
+2	B	9
+5	B	2
+5	-	6
+9	-	6
+5	B	9
+5	-	17
+2	-	4
+2	B	9
+5	-	7
+5	C	7
+5	-	85

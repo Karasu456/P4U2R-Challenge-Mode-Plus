@@ -1,0 +1,126 @@
+-MISSION-	2
+NoMiss
+Junhudo
+SP 100
+Tooi
+
+-LIST-
+BusterAttackA
+BusterAttackB
+BusterAttackAB |AirBusterAttackAB
+AirBusterAttackA
+AirBusterAttackB
+AirMountA
+AirMountB
+AirMountAB
+PersonaAntiAirC
+PersonaAntiAirD
+PAntiAirNageCD a
+PCommandNageC
+PersonaAssaultC
+PersonaAssaultD
+PersonaAssaultCD
+
+-KEY-
+2	-	3
+3	-	2
+6	-	2
+6	A	2
+5	A	4
+5	-	57
+2	-	4
+3	-	1
+3	B	1
+6	B	3
+5	B	5
+5	-	71
+2	-	4
+3	-	2
+6	-	1
+6	AB	2
+5	AB	8
+5	A	1
+5	-	61
+4	-	19
+5	-	4
+8	-	4
+5	-	1
+2	-	3
+3	-	2
+6	A	3
+5	A	5
+5	-	44
+4	-	32
+5	-	2
+8	-	3
+5	-	1
+2	-	3
+3	-	2
+6	B	3
+5	B	5
+5	-	52
+4	-	21
+8	-	6
+2	-	4
+1	-	1
+1	A	1
+4	A	3
+5	A	2
+5	-	250
+8	-	4
+5	-	1
+2	-	2
+1	-	1
+1	B	1
+4	B	3
+5	B	3
+5	-	250
+8	-	4
+5	-	1
+2	-	2
+1	-	2
+4	AB	3
+5	AB	5
+5	-	179
+5	A	41
+5	-	156
+2	-	3
+2	B	9
+2	-	11
+3	-	2
+6	-	2
+6	C	1
+5	C	7
+5	-	148
+2	-	4
+3	-	2
+6	D	2
+5	D	10
+5	-	24
+2	-	3
+2	B	10
+2	-	21
+5	-	147
+2	-	4
+3	-	2
+6	-	1
+6	CD	2
+5	CD	3
+5	D	7
+5	-	21
+2	-	2
+2	B	8
+5	B	1
+5	-	181
+2	-	4
+1	-	3
+4	-	1
+4	C	2
+5	C	8
+5	-	271
+1	-	95
+6	C	10
+1	-	95
+6	D	9
+1	-	95
+6	CD	8
