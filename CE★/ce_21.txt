@@ -11,13 +11,13 @@ NmlAtkAir2B c
 Persona5C c
 100inchPunchA
 PersonaKokutengekiC
-NmlAtk5B c
+NmlAtk5B +NmlAtk5B_dash
 PersonaAir5C c
 AirAbaremakuriB
 NoutenotoshiB
 Persona5C c
 Persona2D c
-NmlAtk5D2nd	i	c
+NmlAtk5D2nd i c +PersonaAir2D
 CmnFAirDash i c
 NmlAtkAir5B c
 NmlAtkAir5B2nd c

@@ -10,15 +10,17 @@ AirAbaremakuriB
 NoutenotoshiB
 Persona5C c
 Persona2C c
+_Dash	+CmnActFDash	i	c
 NmlAtk5B c
 Persona5C c
 NmlAtk2B c
 Ashibarai c
 -KEY-
-5	-	63
-6	-	38
-5	-	23
-2	-	6
+5 - 16
+6 - 2
+5 - 3
+6 - 3
+2	-	3
 2	B	4
 5	B	2
 5	-	11

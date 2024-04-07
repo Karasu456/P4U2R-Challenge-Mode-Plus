@@ -7,7 +7,7 @@ NmlAtk2A c
 NmlAtk2B c
 CmnActHeatUp +HeatUp a c
 PersonaKokutengekiC
-ReversalAction a
+ReversalAction a +ReversalAction_miss
 NmlAtk5B c
 Persona5C c
 Persona2C c
