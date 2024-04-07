@@ -1,0 +1,5 @@
+# Ignore .bat files
+*.bat
+
+# Ignore .bak files
+*.bak
