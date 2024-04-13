@@ -1,0 +1,55 @@
+-MISSION-	14
+Jump
+
+-LIST-
+NmlAtk2B c
+CmnActJumpExUpper a c nOnly
+elef251_CardShotAir
+NmlAtkAir5A c
+PersonaAir5C c
+NmlAtk2A c
+elef203_CardShot
+Ashibarai c
+TatsumakiHit_D
+elef203_CardShot
+Persona5C c
+Persona2C c
+PersonaMahajiodainB
+
+-KEY-
+5	-	26
+2	B	9
+5	-	3
+8	-	6
+5	B	10
+5	-	30
+5	A	7
+5	-	4
+5	C	10
+5	-	32
+2	-	3
+2	A	7
+5	-	5
+5	B	8
+5	-	35
+2	AB	8
+2	-	3
+3	-	2
+6	-	2
+6	D	3
+5	D	7
+5	-	4
+8	-	51
+2	-	21
+5	-	13
+5	B	11
+5	-	23
+5	C	12
+5	-	2
+2	-	31
+2	C	11
+2	-	19
+3	-	3
+6	B	3
+5	B	6
+5	-	97
