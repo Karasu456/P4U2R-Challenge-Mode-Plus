@@ -1,0 +1,91 @@
+-MISSION-	17
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+dmy_el208
+TatsumakiHit_D
+elef203_CardShot
+NmlAtk5B2nd
+NmlAtk5B3rd
+_HighJump a c nOnly
+PersonaAir5D c
+elef203_CardShot
+NmlAtk2B c
+CmnActJumpExUpper a c nOnly
+elef251_CardShotAir
+NmlAtkAir2B c
+PersonaAir5C c
+
+-KEY-
+5	-	12
+6	-	4
+5	-	5
+6	-	9
+6	A	5
+6	-	6
+5	A	5
+5	-	6
+5	A	5
+5	-	7
+5	A	3
+5	-	6
+5	A	4
+5	-	5
+5	A	5
+5	-	5
+5	A	5
+5	-	5
+5	A	4
+5	-	4
+5	A	6
+5	-	16
+2	-	3
+3	-	3
+6	-	2
+6	D	2
+5	D	3
+5	-	2
+6	-	7
+9	-	26
+8	-	3
+7	-	13
+4	-	2
+2	-	18
+5	-	10
+5	B	7
+5	-	4
+5	B	7
+5	-	4
+5	B	6
+5	-	4
+5	B	4
+5	-	6
+5	B	3
+5	-	6
+5	B	4
+5	-	5
+5	B	4
+5	-	5
+5	B	3
+5	-	11
+2	-	3
+5	-	2
+8	-	2
+5	-	7
+5	D	8
+5	-	71
+5	B	11
+5	-	16
+2	-	4
+2	B	8
+5	B	2
+5	-	4
+8	-	4
+5	B	9
+5	-	24
+2	B	7
+2	-	2
+5	-	6
+5	C	7
+5	-	61
