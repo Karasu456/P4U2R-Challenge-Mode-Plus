@@ -8,7 +8,6 @@ NmlAtk5A c
 NmlAtk5A2nd_P4U2 c
 elef203_CardShot
 ConcentrateA a
-_Kakusei i c
 Ashibarai c
 TatsumakiHit_CD
 Persona5C	c	|Persona5Cex

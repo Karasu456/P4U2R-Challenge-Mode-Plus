@@ -1,7 +1,6 @@
 -MISSION-	4
 Ichigeki
 SP        100
-Attack
 
 -LIST-
 Ichigeki
