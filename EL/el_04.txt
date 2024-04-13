@@ -1,13 +1,22 @@
 -MISSION-	4
 Ichigeki
-SP        100
-Attack
+SP	100
+Tooi
 
 -LIST-
 Ichigeki
 -KEY-
-2        -        3
-5        -        3
-2        -        3
-5        -        3
-2        -CD        3
+5	-	60
+2	-	3
+5	-	3
+2	-	3
+5	-	3
+2	-CD	3
+-EKEY-
+2	-	3
+3	-	3
+6	-	3
+2	-	3
+3	-	3
+6	-D	1
+5	-	300
