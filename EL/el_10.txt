@@ -1,94 +1,61 @@
 -MISSION-	10
-HashiEx
+Hashi
+SP 25
 
 -LIST-
-NmlAtk5A c
-NmlAtk5A2nd_P4U2 c
-dmy_el208
+elef203_CardShot
+Ashibarai c
+TatsumakiHit_CD
+elef203_CardShot
+Persona5C c
+Persona2C c
 PersonaMahajiodainB
 Persona5C c
 Persona2C c
-elef203_CardShot
-Ashibarai c
-TatsumakiHit_D
-elef203_CardShot
-NmlAtk5B2nd
-NmlAtk5B3rd
-_HighJump a c nOnly
-elef251_CardShotAir
-NmlAtkAir2B c
-PersonaAir5C c
+PersonaMahabufudainB
 
 -KEY-
-5	-	12
+5	-	10
+6	-	4
+5	-	5
 6	-	3
-5	-	5
-6	-	17
-6	A	5
-6	-	5
-5	A	6
-5	-	6
-5	A	4
-5	-	6
-5	A	4
-5	-	6
-5	A	4
-5	-	8
-5	A	2
-5	-	7
-5	A	4
-5	-	6
-5	A	5
-5	-	19
-2	-	3
-3	-	3
-6	B	3
-5	B	3
-5	-	72
-5	C	5
-5	-	6
-5	C	8
-2	-	25
-2	C	10
-2	-	27
-5	-	34
-5	B	10
-5	-	27
-2	-	3
-2	AB	10
-3	-	3
-6	-	3
-6	D	2
-5	D	8
-8	-	44
-7	-	9
-2	-	21
-5	-	13
-5	B	8
-5	-	4
-5	B	6
-5	-	4
-5	B	7
-5	-	4
+6	B	2
 5	B	4
-5	-	5
-5	B	4
-5	-	5
-5	B	4
-5	-	5
-5	B	5
-5	-	4
-5	B	5
-5	-	4
-5	B	7
-5	-	4
-2	-	3
-5	-	3
-8	-	2
-5	-	5
-5	B	8
 5	-	25
-2	B	7
+2	-	3
+2	AB	5
+2	-	4
+3	-	2
+6	-	4
+5	CD	5
+5	D	4
 5	-	7
-5	C	6
-5	-	51
+8	-	45
+2	-	27
+5	-	13
+5	B	11
+5	-	19
+5	C	12
+5	-	4
+2	-	30
+2	C	8
+2	-	22
+3	-	2
+6	-	2
+6	B	3
+5	B	6
+5	-	77
+5	C	10
+5	-	6
+2	-	29
+2	C	9
+2	-	24
+1	-	5
+4	B	8
+5	-	104
+2	-	4
+3	-	2
+6	-	2
+6	B	2
+5	B	7
+5	-	80

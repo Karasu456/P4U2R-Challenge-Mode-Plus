@@ -1,0 +1,136 @@
+-MISSION-	23
+Tooi
+SP	150
+Kakusei
+
+-LIST-
+NmlAtk5A2nd_P4U2 +NmlAtk5A2nd_trial
+Ashibarai c
+TatsumakiHit_C
+CmnCancelBurst i c
+Persona2D a i |NmlAtk2D a i c
+elef203_CardShot
+Ashibarai c
+TatsumakiHit_D
+Persona2C c
+PersonaMahajiodainAB
+Persona5C c |Persona5Cex
+elef251_CardShotAir
+PersonaAir5C c
+NmlAtk2A c
+elef203_CardShot
+Persona5C c |Persona5Cex
+PersonaMahabufudainAB
+NmlAtk2C	a i	+NmlAtk2Cmiss
+MoujyaHit_C |MoujyaHit_D +MoujyaHit_C_or_D
+
+
+
+-KEY-
+5	-	24
+6	-	4
+5	-	6
+6	-	7
+6	A	5
+5	-	6
+5	A	7
+5	-	17
+2	-	16
+2	AB	4
+2	B	2
+2	-	2
+3	-	2
+6	-	4
+5	C	7
+6	-	4
+6	-	66
+6	ACD	5
+6	-	11
+5	-	19
+2	-	4
+2	D	10
+5	-	19
+5	B	3
+5	-	4
+5	B	4
+5	-	32
+2	-	4
+2	AB	7
+2	-	4
+3	-	2
+6	-	4
+5	D	8
+6	D	2
+6	-	74
+5	-	15
+2	-	3
+2	C	7
+2	-	26
+3	-	4
+6	AB	3
+5	AB	14
+5	-	56
+6	-	4
+5	-	6
+6	-	64
+6	B	8
+5	B	4
+5	-	24
+6	C	7
+5	-	42
+9	-	3
+5	-	5
+6	-	13
+5	B	8
+5	-	21
+5	C	6
+5	-	27
+2	-	3
+2	A	6
+5	-	9
+5	B	6
+5	-	29
+5	C	9
+5	-	4
+2	-	32
+2	C	7
+2	-	31
+1	-	6
+4	AB	4
+5	-	32
+2	-	8
+2	C	3
+2	-	5
+2	C	4
+2	-	4
+2	C	3
+2	-	5
+2	C	4
+2	-	4
+2	C	4
+2	-	4
+2	C	4
+2	-	4
+2	C	4
+2	-	4
+2	C	4
+2	-	3
+5	-	17
+5	AB	3
+5	-	5
+5	AB	3
+5	-	6
+5	AB	3
+5	-	4
+5	AB	4
+5	-	4
+5	AB	5
+5	-	7
+2	-	7
+1	-	2
+4	ABC	3
+5	-	2
+2	-	4
+1	-	5
+4	C	2
+5	-	131

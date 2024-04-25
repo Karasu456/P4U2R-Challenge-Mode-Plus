@@ -18,7 +18,6 @@ NmlAtk5A c
 NmlAtk5A2nd_P4U2 c
 dmy_el208
 PersonaMahabufudainB
-Ashibarai c
 
 -KEY-
 5	-	11
