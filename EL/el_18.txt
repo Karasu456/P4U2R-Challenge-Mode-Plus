@@ -6,7 +6,7 @@ Counter
 -LIST-
 NmlAtk2C	a i	+NmlAtk2Cmiss
 PersonaAir5C c
-TatsumakiHit_D
+TatsumakiHit_D +AirTatsumakiHit_D
 Persona5C	c	|Persona5Cex
 CmnFAirDash i c
 elef251_CardShotAir
@@ -32,7 +32,7 @@ PersonaMahajiodainAB
 5	-	46
 6	-	4
 5	-	6
-6	-	51
+6	-	30
 9	-	5
 5	C	8
 5	-	13
