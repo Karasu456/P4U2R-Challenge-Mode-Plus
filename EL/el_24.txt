@@ -1,0 +1,107 @@
+-MISSION-	24
+Tooi
+Counter
+SP	75
+HPRecoverEnemyOnly
+
+-LIST-
+PersonaAir5C c
+NmlAtk2A c
+elef203_CardShot
+Ashibarai c
+ConcentrateAB a
+NmlAtk2A c
+TatsumakiHit_CD
+Persona2C c
+PersonaMahajiodainAB
+_Dash i c
+Ashibarai c
+TatsumakiHit_D
+Persona5C |Persona5Cex c
+PersonaMahabufudainAB
+Persona2D a i |NmlAtk2D a i c
+elef203_CardShot
+Persona5C |Persona5Cex c
+PersonaMahabufudainA
+PersonaAir5C c
+
+-KEY-
+5	-	8
+6	-	5
+5	-	3
+6	-	25
+8	-	4
+8	C	3
+5	C	5
+5	-	41
+2	-	4
+2	A	7
+5	-	2
+5	B	10
+5	-	36
+2	-	5
+2	AB	4
+3	AB	4
+6	-	5
+2	-	6
+6	-	7
+2	-	3
+3	-	3
+6	AB	3
+5	-	84
+2	-	2
+2	A	4
+2	-	4
+3	-	3
+6	CD	3
+5	D	3
+5	-	87
+2	-	3
+2	C	4
+2	-	31
+3	-	2
+6	AB	4
+5	B	2
+5	-	68
+6	-	4
+5	-	5
+6	-	79
+3	-	2
+2	AB	6
+2	B	2
+2	-	2
+3	-	3
+6	-	3
+5	D	9
+6	-	28
+5	-	76
+5	C	14
+5	-	33
+2	-	4
+1	-	4
+4	AB	62
+2	-	6
+2	D	9
+2	-	3
+5	-	9
+5	B	3
+5	-	5
+5	B	4
+5	-	5
+5	B	4
+5	-	4
+5	B	4
+5	-	5
+5	B	4
+5	-	17
+5	C	7
+5	-	34
+2	-	5
+1	-	2
+4	-	4
+5	A	5
+5	-	38
+8	-	5
+5	-	2
+5	C	6
+5	-	45
