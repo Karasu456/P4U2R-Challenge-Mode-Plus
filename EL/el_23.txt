@@ -134,3 +134,9 @@ MoujyaHit_C |MoujyaHit_D +MoujyaHit_C_or_D
 1	-	5
 4	C	2
 5	-	131
+-EKEY-
+5        -        22
+2        -        6
+1        -        2
+4        -        2
+5        A        5

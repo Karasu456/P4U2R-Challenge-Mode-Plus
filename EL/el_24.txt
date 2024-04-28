@@ -10,11 +10,11 @@ NmlAtk2A c
 elef203_CardShot
 Ashibarai c
 ConcentrateAB a
+_Kakusei i c
 NmlAtk2A c
 TatsumakiHit_CD
 Persona2C c
 PersonaMahajiodainAB
-_Dash i c
 Ashibarai c
 TatsumakiHit_D
 Persona5C |Persona5Cex c
