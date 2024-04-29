@@ -1,0 +1,65 @@
+-MISSION-	9
+JunpeisPoint	0
+JunpeisOtakebi 1
+Hashi
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5A3rd c
+SpinHomerunB
+NmlAtk5B c
+NmlAtk2B c
+Dmy_NmlAtk5C_Shot
+NmlAtkAir5A c
+NmlAtkAir5B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+AirSpinHomerunA
+
+-KEY-
+5	-	13
+6	-	3
+5	-	7
+6	-	11
+6	A	4
+5	A	2
+5	-	5
+5	A	7
+5	-	6
+5	A	5
+5	-	4
+5	A	8
+5	-	9
+2	-	5
+3	-	2
+6	-	1
+6	B	3
+5	B	7
+5	-	106
+5	B	9
+5	-	2
+2	-	5
+2	B	9
+5	B	3
+5	-	13
+5	C	14
+5	-	11
+6	-	1
+9	-	4
+8	-	1
+8	A	2
+5	A	5
+5	-	6
+5	B	10
+5	-	8
+8	-	7
+8	B	1
+5	B	11
+5	-	2
+2	-	3
+3	-	2
+6	-	1
+6	A	3
+5	A	7
+5	-	157

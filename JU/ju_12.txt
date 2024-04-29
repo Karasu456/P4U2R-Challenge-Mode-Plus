@@ -1,0 +1,130 @@
+-MISSION-	12
+JunpeisPoint	10
+HashiEx
+SP 10
+
+-LIST-
+NmlAtkThrow c
+NmlAtk2B c
+Dmy_NmlAtk5C_Shot
+NmlAtkAir5BClean
+PushBuntAClean
+ReversalAction	a	n2miss	+ReversalActionKamae
+ReversalActionClean
+SpinHomerunBClean
+Dmy_NmlAtk5C_Shot
+PushBuntBClean
+NmlAtkAir2A c
+NmlAtk5BClean
+Persona2D c
+PersonaDeathBoundD
+UltimateGrandSlamA a
+UltimateGrandSlamA d4300 +UltimateGrandSlamABUpper_clean
+
+-KEY-
+5	-	10
+6	-	4
+5	-	5
+6	-	18
+6	CD	4
+5	CD	5
+5	D	1
+5	-	61
+6	-	4
+5	-	5
+6	-	3
+3	-	2
+3	B	1
+2	B	3
+5	B	4
+5	-	6
+5	C	9
+5	-	20
+6	-	2
+9	-	5
+8	-	1
+5	-	1
+5	B	10
+5	-	33
+2	-	3
+1	-	2
+4	A	2
+5	A	4
+5	-	9
+5	BD	5
+5	-	7
+5	A	6
+5	-	23
+2	-	3
+3	-	2
+6	-	1
+6	B	3
+5	B	3
+5	-	106
+6	-	3
+5	-	5
+6	-	4
+6	C	3
+5	C	2
+5	-	4
+2	-	4
+1	-	2
+4	-	1
+4	B	2
+5	B	3
+5	-	43
+8	-	4
+2	-	3
+2	A	4
+5	A	3
+5	-	26
+6	-	3
+5	-	2
+6	-	2
+5	B	4
+2	-	4
+2	D	10
+2	-	30
+2	-	4
+1	-	2
+4	-	4
+4	D	4
+2	-	5
+3	-	2
+6	-	5
+3	-	1
+2	-	5
+3	-	2
+6	-	4
+2	-	4
+2	A	1
+3	A	2
+3	-	1
+6	-	3
+5	-	1
+2	-	1
+2	A	3
+3	-	3
+6	-	2
+6	A	2
+5	A	2
+5	-	14
+5	A	2
+5	-	6
+5	A	4
+5	-	6
+5	A	3
+5	-	5
+5	A	4
+5	-	5
+5	A	4
+5	-	5
+5	A	4
+5	-	5
+5	A	4
+5	-	4
+5	A	5
+5	-	4
+5	A	5
+5	-	5
+5	A	5
