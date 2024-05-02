@@ -18,7 +18,7 @@ ReversalAction	a	n2miss	+ReversalActionKamae
 _Kakusei i c
 ReversalActionClean
 UltimateGrandSlamC a
-UltimateGrandSlamC |Homerun_Ball +UltimateGrandSlamABUpper_clean
+Homerun_Ball +UltimateGrandSlamCDUpper_foul
 PersonaUltimateSwingShotCD
 UltimateSwingShotCD d5800 +ReversalActionClean
 
