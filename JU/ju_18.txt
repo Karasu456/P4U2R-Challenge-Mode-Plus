@@ -23,7 +23,7 @@ NmlAtk5BClean
 Persona2D c
 PersonaDeathBoundD
 PersonaUltimateSwingShotD
-UltimateSwingShotD	+ReversalActionClean
+UltimateSwingShotD d4700	+ReversalActionClean
 
 -KEY-
 5	-	12
