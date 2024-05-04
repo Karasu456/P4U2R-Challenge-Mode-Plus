@@ -1,0 +1,100 @@
+-MISSION-	26
+HashiEx
+Crouch
+JunpeisPoint	10
+
+-LIST-
+Chudan c
+ChudanOiuchi c
+ChudanBlow c
+NmlAtkAir2A c
+PushBuntAClean
+ReversalActionClean +ReversalActionClean_combined
+SpinHomerunBClean
+NmlAtk2BClean
+Dmy_NmlAtk5C_Shot
+NmlAtkAir5BClean
+AirSpinHomerunBClean |SpinHomerunBClean
+NmlAtk5BClean
+CmnMiniJump i c
+NmlAtkAir5BClean
+PushBuntAClean
+PersonaDeathBoundD
+
+-KEY-
+5	-	12
+6	-	4
+5	-	6
+6	-	1
+6	AB	7
+6	B	1
+6	-	19
+5	-	3
+5	AB	80
+5	-	2
+5	D	10
+5	-	12
+6	-	4
+9	-	11
+3	-	2
+2	-	2
+2	A	4
+5	A	6
+5	-	21
+2	-	3
+1	-	2
+4	-	2
+4	A	1
+5	A	12
+5	-	8
+5	BD	6
+5	-	7
+5	B	8
+5	-	17
+2	-	4
+3	-	2
+6	B	4
+5	B	13
+6	B	14
+6	-	67
+5	-	24
+2	-	2
+2	B	10
+5	B	4
+5	-	8
+5	C	10
+5	-	14
+6	-	2
+9	-	6
+8	-	1
+5	-	1
+5	B	9
+2	B	2
+2	-	3
+3	-	2
+6	-	1
+6	B	2
+5	B	11
+5	-	32
+6	-	41
+5	-	37
+5	B	9
+5	-	2
+2	-	6
+2	AC	6
+5	C	2
+5	-	14
+5	B	8
+5	-	30
+2	-	2
+1	-	2
+4	-	2
+4	A	1
+5	A	7
+5	-	11
+2	-	3
+1	-	2
+4	-	1
+4	D	1
+5	D	6
+5	-	82

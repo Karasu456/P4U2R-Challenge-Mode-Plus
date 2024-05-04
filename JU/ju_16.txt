@@ -1,5 +1,6 @@
 -MISSION-	16
 HashiEx
+Crouch
 JunpeisPoint	0
 JunpeisOtakebi	1
 

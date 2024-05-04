@@ -1,0 +1,147 @@
+-MISSION-	22
+HashiEx
+SP	150
+Kakusei
+JunpeisPoint	10
+Counter
+
+-LIST-
+Persona2D c
+NmlAtkAir5BClean
+NmlAtk5BClean
+CmnMiniJump i c
+NmlAtkAir5BClean
+ReversalActionClean +ReversalActionClean_combined
+PushBuntBClean
+ReversalActionClean +ReversalActionClean_combined
+SpinHomerunBClean
+Dmy_NmlAtk5C_Shot
+PushBuntABClean
+NmlAtk2B c
+NmlAtk5BClean
+NmlAtkAir5BClean
+AirSpinHomerunAClean
+UltimateGrandSlamA a
+UltimateGrandSlamA d4600 +UltimateGrandSlamABYoko_clean
+PersonaUltimateSwingShotCD
+UltimateSwingShotCD d6300 +ReversalActionClean
+
+
+-KEY-
+5	-	13
+2	-	2
+2	D	3
+5	D	5
+5	-	45
+8	-	6
+8	B	2
+5	B	7
+5	-	42
+6	B	4
+5	B	3
+5	-	10
+2	-	2
+2	AC	7
+5	AC	1
+5	-	12
+5	B	8
+5	-	30
+5	BD	6
+5	-	2
+5	B	5
+5	-	25
+2	-	2
+1	-	2
+4	B	2
+5	B	22
+5	-	18
+5	BD	5
+5	-	6
+5	B	4
+5	-	23
+2	-	3
+3	-	2
+6	-	1
+6	B	2
+5	B	16
+5	-	94
+6	-	2
+5	-	7
+6	-	3
+6	C	3
+5	C	7
+5	-	5
+2	-	3
+1	-	2
+4	-	2
+5	AB	5
+5	-	32
+6	-	4
+5	-	4
+6	-	2
+3	-	2
+2	B	4
+5	B	1
+5	-	7
+5	B	4
+5	-	24
+8	-	12
+5	B	7
+5	-	4
+2	-	4
+3	-	2
+6	-	4
+5	-	1
+5	A	7
+5	-	40
+2	-	4
+3	-	2
+6	-	4
+5	-	2
+2	-	4
+3	-	1
+6	-	4
+5	-	2
+2	-	4
+3	-	1
+6	-	3
+6	A	3
+5	A	1
+5	-	34
+5	B	1
+5	-	7
+5	B	2
+5	-	5
+5	B	3
+5	-	4
+5	B	4
+5	-	4
+5	B	3
+5	-	5
+5	B	3
+5	-	5
+5	B	3
+5	-	3
+5	B	3
+5	-	56
+2	-	4
+1	-	2
+4	-	3
+5	-	2
+2	-	5
+1	-	2
+4	-	1
+4	CD	1
+5	CD	1
+5	D	1
+2	-	1
+1	-	2
+2	-	1
+2	D	1
+1	CD	2
+4	CD	1
+4	C	1
+4	-	1
+5	-	102
+5	A	4
+5	-	86
