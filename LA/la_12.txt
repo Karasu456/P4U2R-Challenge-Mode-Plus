@@ -1,0 +1,56 @@
+-MISSION-	12
+HashiEx
+SP 100
+LabryssAxInitial	1
+
+-LIST-
+NmlAtkThrow c
+CmnOneMoreCancel i c
+NmlAtk2B c
+NmlAtkAir5B c
+NmlAtkAir5B2nd c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+vr_lp254atk
+AxeAttackAirB
+UltimateTackleC
+
+-KEY-
+5	-	10
+6	-	3
+5	-	5
+6	-	10
+6	CD	11
+6	D	1
+6	-	5
+5	-	40
+5	ABC	8
+5	-	4
+2	-	6
+2	B	9
+5	-	19
+8	-	8
+5	B	9
+5	-	9
+5	B	11
+5	-	25
+8	-	5
+8	B	2
+5	B	8
+5	-	18
+5	C	11
+5	-	25
+2	-	3
+1	-	2
+4	-	1
+4	B	1
+5	B	14
+5	-	25
+2	-	4
+3	-	2
+6	-	3
+5	-	2
+2	-	3
+3	C	2
+6	C	3
+5	-	142

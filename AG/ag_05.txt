@@ -1,0 +1,63 @@
+-MISSION-	5
+AegissOrgia        1
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5A3rd_P4U2 c
+dmy_machinegun10
+CmnFAirDash i c
+Air2B_Bom
+NmlAtkAir5B c
+NmlAtk5A c
+dmy_5B
+NmlAtkAir5B c
+Air2B_Bom
+
+-KEY-
+5	-	20
+6	-	3
+5	-	4
+6	-	9
+6	A	8
+6	-	5
+5	-	1
+5	A	5
+5	-	7
+5	A	4
+5	-	7
+5	A	4
+5	-	7
+5	A	5
+5	-	6
+5	A	4
+5	-	6
+5	A	4
+5	-	7
+5	A	5
+5	-	26
+6	-	5
+5	-	3
+6	-	3
+3	-	2
+2	B	7
+5	B	2
+5	-	15
+5	B	11
+5	-	7
+6	-	3
+5	-	5
+6	-	3
+6	A	6
+5	A	1
+5	-	13
+5	B	9
+5	-	7
+6	-	2
+9	-	7
+5	B	8
+5	-	7
+2	-	6
+2	B	6
+2	-	2
+5	-	260

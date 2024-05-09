@@ -1,0 +1,87 @@
+-MISSION-	8
+AegissOrgia 1
+AegissBulletsRecover 1
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5A3rd_P4U2 c
+dmy_machinegun10
+CmnFAirDash i c
+Air2B_Bom
+NmlAtkAir5B c
+dmy_5B
+Persona2C c
+ModeChangeB a
+CmnActJumpExUpper a c nOnly
+PersonaAir5C c
+AirRollingD |RollingD
+ModeChangeA a
+
+-KEY-
+5	-	14
+6	-	3
+5	-	5
+6	-	5
+6	A	4
+6	-	3
+5	-	4
+5	A	3
+5	-	6
+5	A	4
+5	-	7
+5	A	4
+5	-	6
+5	A	4
+5	-	6
+5	A	4
+5	-	7
+5	A	3
+5	-	7
+5	A	2
+5	-	28
+6	-	5
+5	-	4
+6	-	2
+3	-	4
+2	B	3
+5	B	2
+5	-	7
+5	B	3
+5	-	6
+5	B	4
+5	-	5
+5	B	4
+5	-	5
+5	B	4
+5	-	4
+5	B	7
+5	-	5
+5	B	5
+5	-	10
+2	-	4
+2	C	8
+5	-	16
+2	-	3
+5	-	3
+2	-	4
+2	B	5
+5	-	19
+6	-	2
+9	-	5
+9	C	1
+6	C	1
+5	C	9
+5	-	17
+2	-	6
+3	-	2
+6	-	2
+6	D	2
+5	D	12
+5	-	58
+2	-	4
+5	-	5
+2	-	3
+2	A	6
+5	A	1
+5	-	22

@@ -1,0 +1,100 @@
+-MISSION-	10
+SP 25
+HashiEx
+LabryssAxInitial	1
+
+-LIST-
+NmlAtkAir5B c
+NmlAtk5A c
+NmlAtk5B c
+Ashibarai c
+AxeAttackAB
+PShotC a
+_Jump i c +_Jump7
+NmlAtkAir2B c
+NmlAtk5B |NmlAtk5BHold +NmlAtk5B_charged
+vr_lp205atk
+Ashibarai c
+vr_lp206atk
+NmlAtk2B c
+_HighJump a c nOnly
+vr_lp254atk
+AxeAttackAirB
+
+-KEY-
+5	-	12
+6	-	4
+5	-	5
+6	-	4
+9	-	5
+8	-	3
+5	-	17
+5	B	10
+5	-	13
+6	-	4
+5	-	5
+6	-	4
+6	A	3
+5	A	3
+5	-	6
+5	B	7
+5	-	17
+2	-	3
+2	AB	5
+2	B	1
+2	-	19
+1	-	1
+4	-	2
+4	AB	1
+5	AB	3
+5	B	1
+5	-	45
+2	-	4
+3	-	2
+6	-	2
+6	C	1
+5	C	3
+5	-	50
+4	-	1
+7	-	7
+5	-	15
+2	-	3
+2	B	9
+5	B	5
+5	-	20
+5	B	27
+5	-	6
+5	D	4
+5	-	5
+5	D	4
+5	-	4
+5	D	4
+5	-	5
+5	D	4
+5	-	3
+5	D	6
+5	-	40
+2	-	2
+2	AB	5
+5	AB	1
+5	B	1
+5	-	6
+5	D	5
+5	-	5
+5	D	5
+5	-	32
+2	-	3
+2	B	6
+5	B	4
+5	-	9
+2	-	7
+6	-	2
+9	-	2
+5	-	5
+5	C	13
+5	-	21
+2	-	3
+1	-	2
+4	B	1
+5	B	6
+5	-	181

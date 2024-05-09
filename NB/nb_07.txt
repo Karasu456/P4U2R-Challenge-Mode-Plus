@@ -1,0 +1,42 @@
+-MISSION-	7
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk2B c
+NmlAtk5B c
+Persona5C c
+AssaultB_1st
+AssaultB_2nd
+AssaultB_3rd
+
+-KEY-
+5	-	16
+6	-	4
+5	-	5
+6	-	3
+6	A	6
+5	A	1
+5	-	5
+5	A	9
+5	-	12
+2	-	4
+2	B	7
+5	B	3
+5	-	27
+5	B	13
+5	-	26
+5	C	10
+5	-	15
+2	-	2
+1	-	2
+1	B	1
+4	B	2
+5	B	4
+5	-	8
+4	-	8
+4	B	8
+4	-	15
+4	B	10
+4	-	27
+5	-	33

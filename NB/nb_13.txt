@@ -1,0 +1,45 @@
+-MISSION-	13
+Jump
+Tooi
+SP 50
+
+-LIST-
+NmlAtkAir5B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B c
+PersonaAir5C c
+ReversalActionAir
+nbef_430ShougekihaD +nbef_430ShougekihaD_air
+
+-KEY-
+5	-	3
+6	-	3
+5	-	5
+6	-	3
+9	-	3
+8	B	2
+5	B	7
+5	-	22
+4	-	3
+7	-	4
+8	A	2
+5	A	4
+5	-	6
+5	B	7
+5	-	32
+5	C	9
+5	-	11
+5	BD	7
+5	-	6
+2	-	3
+3	-	2
+6	-	4
+2	-	4
+3	-	2
+6	-	3
+6	D	2
+3	D	1
+2	D	1
+2	-	3
+5	-	101

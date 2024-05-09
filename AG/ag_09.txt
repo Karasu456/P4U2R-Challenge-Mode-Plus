@@ -1,0 +1,60 @@
+-MISSION-	9
+Hashi
+AegissOrgia 1
+AegissBulletsRecover 1
+
+-LIST-
+dmy_5B
+Persona5C c
+CmnFAirDash i c
+NmlAtkAir5B c
+PersonaAir2C c
+dmy_machinegun_4A +dmy_machinegun_4A_hold
+dmy_5B
+NmlAtkAir5B c
+Air2B_Bom
+
+-KEY-
+5	-	15
+6	-	4
+5	-	5
+6	-	8
+6	B	6
+5	B	1
+5	-	8
+5	C	7
+5	-	24
+6	-	1
+9	-	3
+8	-	1
+5	-	5
+6	-	8
+6	B	4
+5	B	4
+2	-	7
+2	C	9
+2	-	15
+3	-	3
+6	A	5
+5	A	49
+6	A	1
+6	-	3
+5	-	6
+6	-	14
+6	B	3
+5	B	6
+5	-	10
+9	-	7
+6	B	4
+5	B	6
+5	-	5
+2	-	5
+2	B	10
+2	-	2
+5	-	27
+2	-	6
+5	-	3
+2	-	2
+2	A	7
+5	A	2
+5	-	45

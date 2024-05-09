@@ -1,0 +1,80 @@
+-MISSION-	16
+HashiEx
+Crouch
+
+-LIST-
+Chudan c
+ChudanOiuchi c
+ChudanBlow c
+_Dash +CmnActFDash i c
+Persona5C c
+Persona2C c
+PersonaAir5D c
+PersonaWarpC
+NmlAtk2A c
+Persona5C c
+NmlAtk2B c
+NmlAtk5B c
+Persona5C c
+Persona5D c
+PersonaWarpC
+
+-KEY-
+5	-	11
+6	-	4
+5	-	5
+6	-	7
+6	A	1
+6	AB	10
+6	B	1
+6	-	13
+5	-	10
+5	AB	78
+5	-	2
+5	D	9
+5	-	11
+6	-	3
+5	-	5
+6	-	24
+6	C	2
+5	C	6
+5	-	3
+2	-	9
+2	C	12
+2	-	1
+5	-	27
+4	-	3
+7	-	5
+4	D	2
+5	D	8
+5	-	22
+2	-	3
+3	-	3
+6	C	3
+5	C	8
+5	-	5
+6	-	33
+5	-	22
+2	-	2
+2	A	6
+2	-	2
+5	-	2
+5	C	8
+5	-	36
+2	-	2
+2	B	7
+5	B	2
+5	-	31
+5	B	7
+5	-	10
+5	C	6
+5	-	13
+2	-	8
+5	D	7
+5	-	20
+2	-	4
+3	-	2
+6	-	1
+6	C	2
+5	C	7
+5	-	184

@@ -1,0 +1,66 @@
+-MISSION-	12
+SP 50
+
+-LIST-
+NmlAtkThrow c
+CmnOneMoreCancel i c
+CmnBAirDash i c
+Persona2C c
+PersonaAir5D c
+PersonaWarpC +PersonaWarpC_air
+NmlAtk2A c
+NmlAtk5B c
+NmlAtk2B c
+Persona5C c
+Persona5D c
+PersonaWarpC
+
+-KEY-
+5	-	10
+6	-	4
+5	-	4
+6	-	1
+6	D	1
+6	CD	14
+6	D	1
+6	-	3
+5	-	50
+4	ABC	2
+7	ABC	2
+8	ABC	1
+5	-	3
+4	-	12
+5	-	9
+2	-	1
+2	C	8
+5	C	1
+5	-	29
+6	-	2
+9	-	4
+6	D	1
+5	D	6
+5	-	9
+2	-	8
+3	-	3
+6	C	5
+5	C	5
+5	-	11
+6	-	53
+5	-	8
+2	A	6
+2	-	2
+5	B	6
+5	-	8
+2	-	5
+2	B	6
+5	-	18
+5	C	8
+5	-	15
+5	D	10
+5	-	17
+2	-	1
+3	-	4
+6	-	4
+6	C	1
+5	C	8
+5	-	71

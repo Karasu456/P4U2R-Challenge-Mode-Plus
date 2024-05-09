@@ -1,0 +1,65 @@
+-MISSION-	10
+SP	50
+HashiEx
+
+-LIST-
+Persona2D c
+PersonaWarpC
+CmnOneMoreCancel i c
+NmlAtkAir5B c
+NmlAtk5A c
+NmlAtk5A2nd c
+Persona5D c
+PersonaWarpC
+NmlAtk2A c
+NmlAtk5B c
+NmlAtk2B c
+Persona5C c
+Persona5D c
+PersonaWarpC
+
+-KEY-
+5	-	10
+2	-	4
+2	D	10
+2	-	22
+3	-	3
+6	C	3
+5	C	4
+5	-	46
+5	ABC	6
+5	-	8
+5	B	7
+5	-	11
+5	A	5
+5	-	8
+5	A	6
+5	-	19
+5	D	7
+5	-	13
+2	-	5
+3	-	2
+6	-	1
+6	C	3
+5	C	3
+5	-	41
+2	-	9
+5	-	22
+2	-	2
+2	A	7
+2	-	1
+5	-	3
+5	B	7
+5	-	4
+2	-	7
+2	B	8
+5	-	16
+5	C	7
+5	-	17
+5	D	8
+5	-	19
+2	-	5
+3	-	2
+6	C	4
+5	C	4
+5	-	200
