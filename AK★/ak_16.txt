@@ -5,7 +5,7 @@ SP        50
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 RushB
 DashUpperB

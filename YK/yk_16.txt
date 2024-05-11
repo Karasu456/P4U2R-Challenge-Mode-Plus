@@ -4,7 +4,7 @@ HashiEx
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 5B_Atk
 2B_Atk +2B_Atk_Charge

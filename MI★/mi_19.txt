@@ -12,7 +12,7 @@ Ashibarai c
 IceMiller_ShotC
 NmlAtk5Btame
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 IceMiller_ShotD
 TentarahuD

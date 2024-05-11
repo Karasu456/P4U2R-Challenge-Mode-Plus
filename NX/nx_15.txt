@@ -4,7 +4,7 @@ Tooi
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanFinish c
 ChudanJump a c
 PersonaAir5C c

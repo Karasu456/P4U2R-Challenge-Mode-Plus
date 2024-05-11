@@ -4,7 +4,7 @@ Hashi
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 PersonaAir2D c
 NmlAtkAir2B c

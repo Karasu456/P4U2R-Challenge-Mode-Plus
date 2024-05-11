@@ -3,7 +3,7 @@ HashiEx
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 NmlAtk5B c
 _HighJump a c nOnly

@@ -6,7 +6,7 @@ SP 50
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanFinish c
 ChudanJump a c
 NmlAtkAir5B c

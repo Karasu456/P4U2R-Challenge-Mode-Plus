@@ -6,7 +6,7 @@ SP 150
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 IceMiller_ShotD
 TentarahuC a

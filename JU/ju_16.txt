@@ -6,7 +6,7 @@ JunpeisOtakebi	1
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 SpinHomerunB
 NmlAtk5B c

@@ -14,7 +14,7 @@ IceMiller_ShotC
 IceMiller_ShotD
 NmlAtk5Btame
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 CmnBAirDash i c
 NmlAtk2C |Persona2C a i c

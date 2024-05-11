@@ -1,8 +1,6 @@
 -MISSION-	15
 Tooi
 Crouch
-JunpeisPoint 0
-JunpeisOtakebi 1
 
 -LIST-
 Chudan c
@@ -11,37 +9,37 @@ ChudanFinish c
 ChudanJump a c
 NmlAtkAir5A c
 NmlAtkAir5B c
-PersonaAir5C c
 CmnActJumpExUpper a c nOnly
 NmlAtkAir5B c
-PersonaAir5C c
-PersonaDeathBoundAirC
+NmlAtkAir5C	c	rpef_253_atk
+rp403_atkc_col	rp403_markingc_col
 
 -KEY-
 5	-	14
-6	-	3
+6	-	5
 5	-	5
 6	-	6
-6	AB	8
-6	B	2
-6	-	17
+6	AB	11
+6	-	14
+5	-	11
+5	AB	73
+6	-	2
+9	-	2
+9	C	12
+9	-	35
+5	A	6
 5	-	5
-5	AB	76
-9	C	18
-9	-	25
-5	A	4
-5	-	8
 5	B	9
-5	-	14
-5	C	9
-5	-	18
-9	-	7
+5	-	26
+9	-	4
+9	B	3
 5	B	8
-5	-	8
-5	C	11
-5	-	12
-2	-	4
-1	-	2
-4	C	2
-5	C	7
-5	-	140
+5	-	21
+5	C	8
+5	-	17
+2	-	6
+3	-	4
+6	-	2
+6	C	3
+5	C	8
+5	-	68
