@@ -1,86 +1,87 @@
 -MISSION-	15
 Crouch
-HashiEx
+Tooi
 
 -LIST-
 Chudan c
 ChudanOiuchi c
-ChudanBlow c
-5B_Atk
-2B_Atk +2B_Atk_Charge
+ChudanFinish c
+ChudanJump a c
+Air5B_Atk
 Air2B_Atk +Air2B_Atk_Charge
 5B_Atk +5B_Atk_Charge
-MatoNageB a
-5B_Atk
-2B_Atk +2B_Atk_Charge
+CmnFAirDash i c
 Air5B_Atk +Air5B_Atk_Charge
-eff_MatoNage_Atk
-5B_Atk +5B_Atk_Charge
+_Jump i c
+Air2B_Atk +Air2B_Atk_Charge
+5B_Atk
 2B_Atk +2B_Atk_Charge
 Air5B_Atk +Air5B_Atk_Charge
 CmnActJumpExUpper a c nOnly
 Air5B_Atk +Air5B_Atk_Charge
 MoonsaltJumpC a n2miss
-MoonsaltArrowCharm
+MoonsaltArrowCharm |MoonsaltArrowConfuse
 
 -KEY-
-5	-	11
+5	-	6
 6	-	4
-5	-	7
-6	AB	6
+5	-	5
 6	-	5
-5	-	24
+6	AB	5
+6	-	2
+5	-	25
+5	B	1
 5	AB	75
-5	D	9
-5	-	14
+6	A	2
+9	-	2
+9	C	10
+9	-	36
+6	-	1
+5	B	7
+5	-	4
+2	-	3
+2	B	4
+5	B	9
+6	B	24
+5	B	8
+5	-	9
 6	-	3
 5	-	5
-6	-	22
-6	B	3
-5	B	5
+6	-	1
+6	B	4
+5	B	22
 5	-	4
-2	-	2
-2	B	6
+6	-	2
+9	-	3
+8	-	1
+5	-	4
+6	-	6
+6	B	2
 5	B	30
-8	-	3
 5	-	2
-2	B	31
-5	B	5
-5	-	11
-5	B	23
-2	B	3
-1	-	3
-4	-	2
-5	B	10
-5	-	22
-5	B	7
-5	-	3
-2	-	4
-2	B	5
-5	B	27
-8	-	5
-5	B	33
-5	-	35
-5	B	25
-2	-	4
-2	B	7
-5	B	25
+8	-	7
+2	-	1
+2	B	12
+5	B	22
+5	-	19
+5	B	19
 5	-	2
-8	-	3
+2	-	5
+2	B	4
+5	B	30
 8	B	2
-5	B	24
-8	-	3
+8	-	4
+8	B	2
+5	B	18
+8	-	4
 8	B	4
-5	B	11
-2	B	6
-3	B	6
-6	C	9
-5	-	4
-5	A	4
-5	-	4
-5	A	5
-5	-	3
-5	A	6
-5	-	3
-5	A	6
-5	-	121
+5	B	13
+2	B	3
+3	B	2
+3	-	1
+6	-	1
+6	C	2
+5	C	11
+5	-	10
+5	A	10
+5	-	21

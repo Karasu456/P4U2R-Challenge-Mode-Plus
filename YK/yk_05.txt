@@ -18,7 +18,7 @@ Air5B_Atk +Air5B_Atk_Charge
 CmnActJumpExUpper	a	c	nOnly
 Air5B_Atk +Air5B_Atk_Charge
 MoonsaltJumpC a n2miss
-MoonsaltArrowCharm
+MoonsaltArrowCharm |MoonsaltArrowConfuse
 
 -KEY-
 5	-	11

@@ -16,7 +16,7 @@ MidAssaultB
 NmlAtk5B c
 Persona5C c
 DashAssaultA
-MidAssaultB a
+MidAssaultB +MidAssaultB_miss a
 
 -KEY-
 5	-	5
