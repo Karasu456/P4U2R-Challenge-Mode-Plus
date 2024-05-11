@@ -14,7 +14,7 @@ NoutenotoshiB
 Persona5C c
 Persona2C c
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 -KEY-
 6	-	5
