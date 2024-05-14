@@ -10,7 +10,7 @@ NmlAtk5B c
 Ashibarai c
 AxeAttackAB
 PShotC a
-_Jump i c +_Jump7
+CmnBJump i c +_Jump7
 NmlAtkAir2B c
 NmlAtk5B |NmlAtk5BHold +NmlAtk5B_charged
 vr_lp205atk

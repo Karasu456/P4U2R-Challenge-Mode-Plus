@@ -9,7 +9,7 @@ TatsumakiHit_D
 elef203_CardShot
 NmlAtk5B2nd +NmlAtk5B_delay
 NmlAtk5B3rd +NmlAtk5B_delay
-_Jump +_Jump7 i c
+CmnBJump i c +_Jump7
 CmnFAirDash i c
 elef251_CardShotAir
 PersonaAir5C c
