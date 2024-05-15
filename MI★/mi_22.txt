@@ -6,7 +6,7 @@ SP 150
 
 -LIST-
 NmlAtk5Btame
-Ashibarai a c
+Ashibarai a +Ashibarai_feint
 NmlAtk2Btame
 NmlAtk5Btame
 Persona5C c

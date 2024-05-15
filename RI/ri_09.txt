@@ -1,0 +1,74 @@
+-MISSION-	9
+HashiEx
+
+-LIST-
+NmlAtk5A c
+NmlAtk2B c
+NmlAtk5B c
+NmlAtk5C	c	|rpef_204_atk
+NmlAtk2B c
+NmlAtk5B c
+NmlAtk5C	c	|rpef_204_atk
+rp406_atka_col
+OnpuShot_Atk
+NmlAtk5D	c	|Atk5DBeam
+NmlAtk5A c
+NmlAtk5A2nd c
+
+-KEY-
+5	-	14
+6	-	4
+5	-	6
+6	-	10
+5	-	2
+5	A	5
+5	-	5
+2	-	4
+2	B	4
+5	B	1
+5	-	25
+5	B	6
+5	-	15
+5	C	4
+5	-	31
+2	-	4
+2	B	6
+2	-	5
+2	B	5
+5	B	3
+5	-	14
+5	B	4
+5	-	14
+5	C	6
+5	-	12
+2	-	3
+5	-	6
+2	-	3
+2	A	4
+5	A	1
+5	-	34
+2	-	3
+3	-	2
+6	-	3
+5	A	6
+5	-	24
+5	D	4
+5	-	5
+5	D	4
+5	-	5
+5	D	4
+5	-	3
+5	D	7
+5	-	44
+6	-	4
+5	-	4
+6	-	4
+6	A	1
+5	A	4
+5	-	5
+5	A	6
+5	-	35
+6	-	1
+9	-	6
+8	-	1
+5	-	136
