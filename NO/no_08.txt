@@ -1,0 +1,50 @@
+-MISSION-	8
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5A3rd c
+AssaultA_1st +Stylish1st
+AssaultB_2nd +AssaultB_2ndHasei
+KousokuDashC	|KousokuDashAirC	a	n2miss	+KousokuDashCHasei
+AssaultA_2nd
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5C c
+AssaultB_2nd_Air
+AssaultA_3rd +AssaultA_3rdHasei
+
+-KEY-
+5	-	10
+6	-	4
+5	-	4
+6	-	4
+6	A	4
+6	-	3
+5	-	7
+5	A	5
+5	-	17
+5	A	6
+5	-	36
+5	A	5
+5	-	7
+5	B	5
+5	-	32
+5	C	4
+5	-	6
+2	-	2
+1	-	2
+4	-	3
+5	A	5
+5	-	10
+8	-	4
+5	-	8
+5	C	8
+5	-	21
+2	-	3
+1	-	2
+4	-	1
+4	B	2
+5	B	5
+5	-	20
+5	A	7
+5	-	63
