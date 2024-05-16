@@ -1,0 +1,118 @@
+-MISSION-	19
+SP	75
+HashiEx
+
+-LIST-
+NmlAtk5B c
+NmlAtk2B c
+NmlAtk5C c
+AssaultB_1st
+AssaultB_2nd +AssaultB_2ndHasei
+KousokuDashC |KousokuDashAirC a n2miss +KousokuDashCHasei
+AssaultA_1st
+AssaultA_2nd +AssaultA_2ndHasei
+NmlAtkAir5C c
+ReversalActionAir
+UltimateAssaultAB
+CmnCancelBurst i c
+NmlAtk2C c
+NmlAtk5C c
+NmlAtk5B c
+NmlAtk2B c
+AssaultB_1st
+AssaultB_2nd +AssaultB_2ndHasei
+AssaultA_3rd +AssaultA_3rdHasei
+
+-KEY-
+5	-	10
+6	-	5
+5	-	4
+6	-	2
+6	B	11
+6	-	2
+5	-	17
+2	-	1
+2	B	8
+5	B	3
+5	-	32
+5	C	5
+5	-	8
+2	-	4
+3	-	3
+6	-	2
+6	B	2
+5	B	7
+5	-	13
+6	-	3
+6	B	6
+5	B	3
+5	-	25
+5	C	7
+5	-	4
+2	-	3
+3	-	2
+6	-	3
+6	A	2
+5	A	3
+5	-	7
+6	-	6
+6	A	1
+5	A	5
+5	-	15
+8	-	6
+5	-	3
+5	C	7
+5	-	33
+5	BD	7
+5	-	6
+2	-	4
+3	-	2
+6	-	5
+5	-	2
+2	-	6
+3	-	1
+6	-	6
+2	-	6
+3	-	1
+6	AB	2
+6	A	1
+6	-	2
+2	-	2
+2	AB	3
+3	AB	2
+6	-	3
+5	-	209
+5	ACD	3
+5	-	5
+5	ACD	4
+5	-	5
+5	ACD	4
+5	-	36
+2	-	1
+2	C	6
+5	C	4
+5	-	42
+5	C	9
+5	-	5
+5	B	6
+5	-	15
+2	-	6
+2	B	11
+2	-	3
+5	-	26
+2	-	3
+2	AB	9
+2	-	33
+3	-	1
+6	-	2
+6	B	2
+5	B	5
+5	-	10
+6	-	3
+6	B	5
+5	B	3
+5	-	19
+5	A	7
+5	-	15
+5	A	8
+5	-	574

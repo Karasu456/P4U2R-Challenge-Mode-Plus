@@ -1,0 +1,47 @@
+-MISSION-	14
+Jump
+
+-LIST-
+NmlAtk2B c
+AssaultA_2nd +AssaultA_2ndHasei
+KousokuDashC |KousokuDashAirC a n2miss +KousokuDashCHasei
+AssaultA_1st
+AssaultB_2nd +AssaultB_2ndHasei
+CmnActJumpExUpper	a	c	nOnly
+NmlAtkAir5C c
+AssaultB_2nd_Air
+AssaultA_3rd +AssaultA_3rdHasei
+
+-KEY-
+5	-	24
+2	-	1
+2	B	9
+5	B	2
+5	-	23
+2	-	3
+1	-	2
+4	-	2
+4	A	1
+5	A	4
+5	-	8
+5	C	6
+5	-	3
+2	-	3
+3	-	1
+6	-	4
+6	A	1
+5	A	3
+5	-	12
+5	B	8
+5	-	33
+8	-	6
+5	-	1
+5	C	8
+5	-	23
+2	-	3
+1	-	2
+4	-	3
+5	B	7
+5	-	11
+5	A	7
+5	-	105

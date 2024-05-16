@@ -17,7 +17,7 @@ NmlAtkAir5B c
 CmnActJumpExUpper a c nOnly
 NmlAtkAir5B c
 NmlAtkAir5C	c	|rpef_253_atk
-rp403_atkc_col
+rp403_atkc_col +rp403_atkc_col_air
 
 -KEY-
 5	-	28
