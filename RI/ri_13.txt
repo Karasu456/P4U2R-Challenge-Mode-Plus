@@ -1,16 +1,18 @@
 -MISSION-	13
 Jump
+Tooi
 
 -LIST-
 NmlAtkAir5B c
-PersonaAir5C c
-CmnActJumpExUpper i c
+NmlAtkAir5C	c	|rpef_253_atk
+CmnActJumpExUpper a c
 NmlAtkAir5B c
-PersonaAir5C c
+NmlAtkAir5C	c	|rpef_253_atk
 rp403_atkc_col	|rp403_markingc_col +rp403_atkc_col_air
 
 
 -KEY-
+5	-	5
 6	-	4
 5	-	5
 6	-	4

@@ -1,0 +1,81 @@
+-MISSION-	10
+HashiEx
+SP	25
+
+-LIST-
+PersonaAir5C c
+NmlAtk5B c
+Persona5C c
+SpecialWalkAB a
+DashAssaultAB
+SpecialWalkB a
+DashAssaultB
+Persona5C c
+Persona2C c
+CmnMiniJump i c
+PersonaAir5C c
+NmlAtk5B c
+NmlAtk2B c
+PersonaAir2C c
+
+-KEY-
+5	-	13
+6	-	2
+9	-	2
+8	-	2
+5	-	3
+6	-	11
+6	C	4
+5	C	7
+5	-	9
+6	-	4
+5	-	4
+6	-	5
+6	B	3
+5	B	3
+5	-	5
+5	C	9
+5	-	9
+2	-	6
+3	-	2
+6	-	1
+6	AB	3
+5	AB	1
+5	B	4
+5	-	8
+5	B	4
+5	-	37
+2	-	4
+1	-	1
+4	-	1
+4	B	2
+5	B	3
+5	-	24
+5	B	6
+5	-	72
+5	C	6
+5	-	4
+5	C	5
+2	-	9
+2	C	10
+2	-	27
+2	AC	6
+2	C	5
+2	-	6
+5	-	5
+5	C	11
+5	-	23
+5	B	7
+2	B	1
+2	-	5
+2	B	10
+2	-	14
+2	C	13
+2	-	24
+5	-	40
+6	-	2
+9	-	3
+8	-	1
+5	-	4
+6	-	12
+5	-	57

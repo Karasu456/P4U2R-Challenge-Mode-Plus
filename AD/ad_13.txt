@@ -1,0 +1,42 @@
+-MISSION-	13
+Tooi
+Jump
+
+-LIST-
+NmlAtkAir5B c
+NmlAtkAir5A c
+NmlAtkAir5B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+NmlAtkAir5A c
+NmlAtkAir5B c
+PersonaAir2C c
+
+-KEY-
+6	-	3
+5	-	3
+6	-	7
+9	-	3
+8	-	3
+8	B	2
+5	B	6
+5	-	4
+5	A	6
+5	-	11
+5	B	9
+5	-	12
+8	-	5
+8	B	2
+5	B	7
+5	-	3
+5	A	5
+2	A	2
+2	-	12
+2	B	7
+2	-	12
+2	C	7
+2	-	41
+5	-	25
+6	-	5
+5	-	4
+6	-	21

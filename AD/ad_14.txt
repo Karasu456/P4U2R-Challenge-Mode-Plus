@@ -1,0 +1,64 @@
+-MISSION-	14
+SP	50
+Kakusei
+Counter
+Jump
+
+-LIST-
+NmlAtk2B c
+PersonaAir5C a |NmlAtkAir5C +PersonaAir5C_miss
+NmlAtk5B c
+Persona2C c
+CmnMiniJump i c
+PersonaAir5C c
+CmnFAirDash i c
+NmlAtkAir5B c
+PersonaAir2C c
+PersonaYodonda_KuukiA
+
+-KEY-
+5	-	23
+2	-	1
+2	B	10
+2	-	2
+5	-	7
+5	C	13
+5	-	20
+5	B	9
+2	B	1
+2	-	6
+2	C	11
+2	-	20
+2	AC	8
+2	C	5
+2	-	2
+5	-	11
+5	C	13
+5	-	14
+5	C	13
+5	-	11
+6	-	1
+9	-	3
+8	-	1
+5	-	4
+6	-	10
+6	B	7
+3	-	1
+2	-	4
+2	C	10
+2	-	18
+5	-	34
+2	-	4
+1	-	2
+4	-	6
+5	-	1
+2	-	6
+1	-	2
+4	-	5
+1	-	1
+2	A	3
+2	-	2
+1	-	2
+4	A	2
+5	A	5
+5	-	195
