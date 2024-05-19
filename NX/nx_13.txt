@@ -1,0 +1,85 @@
+-MISSION-	13
+SP 25
+Jump
+Tooi
+
+-LIST-
+PersonaAir2C c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+PersonaAir5C c
+npef_256_fire	+PersonaAir5D	c
+Shinkuha_TatsumakiCD
+Persona2D c
+Persona2C c
+PersonaGodHandC_Atk
+NmlAtk2B c
+PersonaAir2C c
+CmnActJumpExUpper a c nOnly
+PersonaAir5C c
+NmlAtkAir2B c
+
+-KEY-
+5	-	26
+6	-	5
+5	-	5
+6	-	2
+9	-	3
+6	-	2
+5	-	1
+2	C	6
+5	C	6
+5	-	6
+6	-	2
+9	-	5
+8	-	1
+5	-	2
+5	B	13
+5	-	6
+5	C	11
+5	-	10
+5	D	13
+5	-	4
+2	-	4
+3	-	3
+6	-	2
+5	CD	12
+6	D	2
+6	-	19
+5	-	16
+2	-	5
+2	D	8
+2	-	4
+2	D	9
+2	-	8
+5	-	42
+6	-	3
+5	-	6
+6	-	26
+3	-	3
+2	C	12
+2	-	15
+1	-	2
+4	-	2
+4	C	2
+5	C	9
+5	-	4
+6	-	20
+5	-	21
+2	-	3
+2	B	7
+5	B	4
+5	-	28
+2	-	2
+2	C	10
+5	-	7
+6	-	2
+9	-	4
+8	-	1
+5	-	1
+5	C	8
+5	-	3
+2	-	5
+2	B	8
+2	-	13
+5	-	41

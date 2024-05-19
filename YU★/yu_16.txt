@@ -6,6 +6,7 @@ Hashi
 Chudan c
 _ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
+_Dash +CmnActFDash i c
 NmlAtk5A c
 NmlAtk5A2nd_P4U2 c
 Persona5C c

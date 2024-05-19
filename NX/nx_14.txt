@@ -1,0 +1,42 @@
+-MISSION-	14
+Jump
+
+-LIST-
+NmlAtk2B c
+PersonaAir5C c
+PersonaAir2C c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+PersonaAir5C c
+npef_256_fire	+PersonaAir5D	c
+PersonaGaleSlashB_Air
+
+-KEY-
+5	-	28
+2	-	2
+2	B	8
+5	B	4
+5	-	30
+5	C	10
+5	-	3
+2	-	7
+2	C	4
+5	C	6
+5	-	11
+6	-	2
+9	-	4
+8	-	1
+5	B	12
+5	-	7
+5	C	7
+5	-	14
+5	D	8
+5	-	9
+2	-	3
+1	-	2
+4	-	2
+4	B	1
+5	B	10
+5	-	8
+6	-	9
+5	-	246

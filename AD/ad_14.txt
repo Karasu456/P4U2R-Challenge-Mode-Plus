@@ -11,6 +11,7 @@ NmlAtk5B c
 Persona2C c
 CmnMiniJump i c
 PersonaAir5C c
+Persona5C c
 CmnFAirDash i c
 NmlAtkAir5B c
 PersonaAir2C c

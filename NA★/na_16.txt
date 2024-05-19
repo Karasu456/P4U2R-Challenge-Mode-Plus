@@ -6,6 +6,7 @@ Hashi
 Chudan c
 _ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
+_Dash +CmnActFDash i c
 Ashibarai c
 PersonaAssaultD
 Persona5C c
