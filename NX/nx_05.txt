@@ -1,0 +1,63 @@
+-MISSION-	5
+Kakusei
+SP	125
+
+-LIST-
+Persona2C c
+PersonaGodHandC_Atk
+NmlAtk2B c
+PersonaAir5C c
+NmlAtkAir2B c
+UltimateChargeSlashA a +PersonaChargeSlashA_buff
+PersonaHassouJumpAB +PersonaHassouJumpAB_max d4200
+
+-KEY-
+5	-	9
+6	-	4
+5	-	5
+6	-	2
+3	-	3
+3	C	4
+2	C	10
+2	-	15
+1	-	2
+4	-	1
+4	C	1
+5	C	6
+5	-	48
+2	-	2
+2	B	10
+5	-	30
+5	C	8
+5	-	2
+2	-	6
+2	B	9
+2	-	18
+3	-	3
+6	-	3
+6	A	3
+6	-	1
+2	-	4
+3	-	2
+3	A	1
+6	A	3
+3	-	2
+2	-	1
+1	-	3
+4	A	3
+4	-	1
+5	-	1
+2	-	3
+2	AB	2
+1	AB	1
+1	A	1
+1	-	1
+4	-	1
+4	A	1
+4	AB	2
+5	AB	3
+5	A	1
+5	-	3
+5	AB	6
+5	A	1
+5	-	74

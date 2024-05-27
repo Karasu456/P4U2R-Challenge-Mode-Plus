@@ -16,7 +16,7 @@ PersonaAir2C c
 CmnActJumpExUpper a c nOnly
 PersonaAir5C c
 NmlAtkAir2B c
-PersonaHassouJumpAB
+PersonaHassouJumpAB +PersonaHassouJumpAB_max d4740
 
 -KEY-
 5	-	12

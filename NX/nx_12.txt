@@ -4,60 +4,75 @@ SP 50
 
 -LIST-
 NmlAtkThrow c
-NmlAtk2A c
-NmlAtk5B c
-Persona5C c
-NmlAtkAir5B c
+Ryuten_atk
+Persona2D c
+NmlAtkAir22C a
+PersonaGodHandC_Atk
+NmlAtk2B c
 PersonaAir5C c
 PersonaAir2C c
-PersonaGaleSlashB_Air
-PersonaChargeSlashA
+CmnActJumpExUpper a c nOnly
+PersonaAir5C c
+NmlAtkAir2B c
 
 -KEY-
-5	-	10
+5	-	12
 6	-	3
 5	-	6
-6	-	7
+6	-	8
 6	CD	9
-6	D	1
-6	-	5
-5	-	79
-2	-	1
-2	A	9
-2	-	2
-5	-	2
-5	B	8
-5	-	12
-5	C	11
-5	-	19
-8	-	5
-5	B	7
-5	-	7
-5	C	10
-5	-	8
-2	-	7
-2	C	12
-2	-	14
-1	-	2
-4	-	1
-4	B	3
-5	B	8
-5	-	26
+6	D	3
+6	-	3
+5	-	28
 2	-	4
 3	-	2
-6	-	4
-5	-	3
+6	-	5
+5	-	2
+2	-	4
+3	-	1
+6	-	1
+6	C	3
+5	C	2
+5	-	112
 2	-	5
-3	-	2
-6	-	2
-6	A	2
-5	A	1
-2	-	5
-3	-	2
-6	A	3
-5	A	1
-5	-	1
+2	D	16
+2	-	21
+5	-	39
+4	-	3
+7	-	3
+5	-	13
+2	-	4
+5	-	4
 2	-	3
-3	A	5
-6	A	3
-5	-	316
+2	C	6
+5	C	4
+5	-	25
+6	-	4
+5	-	5
+6	-	3
+3	-	2
+2	-	1
+1	-	2
+4	C	2
+5	C	5
+5	-	51
+2	-	3
+2	B	6
+5	B	3
+5	-	30
+5	C	10
+5	-	4
+2	-	5
+2	C	5
+5	C	4
+5	-	7
+6	-	2
+9	-	6
+8	-	4
+5	-	1
+5	C	13
+5	-	4
+2	-	5
+2	B	8
+2	-	29
+5	-	74
