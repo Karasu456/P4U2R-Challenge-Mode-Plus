@@ -4,11 +4,11 @@ Jump
 Tooi
 
 -LIST-
-NmlAtk2B c
-PersonaAir5C c
-AirMidAssaultA
-AirMidAssaultB
-UltimateAssaultA
+NmlAtk2B c nOnly
+PersonaAir5C c nOnly
+AirMidAssaultA +AirMidAssaultA_final nOnly
+AirMidAssaultB +AirMidAssaultB_final nOnly
+UltimateAssaultA nOnly
 DamageOver5000        c        d5000        nOnly
 -KEY-
 5	-	65
@@ -108,3 +108,20 @@ DamageOver5000        c        d5000        nOnly
 4	CD	3
 5	D	3
 5	-	30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

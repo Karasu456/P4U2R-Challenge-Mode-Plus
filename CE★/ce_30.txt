@@ -5,7 +5,7 @@ Jump
 Hashi
 
 -LIST-
-NmlAtkAir5A        c
+NmlAtkAir5A        c nOnly
 DamageOver6000        c        d6500        nOnly
 -KEY-
 6	-	3
@@ -95,3 +95,20 @@ DamageOver6000        c        d6500        nOnly
 4	-	1
 4	D	3
 5	D	3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
