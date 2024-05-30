@@ -1,7 +1,7 @@
 -MISSION-	25
 HashiEx
-SP	150
-Kakusei
+SP	100
+HPRecoverEnemyOnly 0
 
 
 -LIST-

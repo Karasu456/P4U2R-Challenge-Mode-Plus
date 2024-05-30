@@ -1,0 +1,68 @@
+-MISSION-	12
+Kakusei
+SP 50
+
+-LIST-
+NmlAtkThrow +NmlAtkThrow_back c
+NmlAtk5B c
+NyoisoA
+KoromaruAssaultC
+Ashibarai c
+NyoisoB
+PersonaRaigekisouB
+UltimateXAttackB
+
+-KEY-
+5	-	10
+6	-	4
+5	-	5
+6	-	2
+5	-	2
+4	-	1
+4	CD	3
+4	D	2
+4	-	27
+5	-	31
+6	-	4
+5	-	4
+6	-	1
+6	B	6
+5	B	1
+5	-	2
+2	-	3
+3	-	2
+3	A	1
+6	A	3
+5	A	3
+5	-	44
+2	-	3
+3	-	2
+6	-	1
+6	C	2
+5	C	3
+5	-	29
+6	-	4
+5	-	4
+6	-	8
+3	-	3
+2	A	1
+2	AB	7
+2	-	5
+3	-	1
+6	-	3
+6	B	1
+5	B	6
+5	-	56
+5	B	9
+5	-	9
+2	-	4
+1	-	2
+4	-	4
+5	-	1
+2	-	3
+2	B	1
+1	B	2
+4	-	2
+5	-	4
+5	B	3
+5	-	247
