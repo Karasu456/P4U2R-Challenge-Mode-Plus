@@ -1,0 +1,107 @@
+-MISSION-	21
+SP	100
+Tooi
+Counter
+
+-LIST-
+Persona2D c
+PersonaWarpC
+CmnOneMoreCancel i c
+NmlAtkAir5B c
+NmlAtk2B c
+Persona5C c
+Persona2C c
+eff_Shot +eff_ShotA
+Persona5C c
+Persona2C c
+PersonaAir5D c
+PersonaWarpC
+NmlAtk2A c
+Persona5C c
+Persona2C c
+PersonaAir5D c
+PersonaWarpC
+nbef_430ShougekihaD
+
+-KEY-
+5	-	16
+4	-	8
+1	-	3
+2	-	1
+2	D	13
+2	-	24
+3	-	2
+6	-	3
+6	C	3
+5	C	6
+5	-	9
+6	-	33
+5	-	1
+5	ABC	5
+5	-	5
+5	B	9
+5	-	5
+2	-	6
+2	B	4
+5	B	5
+5	-	10
+5	C	10
+5	-	2
+2	-	8
+2	C	12
+5	-	17
+2	-	5
+3	-	2
+6	-	2
+6	A	3
+5	A	7
+5	-	39
+5	C	13
+5	-	2
+2	-	8
+2	C	8
+5	C	2
+5	-	30
+6	-	3
+9	-	4
+8	D	2
+5	D	10
+5	-	9
+2	-	3
+3	-	3
+6	C	4
+5	C	8
+5	-	2
+6	-	49
+5	-	17
+2	-	4
+2	A	4
+5	A	3
+5	-	3
+5	C	10
+5	-	7
+2	-	9
+2	C	10
+5	-	33
+6	-	2
+9	-	6
+8	D	1
+5	D	10
+5	-	5
+2	-	5
+3	-	2
+6	-	1
+6	C	5
+5	C	6
+5	-	3
+6	-	24
+5	-	9
+2	-	5
+3	-	2
+6	-	5
+5	-	1
+2	-	3
+2	D	1
+3	D	2
+6	D	2
+5	-	119

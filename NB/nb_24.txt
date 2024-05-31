@@ -1,0 +1,118 @@
+-MISSION-	24
+Tooi
+SP	100
+Jump
+HP 60
+HPRecoverEnemyOnly 0
+
+-LIST-
+Persona2C c
+PersonaAir5D c
+PersonaWarpC
+NmlAtk2A c
+Persona5C c
+NmlAtk5B c
+NmlAtkAir5A c
+NmlAtkAir5B c
+PersonaAir5C c
+NmlAtk5B c
+Persona5C c
+AssaultB_1st
+ReversalAction
+nbef_430ShougekihaC
+ReversalAction
+nbef_430ShougekihaD
+ReversalAction
+_Kakusei i c
+UltimateTaikuuA
+
+-KEY-
+5	-	24
+2	-	3
+2	C	4
+5	C	5
+5	-	26
+6	-	5
+9	-	3
+8	-	1
+5	-	2
+5	D	12
+5	-	10
+2	-	3
+3	-	2
+6	-	1
+6	C	3
+5	C	10
+5	-	3
+6	-	53
+5	-	14
+2	-	1
+2	A	5
+5	A	3
+5	-	1
+5	C	11
+5	-	17
+5	B	8
+5	-	11
+6	-	1
+9	-	5
+5	A	6
+5	-	6
+5	B	9
+5	-	33
+5	C	8
+5	-	8
+5	D	8
+5	-	5
+5	B	8
+5	-	6
+5	C	7
+5	-	8
+2	-	3
+1	-	2
+4	-	3
+5	B	9
+5	-	24
+5	BD	7
+2	-	4
+3	-	1
+6	-	5
+5	-	2
+2	-	5
+3	-	2
+6	-	2
+6	C	3
+3	C	1
+2	C	3
+2	-	11
+5	-	89
+6	-	4
+5	-	6
+6	-	8
+3	-	1
+2	BD	5
+3	-	1
+6	-	5
+3	-	1
+2	D	4
+2	-	1
+3	-	1
+6	-	3
+6	D	2
+2	D	2
+2	-	7
+5	-	87
+5	BD	1
+2	BD	3
+2	-	1
+1	-	2
+4	-	2
+5	-	2
+2	A	3
+2	-	1
+1	-	2
+4	-	2
+5	A	5
+5	-	3
+5	A	6
+5	-	333

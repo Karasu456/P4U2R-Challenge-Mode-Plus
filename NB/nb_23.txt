@@ -8,7 +8,7 @@ UltimateTaikuuA
 CmnCancelBurst i c
 Persona5C c
 Persona2C c
-eff_Shot
+eff_Shot +eff_ShotA
 Persona5C c
 Persona2C c
 PersonaAir5D c

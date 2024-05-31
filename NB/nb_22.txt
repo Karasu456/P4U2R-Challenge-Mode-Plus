@@ -1,0 +1,133 @@
+-MISSION-	22
+SP	150
+Counter
+Kakusei
+HashiEx
+
+-LIST-
+Persona2C c
+PersonaAir5C c
+CmnCancelBurst i c
+Persona2D c
+PersonaWarpC
+NmlAtk5B c
+Persona5C c
+Persona2C c
+PersonaAir5D c
+PersonaWarpD
+NmlAtk2A c
+Persona5C c
+Persona2C c
+PersonaAir5D c
+PersonaWarpD
+NmlAtk5B c
+ReversalAction
+nbef_430ShougekihaCD
+UltimateTaikuuAB
+
+-KEY-
+5	-	10
+6	-	3
+5	-	5
+6	-	2
+3	-	3
+2	C	5
+5	C	3
+5	-	29
+8	-	5
+8	C	1
+5	C	6
+5	-	11
+5	ACD	5
+5	-	39
+2	-	4
+2	D	10
+5	D	1
+5	-	18
+2	-	2
+3	-	3
+6	C	3
+5	C	5
+5	-	25
+6	-	29
+5	-	18
+5	B	8
+5	-	6
+5	C	9
+5	-	6
+2	-	7
+2	C	6
+5	C	2
+5	-	37
+8	-	5
+8	D	1
+5	D	10
+5	-	14
+2	-	3
+3	-	2
+6	-	1
+6	D	3
+5	D	7
+5	-	6
+6	-	15
+5	-	51
+2	-	2
+2	A	5
+5	-	3
+5	C	9
+5	-	10
+2	-	7
+2	C	8
+5	C	1
+5	-	34
+4	-	2
+7	-	5
+4	-	1
+4	D	1
+5	D	8
+5	-	9
+2	-	5
+1	-	2
+4	-	2
+5	D	9
+5	-	7
+6	-	51
+5	-	15
+2	-	2
+2	A	4
+5	A	2
+5	-	4
+5	B	5
+5	-	20
+5	BD	6
+5	-	2
+2	-	3
+3	-	1
+6	-	4
+5	-	2
+2	-	4
+3	-	2
+6	-	1
+6	D	1
+6	CD	2
+5	CD	1
+5	D	1
+5	-	72
+2	-	5
+1	-	2
+4	-	2
+4	A	1
+5	-	2
+2	-	5
+1	AB	2
+4	-	2
+5	-	2
+2	-	1
+2	AB	3
+2	-	1
+1	-	2
+4	-	1
+4	AB	1
+5	AB	4
+5	A	1
+5	-	419
