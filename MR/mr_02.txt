@@ -11,10 +11,10 @@ AssaultAB
 AirAssaultA
 AirAssaultB
 AirAssaultAB
-PresentForYouA	+mr403_Atk a	a
-PresentForYouB	+214BSkill	a
-PresentForYouSB a
-mr405_Atk |mr405SB_Atk
+PresentForYouA	+mr403_Atk a
+PresentForYouB	+mr404_Atk	a
+PresentForYouSB a +PresentForYouSB_AB
+mr405_Atk +mr405_Atk_214Skill
 mr406c_Atk
 mr406d_Atk
 mr406sb_Atk
