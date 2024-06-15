@@ -7,7 +7,7 @@ HPRecoverEnemyOnly        0
 
 -LIST-
 Persona5D c
-ReversalAction a
+ReversalAction a +ReversalAction_miss
 NmlAtk5D2nd i c
 NmlAtk2B c
 Persona2C c

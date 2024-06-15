@@ -22,7 +22,7 @@ AirMissileD |MissileD |MissileBomb
 CmnFAirDash i c
 PersonaAir2C c
 AirChudan
-ShadowKuma +FinalNihil nOnly
+ShadowKuma +UltimateNihil
 
 -KEY-
 5	-	20

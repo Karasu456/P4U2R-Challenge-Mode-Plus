@@ -1,0 +1,139 @@
+-MISSION-	22
+MariesOtenki	1
+SP	150
+Kakusei
+Counter
+HashiEx
+
+-LIST-
+mr405_Atk +mr405_Atk_214Skill
+mr407c_Atk
+Persona5C c
+mr405_Atk +mr405_Atk_214Skill
+mr430B_Atk
+Ashibarai c
+AssaultB
+NmlAtkAir5B c
+Ashibarai c
+mr405_Atk +mr405_Atk_214Skill
+NmlAtkAir2B c
+NmlAtkAir5B c
+NmlAtk5B2nd +NmlAtk5BB
+mr400_Atk
+mr430B_Atk
+NmlAtk5A3rd +NmlAtk5AAA
+mr406c_Atk
+mr432C_CardAtk +mr432_CardAtk
+mr432San_Atk
+
+
+-KEY-
+5	-	11
+6	-	4
+5	-	5
+6	-	6
+2	-	2
+1	-	2
+4	-	3
+5	A	5
+5	-	5
+5	C	8
+5	-	27
+2	-	4
+1	-	2
+4	-	2
+5	C	12
+5	-	21
+
+2	-	2
+1	-	2
+4	-	3
+5	C	6
+5	-	42
+5	C	9
+5	-	3
+2	-	2
+1	-	3
+4	-	2
+5	A	5
+5	-	9
+5	C	6
+5	-	36
+2	-	5
+3	-	2
+6	-	5
+5	-	2
+2	-	2
+3	-	2
+6	B	3
+5	-	118
+2	-	4
+2	AB	6
+2	-	3
+3	-	2
+6	B	6
+5	-	96
+6	-	3
+5	-	5
+6	-	8
+6	B	9
+5	B	3
+5	-	8
+2	-	10
+2	AB	8
+1	-	2
+4	-	5
+5	A	5
+5	-	1
+5	C	4
+5	-	6
+5	C	5
+5	-	44
+8	-	9
+5	-	4
+2	-	6
+2	B	8
+5	-	16
+5	B	8
+
+5	-	17
+5	B	9
+5	-	6
+5	B	11
+5	-	26
+2	-	4
+2	AB	10
+5	-	7
+2	BD	6
+3	-	2
+6	-	5
+2	-	3
+3	-	2
+6	-	5
+6	B	4
+2	-	2
+3	-	2
+6	B	6
+5	-	129
+5	A	6
+5	-	4
+5	A	7
+5	-	17
+5	A	11
+5	-	11
+2	-	5
+2	AB	6
+2	-	2
+3	-	2
+6	-	3
+6	C	9
+2	-	5
+3	-	3
+6	-	3
+2	-	2
+3	-	2
+6	-	3
+6	C	4
+6	-	4
+5	A	170
+5	-	96

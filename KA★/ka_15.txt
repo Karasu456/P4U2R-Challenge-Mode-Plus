@@ -1,6 +1,7 @@
 -MISSION-	15
 SP 50
 Crouch
+Tooi
 
 -LIST-
 Chudan c
@@ -14,11 +15,11 @@ AirMountB
 UltimateCriticalCombo +UltimateCriticalComboA
 -KEY-
 6	-	8
-5	B	1
-5	AB	11
-5	B	2
-5	-	16
-5	B	70
+6	B	1
+6	AB	11
+6	B	2
+6	-	16
+6	B	75
 5	-	5
 5	C	8
 9	-	39

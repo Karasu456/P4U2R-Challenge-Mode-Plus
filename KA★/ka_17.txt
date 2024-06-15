@@ -3,11 +3,11 @@ Counter
 
 -LIST-
 PersonaAir5C c
-NmlAtk2B c
-PersonaAntiAirD
+NmlAtk2B +GotchaD_NmlAtk2B
+PersonaAntiAirD +PersonaAntiAirD_Hit nOnly
 NmlAtkAir5B c
 NmlAtk2B c
-BusterAttackB a
+BusterAttackB a +BusterAttackB_feint
 AirMountB
 Oiuchi +OiuchiA
 -KEY-

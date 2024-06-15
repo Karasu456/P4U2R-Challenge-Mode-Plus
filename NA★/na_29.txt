@@ -21,7 +21,7 @@ PersonaAssaultCD
 DanganKakushiAB
 _Dash i c
 Ashibarai c
-DanganUltimate +DanganUltimateAB nOnly
+DanganUltimate +DanganUltimateAB
 UltimateWalkingShotKick	+UltimateWalkingShotKickC
 
 -KEY-

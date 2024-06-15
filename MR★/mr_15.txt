@@ -1,0 +1,69 @@
+-MISSION-	15
+Tooi
+Crouch
+MariesOtenki	1
+SP 25
+
+-LIST-
+Chudan c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
+ChudanFinish c
+ChudanJump a c
+NmlAtkAir5A c
+NmlAtkAir5B c
+PersonaAir5C c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+PersonaAir5C c
+AirAssaultAB
+NmlAtk2A c
+AssaultA
+
+-KEY-
+5	-	14
+6	-	4
+5	-	5
+6	-	3
+6	AB	4
+5	AB	1
+5	B	1
+5	-	29
+5	AB	71
+6	AB	3
+9	-	4
+9	C	11
+9	-	33
+5	-	4
+5	A	9
+5	-	4
+5	B	9
+5	-	10
+5	C	10
+5	-	22
+6	-	3
+9	-	3
+9	B	1
+5	B	8
+5	-	7
+5	C	10
+5	-	19
+2	-	3
+3	-	2
+6	-	1
+6	A	1
+6	AB	2
+5	AB	7
+5	B	2
+5	-	2
+6	-	72
+5	-	47
+2	-	2
+2	A	2
+5	A	2
+5	-	6
+2	-	2
+1	-	2
+4	-	1
+4	A	2
+5	A	4
+5	-	90

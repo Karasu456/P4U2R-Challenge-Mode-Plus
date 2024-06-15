@@ -9,7 +9,7 @@ BusterAttackB
 NmlAtk2A c
 fukidashi
 NmlAtk2B c
-BusterAttackB a
+BusterAttackB a +BusterAttackB_feint
 AirMountB
 UltimateCriticalComboAB
 PersonaAntiAirC

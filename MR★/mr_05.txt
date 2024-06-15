@@ -1,0 +1,127 @@
+-MISSION-	5
+MariesOtenki	2
+Kakusei
+SP 150
+NoMiss
+
+-LIST-
+mr432C_CardAtk +mr432_CardAtk
+mr432San_Atk
+mr430_Atk +mr430_Atk_sun
+mr432C_CardAtk +mr432_CardAtk
+mr432Rain_Atk
+UltimateWindC +UltimateWindC_rain a
+ExWindShot_Trial	+mp431_ExWindShot
+mr432C_CardAtk +mr432_CardAtk
+mr432Snow_Atk
+mr432C_CardAtk +mr432_CardAtk
+mr432Snow_Atk +mr432Freeze
+
+-KEY-
+5	-	12
+2	-	5
+3	-	2
+6	-	3
+5	-	2
+2	-	3
+3	-	1
+3	C	1
+6	C	4
+5	C	5
+5	-	5
+5	A	182
+5	-	45
+6	-	4
+5	-	6
+6	-	21
+5	-	4
+2	-	5
+3	-	3
+6	-	4
+2	-	5
+3	-	2
+6	-	1
+6	A	3
+5	A	8
+5	-	101
+6	-	5
+5	-	5
+6	-	25
+3	-	1
+2	-	9
+6	-	7
+3	-	1
+2	-	4
+3	-	2
+6	C	5
+5	C	215
+5	-	35
+2	-	5
+1	-	2
+4	-	3
+5	-	3
+2	-	5
+1	-	2
+4	C	2
+5	C	3
+5	-	103
+5	C	2
+5	-	6
+5	C	3
+5	-	5
+5	C	4
+5	-	5
+5	C	4
+5	-	4
+5	C	4
+5	-	5
+5	C	3
+5	-	5
+5	C	5
+5	-	4
+5	C	5
+5	-	47
+6	-	130
+5	-	10
+4	-	81
+5	-	28
+6	-	4
+5	-	5
+6	-	6
+5	-	9
+4	-	5
+5	-	20
+2	-	5
+6	-	4
+5	-	3
+2	-	5
+3	-	1
+6	-	5
+6	C	1
+5	C	19
+5	-	6
+5	D	178
+5	-	71
+2	-	4
+3	-	3
+6	-	3
+5	-	3
+2	-	3
+3	-	2
+6	C	4
+5	C	7
+5	-	12
+5	D	205
+5	-	9
+2	-	4
+3	-	3
+6	-	3
+5	-	3
+2	-	3
+3	-	1
+3	C	2
+6	C	3
+5	C	14
+5	-	9
+5	A	181
+5	-	83

@@ -14,7 +14,7 @@ Persona5C c
 PersonaAntiAirC
 NmlAtk2A c
 NmlAtk2B c
-BusterAttackB a
+BusterAttackB a +BusterAttackB_feint
 AirMountB
 Oiuchi +OiuchiA
 -KEY-
