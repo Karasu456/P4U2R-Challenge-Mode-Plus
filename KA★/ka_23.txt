@@ -9,8 +9,8 @@ NmlAtk2B c
 Persona5C c
 UltimateCriticalCombo +UltimateCriticalComboA
 CmnCancelBurst i c
-Ashibarai c
-PersonaAntiAirD
+Ashibarai +GotchaD_Ashibarai
+PersonaAntiAirD +PersonaAntiAirD_Hit nOnly
 NmlAtk2B c
 Persona5C c
 fukidashi_Tame
