@@ -1,0 +1,78 @@
+-MISSION-	16
+Crouch
+HashiEx
+
+-LIST-
+Chudan c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
+ChudanBlow c
+Air2B_Atk +Air2B_Atk_Charge
+2B_Atk
+5B_Atk +5B_Atk_Charge
+MatoNageA a
+2B_Atk
+5B_Atk +5B_Atk_Charge
+CmnBJump i c +_Jump7
+Air5B_Atk +Air5B_Atk_Charge
+eff_MatoNage_Atk
+2B_Atk
+5B_Atk +5B_Atk_Charge
+MoonsaltJumpD a n2miss
+MoonsaltArrowConfuse
+
+-KEY-
+5	-	11
+6	-	4
+5	-	5
+6	-	3
+6	AB	20
+6	-	6
+5	-	7
+5	A	1
+5	AB	77
+5	BD	1
+5	D	11
+5	-	15
+8	-	5
+5	-	2
+2	-	4
+2	B	37
+5	-	20
+2	-	2
+2	B	12
+2	-	2
+5	-	4
+5	B	26
+2	B	2
+1	B	3
+4	-	2
+4	A	1
+5	A	11
+5	-	16
+2	-	4
+2	B	9
+5	B	5
+5	-	6
+5	B	33
+7	B	4
+7	-	3
+5	-	1
+5	B	32
+5	-	13
+6	-	5
+5	-	4
+6	-	7
+5	-	15
+2	-	2
+2	B	9
+5	B	3
+5	-	7
+5	B	30
+2	B	3
+3	-	2
+6	-	1
+6	D	3
+5	D	6
+5	-	15
+5	B	11
+5	-	28

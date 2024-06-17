@@ -1,0 +1,83 @@
+-MISSION-	12
+HashiEx
+SP 50
+
+-LIST-
+NmlAtkThrow c
+NmlAtk5A c
+2B_Atk
+5B_Atk +5B_Atk_Charge
+MatoNageA a
+Persona5C c
+PersonaAir5C c
+CmnActJumpExUpper a c nOnly
+Air2B_Atk +Air2B_Atk_Charge
+eff_MatoNage_Atk
+5B_Atk +5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+MoonsaltJumpC a n2miss
+MoonsaltArrowCharm
+AirUltimateArrow_AtkA
+
+-KEY-
+5	-	6
+6	-	4
+5	-	4
+6	-	8
+6	CD	9
+6	D	3
+6	-	7
+5	-	59
+5	A	5
+5	-	2
+2	-	3
+2	B	7
+5	B	3
+5	-	17
+5	B	25
+2	B	2
+1	B	1
+1	-	1
+4	-	1
+4	A	2
+5	A	6
+5	-	22
+5	C	16
+5	-	4
+6	-	3
+9	-	3
+8	-	2
+5	-	1
+5	C	13
+5	-	8
+6	-	1
+9	-	3
+6	-	2
+2	-	2
+2	B	3
+5	B	33
+5	-	31
+5	B	28
+5	-	5
+8	-	4
+5	-	1
+5	B	24
+2	B	2
+3	B	2
+6	B	2
+6	C	1
+5	C	10
+5	-	6
+5	A	11
+5	-	4
+2	-	5
+6	-	6
+5	-	2
+2	-	5
+6	-	6
+5	-	1
+2	-	3
+3	-	2
+6	A	3
+6	-	1
+5	-	152

@@ -12,7 +12,7 @@ AxeAttackAB
 PShotC a
 CmnBJump i c +_Jump7
 NmlAtkAir2B c
-NmlAtk5B |NmlAtk5BHold +NmlAtk5B_charged
+NmlAtk5BHold
 vr_lp205atk
 Ashibarai c
 vr_lp206atk

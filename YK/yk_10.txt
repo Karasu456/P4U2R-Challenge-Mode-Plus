@@ -1,0 +1,108 @@
+-MISSION-	10
+HashiEx
+
+-LIST-
+Persona2C c
+PersonaAir5C c
+CmnActJumpExUpper a c nOnly
+Air2B_Atk +Air2B_Atk_Charge
+2B_Atk
+5B_Atk +5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+CmnActJumpExUpper a c nOnly
+Air2B_Atk +Air2B_Atk_Charge
+2B_Atk
+5B_Atk +5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+CmnActJumpExUpper a c nOnly
+Air2B_Atk +Air2B_Atk_Charge
+2B_Atk
+5B_Atk +5B_Atk_Charge
+MoonsaltJumpC a n2miss
+MoonsaltArrowCharm
+AirUltimateArrow_AtkB d5900
+
+-KEY-
+5	-	14
+3	-	1
+2	-	4
+2	C	2
+5	C	16
+5	-	12
+6	-	2
+9	-	6
+6	-	1
+6	C	2
+5	C	15
+5	-	6
+9	-	3
+6	-	1
+2	-	3
+2	B	2
+5	B	35
+5	-	19
+2	-	2
+2	B	5
+5	B	8
+5	-	7
+5	B	30
+5	-	1
+8	-	5
+5	-	1
+5	B	25
+5	-	1
+8	-	3
+5	-	1
+2	-	2
+2	B	6
+5	B	14
+6	B	13
+5	B	9
+5	-	15
+2	-	3
+2	B	5
+5	B	6
+5	-	8
+5	B	32
+8	B	1
+8	-	4
+5	-	1
+5	B	25
+5	-	2
+8	-	3
+5	-	1
+2	-	1
+2	B	24
+5	B	2
+6	B	12
+5	B	4
+5	-	14
+2	-	2
+2	B	4
+5	B	5
+5	-	9
+5	B	29
+2	B	2
+3	B	2
+3	-	1
+6	-	2
+6	C	1
+5	C	10
+5	-	12
+5	A	10
+2	-	3
+3	-	1
+6	-	6
+5	-	1
+2	-	6
+6	-	6
+5	-	1
+2	-	5
+3	B	1
+6	B	2
+6	-	3
+5	-	1
+2	-	1
+2	B	1
+5	B	5
+5	-	83

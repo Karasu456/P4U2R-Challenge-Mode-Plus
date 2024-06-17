@@ -1,0 +1,64 @@
+-MISSION-	14
+Jump
+SP 50
+
+-LIST-
+NmlAtk2B c
+_HighJump a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B +NmlAtkAir5BHades
+AxeAttackAirA
+UshiBeamC +UshiBeam nOnly
+NmlAtkAir5B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+AxeAttackAirA
+PersonaUltimateTemaeNaguriD
+
+-KEY-
+5	-	19
+2	-	2
+2	B	4
+5	-	16
+2	-	3
+3	-	2
+9	-	5
+5	-	5
+5	A	5
+5	-	9
+5	B	3
+5	-	3
+2	-	4
+3	-	3
+6	-	3
+6	C	6
+2	-	4
+1	-	2
+4	-	2
+5	A	4
+5	-	77
+6	-	4
+5	-	5
+6	-	15
+9	-	3
+8	-	3
+5	B	6
+5	-	17
+8	-	3
+8	B	3
+5	B	5
+5	-	5
+2	-	5
+1	-	2
+4	A	1
+5	A	5
+5	-	32
+2	-	4
+3	-	2
+6	-	3
+5	-	2
+2	-	3
+3	-	1
+3	D	1
+6	D	2
+5	-	117

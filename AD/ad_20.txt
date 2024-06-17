@@ -1,0 +1,100 @@
+-MISSION-	20
+HashiEx
+Kakusei
+Counter
+SP	150
+
+-LIST-
+Persona5C c
+CmnFAirDash i c
+PersonaAir5C c
+NmlAtk5B c
+SpecialWalkA a
+DashAssaultA
+PersonaYodonda_KuukiAB
+NmlAtk5B c
+Persona5C c
+Persona2C c
+CmnMiniJump i c
+PersonaAir5C c
+NmlAtk2B c
+PersonaAir2C c
+PersonaAir2D c
+SpecialWalkAB a
+DashAssaultAB
+PersonaMoujaNoNagekiD
+
+-KEY-
+5	-	21
+5	C	6
+5	-	14
+6	-	1
+9	-	3
+5	-	6
+6	-	12
+6	C	5
+5	C	3
+5	-	15
+6	-	4
+5	-	4
+6	-	3
+6	B	7
+6	-	4
+5	-	32
+2	-	3
+3	-	2
+6	-	3
+5	A	4
+5	-	6
+5	A	5
+5	-	5
+5	A	1
+2	A	3
+2	-	1
+1	-	2
+4	-	3
+5	-	1
+2	-	1
+2	A	1
+2	AB	2
+1	-	2
+4	-	2
+5	AB	4
+5	-	195
+5	B	10
+5	-	7
+5	C	7
+2	C	5
+2	-	13
+2	C	14
+2	-	23
+2	C	1
+2	AC	8
+2	C	5
+2	-	3
+5	-	12
+5	C	12
+5	-	5
+2	-	12
+2	B	7
+2	-	10
+2	C	15
+2	-	13
+2	D	10
+2	-	54
+3	-	2
+6	-	1
+6	A	1
+6	AB	3
+5	-	7
+5	B	5
+5	-	20
+2	-	4
+3	-	1
+6	-	4
+5	-	2
+2	-	3
+3	-	2
+6	D	2
+5	D	1
+5	-	254

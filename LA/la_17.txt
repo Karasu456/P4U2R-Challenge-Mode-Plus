@@ -1,0 +1,74 @@
+-MISSION-	17
+Counter
+LabryssAxInitial	3
+SP 50
+
+-LIST-
+NmlAtk5B c
+vr_lp204atk
+vr_lp232atk
+ReversalAction +ReversalAction_hold
+NmlAtk2B c
+NmlAtkAir5B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+vr_lp254atk
+AxeAttackAirB
+UltimateTackleC
+
+-KEY-
+5	-	10
+6	-	4
+5	-	5
+6	-	1
+6	B	5
+6	-	5
+5	-	1
+5	C	5
+5	-	5
+5	C	4
+5	-	5
+5	C	4
+5	-	5
+5	C	4
+2	-	5
+2	C	5
+2	-	7
+2	C	3
+2	-	6
+2	C	3
+2	-	6
+2	C	4
+2	-	5
+5	-	3
+5	BD	37
+5	-	72
+2	-	2
+2	B	7
+5	-	22
+6	-	3
+9	-	6
+8	B	1
+5	B	7
+5	-	15
+6	-	2
+9	-	5
+9	B	1
+5	B	8
+5	-	8
+5	C	17
+5	-	31
+2	-	2
+1	-	2
+4	-	1
+4	B	1
+5	B	4
+5	-	32
+2	-	4
+3	-	2
+6	-	4
+5	-	3
+2	-	3
+3	-	2
+6	C	2
+5	-	114

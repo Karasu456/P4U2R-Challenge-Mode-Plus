@@ -7,7 +7,7 @@ SetupRopeA a
 NmlAtk5A c
 NmlAtk5B c
 YariA +Yari nOnly
-NmlAtk2B NmlAtk2BHold +NmlAtk2B_charged
+NmlAtk2BHold
 NmlAtkAir5B c
 NmlAtkAir5B2nd c
 CmnActJumpExUpper a c nOnly

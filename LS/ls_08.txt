@@ -1,0 +1,69 @@
+-MISSION-	8
+
+-LIST-
+NmlAtk5A c
+NmlAtk5B +NmlAtk5BC
+Ashibarai c
+Persona5C +Persona5C_hit nOnly
+CmnFJump i c +_Jump9
+NmlAtkAir2B c
+NmlAtkAir5B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B c
+AxeAttackAirA
+PersonaUshiTatakiC +PersonaUshiTatakiC_air
+
+-KEY-
+5	-	9
+6	-	3
+5	-	5
+6	-	6
+6	A	3
+5	A	3
+5	-	6
+5	B	1
+5	BC	5
+5	B	1
+5	-	15
+2	-	3
+2	AB	6
+2	-	2
+5	-	42
+6	-	3
+5	-	6
+6	-	3
+9	-	4
+6	-	2
+5	-	12
+2	-	4
+2	B	5
+5	B	2
+5	-	20
+6	-	4
+5	-	5
+6	-	12
+9	-	3
+5	-	3
+5	B	8
+5	-	9
+6	-	1
+9	-	6
+9	A	2
+6	A	4
+5	A	3
+5	-	6
+5	B	7
+5	-	8
+2	-	4
+1	-	2
+4	-	2
+4	A	1
+5	A	6
+5	-	10
+2	-	2
+1	-	2
+4	-	1
+4	C	2
+5	C	2
+5	-	40

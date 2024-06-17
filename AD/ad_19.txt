@@ -1,0 +1,74 @@
+-MISSION-	19
+SP	50
+HashiEx
+
+-LIST-
+NmlAtk5B c
+Persona5C c
+PersonaUltimateHeatRiserB
+Persona2C c
+CmnMiniJump i c
+PersonaAir5C c
+Persona5C c
+CmnFAirDash i c
+NmlAtkAir5B c
+PersonaAir2C c
+CmnBAirDash i c
+PersonaAir5C c
+DevilSmileC i
+
+-KEY-
+5	-	10
+6	-	4
+5	-	5
+6	-	6
+6	B	6
+6	-	3
+5	-	5
+5	C	7
+5	-	3
+2	-	4
+3	-	2
+6	-	4
+5	-	1
+2	-	5
+3	-	2
+6	-	1
+6	B	4
+6	-	1
+5	-	121
+2	-	9
+2	C	13
+2	-	18
+2	AC	6
+2	C	3
+2	-	5
+5	-	13
+5	C	10
+5	-	18
+5	C	11
+5	-	11
+6	-	2
+9	-	2
+8	-	1
+5	-	4
+6	-	17
+6	B	4
+5	B	3
+5	-	2
+2	-	6
+2	C	8
+2	-	12
+2	D	4
+5	-	13
+7	-	3
+5	-	3
+4	-	6
+5	-	7
+5	C	3
+5	-	6
+2	-	2
+3	-	2
+6	-	3
+5	C	4
+5	-	59
