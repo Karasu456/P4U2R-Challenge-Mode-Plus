@@ -1,5 +1,6 @@
 -MISSION-	5
-AegissOrgia        1
+AegissBulletsRecover 1
+AegissOrgia 1
 
 -LIST-
 NmlAtk5A c

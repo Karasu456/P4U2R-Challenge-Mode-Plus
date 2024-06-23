@@ -1,0 +1,113 @@
+-MISSION-	19
+AegissOrgia	1
+AegissBulletsRecover	1
+SP	25
+HashiEx
+
+-LIST-
+ModeChangeA a |ModeChangeB a +ModeChange
+PersonaAir5C +PersonaAir5C_single
+dmy_5B
+CmnActJumpExUpper a c nOnly
+PersonaAir5C c
+AirRollingCD |RollingCD
+ModeChangeA a 
+dmy_machinegun_9B
+PersonaAir2C c
+dmy_machinegun_4A +dmy_machinegun_4A_hold
+Persona5C c
+NmlAtkOld2C i
+dmy_machinegun_9A
+Persona2C c
+ModeChangeB a |ModeChangeA a +ModeChange
+PersonaAir5C c
+AirRollingD |RollingD
+
+-KEY-
+5	-	11
+2	-	4
+5	-	5
+2	A	5
+2	-	2
+5	-	23
+6	-	2
+9	-	2
+8	-	1
+5	-	5
+6	-	7
+5	-	8
+5	C	4
+5	-	18
+5	B	4
+5	-	14
+6	-	2
+9	-	4
+5	-	2
+5	C	5
+5	-	31
+2	-	2
+3	-	2
+6	-	1
+6	CD	3
+5	CD	1
+5	D	6
+5	-	44
+2	-	4
+5	-	5
+2	-	2
+2	A	5
+2	-	2
+5	-	16
+2	-	3
+1	-	1
+4	B	2
+5	-	5
+5	-	56
+8	-	5
+5	-	1
+2	-	2
+2	C	11
+2	-	7
+3	-	3
+6	-	3
+6	A	1
+5	A	44
+6	A	1
+6	-	2
+5	-	6
+6	-	15
+6	C	5
+5	C	6
+5	-	2
+2	-	4
+5	-	5
+2	-	3
+5	-	4
+2	-	1
+2	C	6
+2	-	1
+5	-	18
+2	-	3
+1	-	2
+4	A	2
+5	A	5
+5	-	56
+2	-	2
+2	C	3
+5	C	3
+5	-	12
+2	-	3
+5	-	4
+2	-	3
+2	B	6
+5	-	21
+8	-	5
+8	C	2
+5	C	10
+5	-	16
+2	-	7
+3	-	1
+6	-	3
+6	D	1
+5	D	11
+5	-	72
