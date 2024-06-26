@@ -1,0 +1,52 @@
+-MISSION-	13
+Tooi
+Jump
+SP 50
+LabryssAxInitial 3
+
+-LIST-
+NmlAtkAir5A c
+NmlAtkAir5B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B c
+vr_lp254atk
+AxeAttackAirB
+UltimateTackleC
+
+-KEY-
+5	-	4
+6	-	3
+5	-	5
+6	-	5
+9	-	6
+9	A	1
+8	A	1
+5	A	5
+5	-	8
+5	B	9
+5	-	22
+6	-	1
+9	-	5
+6	A	1
+5	A	5
+5	-	5
+5	B	9
+5	-	21
+5	C	10
+5	-	33
+2	-	3
+1	-	2
+4	-	2
+5	B	9
+5	-	27
+2	-	3
+3	-	2
+6	-	5
+5	-	2
+2	-	3
+3	-	1
+6	-	2
+6	C	2
+5	C	2
+5	-	338

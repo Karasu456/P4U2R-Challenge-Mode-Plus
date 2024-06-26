@@ -1,0 +1,119 @@
+-MISSION-	28
+SP	100
+Burst 100
+HashiEx
+LabryssAxInitial	3
+
+-LIST-
+NmlAtk2B c
+vr_lp254atk +PersonaAir5C_single
+CmnActHeatUp +HeatUp a c
+NmlAtk5BHold
+vr_lp205atk
+NmlAtk5B c
+Ashibarai c
+vr_lp206atk
+NmlAtkAir5B2nd +NmlAtkAir5BB
+vr_lp254atk
+CmnActJumpExUpper	a	c	nOnly
+NmlAtkAir5B2nd +NmlAtkAir5BB
+vr_lp254atk
+AxeAttackAirB
+UltimateTackleC
+CmnBAirDash i +CmnOneMoreCancel_IADB
+UltimateTackleD
+
+
+-KEY-
+5	-	9
+6	-	4
+5	-	5
+6	-	1
+3	-	4
+3	B	1
+2	B	2
+5	B	3
+5	-	20
+6	-	4
+9	-	5
+5	-	1
+5	C	5
+5	-	8
+5	ACD	5
+5	-	6
+5	ACD	5
+5	-	51
+5	B	25
+5	-	19
+5	D	4
+5	-	15
+5	B	4
+5	-	5
+5	B	4
+5	-	5
+5	B	4
+5	-	5
+5	B	4
+5	-	5
+5	B	3
+5	-	5
+5	B	5
+5	-	6
+2	-	9
+2	A	1
+2	AB	5
+2	B	1
+2	-	17
+5	-	5
+5	D	4
+5	-	41
+6	-	2
+9	-	5
+5	-	1
+5	B	8
+5	-	8
+5	B	13
+5	-	26
+5	C	8
+5	-	26
+6	-	2
+9	-	4
+6	B	2
+5	B	7
+5	-	7
+5	B	13
+5	-	15
+5	C	9
+5	-	32
+2	-	4
+1	-	2
+4	-	1
+4	B	1
+5	B	8
+5	-	34
+2	-	2
+3	-	3
+6	-	3
+5	-	2
+2	-	3
+3	C	2
+6	C	2
+6	-	1
+5	-	113
+4	-	2
+4	ABC	2
+5	ABC	2
+5	-	4
+4	-	4
+5	-	5
+4	-	5
+5	-	10
+2	-	3
+3	-	2
+6	-	3
+5	-	2
+2	-	2
+3	-	1
+3	D	1
+6	D	3
+5	-	230

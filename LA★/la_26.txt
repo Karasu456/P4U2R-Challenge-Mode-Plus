@@ -1,0 +1,85 @@
+-MISSION-	26
+LabryssAxInitial	5
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5A3rd c
+CmnMiniJump i c
+NmlAtkAir2B c
+vr_lp205atk
+Ashibarai c
+vr_lp206atk
+NmlAtk5BHold
+_Dash i c
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5A3rd c
+AxeAttackA +StylishAxeAttack
+
+-KEY-
+5	-	10
+6	-	4
+5	-	5
+6	-	2
+6	A	8
+6	-	1
+5	-	8
+5	A	9
+5	-	12
+5	A	10
+5	-	20
+2	-	5
+2	A	1
+2	AC	8
+2	C	2
+2	-	9
+2	B	6
+2	-	7
+2	B	9
+2	-	4
+5	-	12
+6	-	3
+5	-	4
+6	-	3
+6	D	8
+5	D	2
+5	-	32
+6	-	3
+5	-	6
+6	-	3
+3	-	2
+2	-	2
+2	AB	2
+5	AB	2
+5	B	2
+5	-	13
+5	D	9
+5	-	16
+6	-	4
+5	-	4
+6	-	2
+6	B	7
+5	B	30
+5	-	5
+6	-	4
+5	-	5
+6	-	45
+5	A	6
+5	-	4
+5	A	7
+5	-	7
+5	A	6
+5	-	9
+5	A	5
+5	-	6
+5	A	5
+5	-	5
+5	A	5
+5	-	5
+5	A	4
+5	-	6
+5	A	5
+5	-	5
+5	A	5
+5	-	55

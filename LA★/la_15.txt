@@ -1,7 +1,7 @@
 -MISSION-	15
 Tooi
 Crouch
-LabryssAxInitial	1
+LabryssAxInitial	3
 
 -LIST-
 Chudan c

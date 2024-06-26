@@ -1,7 +1,7 @@
 -MISSION-	12
 HashiEx
 SP 100
-LabryssAxInitial	1
+LabryssAxInitial	3
 
 -LIST-
 NmlAtkThrow c

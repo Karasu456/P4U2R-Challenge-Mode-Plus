@@ -1,0 +1,83 @@
+-MISSION-	5
+Tooi
+LabryssAxInitial 3
+SP 25
+
+-LIST-
+NmlAtkAir5B c
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+NmlAtk5B c
+Ashibarai c
+AxeAttackAB
+SetupRopeA a
+NmlAtk5A c
+NmlAtk5A2nd_P4U2 c
+YariA +Yari nOnly
+Ashibarai c
+NmlAtk5BHold
+Ashibarai c
+PShotD a
+
+-KEY-
+5	-	11
+6	-	2
+9	-	6
+6	-	22
+6	B	3
+5	B	3
+5	-	15
+6	-	5
+5	-	5
+6	-	4
+6	A	6
+6	-	3
+5	-	3
+5	A	10
+5	-	14
+5	B	5
+5	-	10
+2	-	9
+2	A	1
+2	AB	6
+2	B	1
+2	-	20
+1	-	2
+4	-	2
+4	AB	1
+5	AB	4
+5	B	2
+5	-	38
+2	-	4
+5	-	5
+2	-	2
+2	A	6
+5	-	27
+6	-	5
+5	-	5
+6	-	3
+6	A	4
+5	A	2
+5	-	3
+5	A	8
+5	-	5
+2	-	19
+2	A	1
+2	AB	5
+2	B	2
+2	-	6
+5	-	41
+5	B	27
+5	-	13
+6	-	5
+5	-	5
+6	-	23
+5	-	5
+2	-	5
+2	AB	5
+2	B	2
+2	-	11
+3	-	2
+6	-	4
+5	-	1
+5	D	11

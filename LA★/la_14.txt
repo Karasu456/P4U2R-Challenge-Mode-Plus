@@ -1,7 +1,7 @@
 -MISSION-	14
 Jump
 SP	50
-LabryssAxInitial	1
+LabryssAxInitial	3
 
 -LIST-
 NmlAtk2B c

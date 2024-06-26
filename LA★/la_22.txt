@@ -1,0 +1,120 @@
+-MISSION-	22
+Counter
+LabryssAxInitial	5
+HashiEx
+-LIST-
+NmlAtk2B c
+vr_lp232atk +Persona2C_delay
+vr_lp205atk
+NmlAtk5B c
+Ashibarai c
+vr_lp206atk
+NmlAtk5BHold
+vr_lp205atk
+Ashibarai c
+vr_lp206atk
+NmlAtkAir5B2nd +NmlAtkAir5BB
+CmnBJump i c +_Jump7
+NmlAtkAir2B	c
+NmlAtkAir5B2nd +NmlAtkAir5BB
+CmnActJumpExUpper	a	c	nOnly
+NmlAtkAir5B2nd +NmlAtkAir5BB
+vr_lp254atk
+AxeAttackAirB
+UltimateTackleD
+
+-KEY-
+5	-	11
+6	-	5
+5	-	4
+6	-	5
+3	-	3
+2	-	3
+2	B	9
+2	-	33
+2	C	19
+2	-	17
+5	-	14
+5	D	11
+5	-	45
+5	B	9
+5	-	22
+2	-	5
+2	A	1
+2	AB	7
+2	B	1
+2	-	8
+2	D	3
+5	D	8
+5	-	21
+5	B	33
+5	-	9
+5	D	8
+5	-	37
+2	-	8
+2	AB	4
+2	-	6
+2	AB	2
+2	A	1
+2	-	4
+2	B	1
+2	AB	4
+2	B	1
+2	-	6
+5	-	6
+5	D	9
+5	-	38
+9	-	6
+6	B	2
+5	B	7
+5	-	7
+5	B	12
+5	-	22
+4	-	2
+7	-	8
+4	-	14
+5	-	9
+2	-	3
+2	B	10
+2	-	3
+5	-	28
+6	-	3
+5	-	5
+6	-	2
+9	-	5
+8	-	2
+8	B	1
+5	B	10
+5	-	9
+5	B	13
+5	-	19
+6	-	2
+9	-	5
+9	B	1
+5	B	10
+5	-	6
+5	B	12
+5	-	18
+5	C	11
+5	-	31
+2	-	5
+1	-	2
+4	-	1
+4	B	1
+5	B	9
+5	-	9
+2	-	5
+3	-	2
+6	-	6
+3	-	1
+2	-	6
+3	-	1
+6	-	5
+3	-	1
+2	-	5
+3	-	1
+6	-	3
+3	D	4
+3	-	1
+6	-	2
+5	-	184

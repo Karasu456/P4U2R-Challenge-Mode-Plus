@@ -1,7 +1,7 @@
 -MISSION-	10
 SP 25
 HashiEx
-LabryssAxInitial	1
+LabryssAxInitial	3
 
 -LIST-
 NmlAtkAir5B c

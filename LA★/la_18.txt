@@ -1,0 +1,140 @@
+-MISSION-	18
+LabryssAxInitial	4
+Counter
+SP 100
+Kakusei
+Tooi
+
+-LIST-
+NmlAtk2B c
+vr_lp206atk +NmlAtk5DD
+NmlAtk5BHold
+RokepanDash a +RokepanDash_combined
+NmlAtkAir5A c
+NmlAtkAir5B2nd +NmlAtkAir5BB
+CmnBJump i c +_Jump7
+NmlAtkAir2B c
+vr_lp205atk
+NmlAtk5B c
+Ashibarai c
+vr_lp206atk
+NmlAtkAir5B2nd +NmlAtkAir5BB
+NmlAtkAir5B2nd +NmlAtkAir5BB
+vr_lp254atk
+AxeAttackAirB
+UltimateTackleC
+CmnBAirDash i +CmnOneMoreCancel_IADB
+UltimateTackleD
+
+-KEY-
+5	-	12
+6	-	3
+5	-	4
+6	-	2
+3	-	2
+2	B	4
+5	-	13
+5	D	3
+5	-	6
+5	D	3
+5	-	5
+5	D	3
+5	-	6
+5	D	3
+5	-	4
+5	D	4
+5	-	4
+5	D	4
+5	-	3
+5	D	5
+5	-	4
+5	D	5
+5	-	3
+6	-	3
+5	-	6
+6	-	17
+6	B	31
+5	-	3
+6	-	4
+5	-	5
+6	-	26
+3	-	2
+2	-	4
+3	-	3
+6	A	5
+5	A	4
+5	-	4
+6	-	4
+9	-	38
+5	-	1
+5	A	7
+5	-	2
+5	B	10
+5	-	27
+5	B	12
+5	-	13
+4	-	2
+7	-	5
+4	-	28
+1	-	2
+2	B	11
+5	-	18
+6	-	4
+5	-	4
+6	-	3
+6	D	7
+5	-	39
+6	-	4
+5	-	5
+6	-	3
+6	B	8
+5	-	20
+2	-	5
+2	AB	4
+2	-	5
+5	-	10
+5	D	2
+5	-	6
+5	D	3
+5	-	36
+6	-	2
+9	-	7
+5	B	5
+5	-	7
+5	B	6
+5	-	6
+5	B	3
+5	-	27
+9	-	7
+5	B	7
+5	-	8
+5	B	9
+5	-	23
+5	C	11
+5	-	29
+2	-	3
+1	-	2
+4	B	6
+5	-	26
+2	-	4
+3	-	3
+6	-	3
+2	-	4
+3	-	2
+6	-	4
+5	C	3
+6	-	2
+5	-	109
+4	-	3
+4	ABC	3
+5	-	4
+4	-	4
+5	-	5
+4	-	6
+5	-	5
+2	-	4
+3	-	2
+6	-	5
+2	-	3
+3	-	3
+6	D	5

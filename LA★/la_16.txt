@@ -1,0 +1,101 @@
+-MISSION-	16
+LabryssAxInitial	3
+HashiEx
+SP 25
+Crouch
+
+-LIST-
+Chudan c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
+ChudanBlow	c
+CmnFAirDash i c
+NmlAtkAir2B c
+CmnBJump i c +_Jump7
+NmlAtkAir5B +NmlAtkAir5B_delay
+NmlAtkAir5B2nd c
+PersonaAir5D i |NmlAtkAir5D i +PersonaAir5D_delay
+NmlAtk5BHold
+vr_lp205atk
+NmlAtk5B c
+Ashibarai c
+vr_lp206atk
+NmlAtkAir5B c
+NmlAtkAir5B2nd c
+vr_lp254atk
+AxeAttackAirB
+UltimateTackleCD
+
+-KEY-
+5	-	17
+6	-	5
+5	-	5
+6	-	5
+6	AB	15
+6	-	3
+5	-	14
+5	AB	75
+5	B	1
+5	-	1
+5	D	8
+5	-	21
+6	-	1
+9	-	3
+8	-	2
+5	-	4
+6	-	9
+3	-	4
+2	-	1
+2	B	12
+2	-	5
+5	-	15
+4	-	2
+7	-	15
+4	-	2
+5	-	8
+5	B	12
+5	-	16
+5	B	11
+5	-	30
+5	D	13
+5	-	27
+6	-	5
+5	-	5
+6	-	4
+6	B	8
+5	B	27
+5	-	9
+5	D	7
+5	-	54
+5	B	4
+5	-	7
+5	B	3
+5	-	9
+2	-	7
+2	A	1
+2	AB	5
+2	-	14
+5	-	9
+5	D	4
+5	-	38
+6	-	1
+9	-	6
+5	B	9
+5	-	8
+5	B	12
+5	-	20
+5	C	10
+5	-	26
+2	-	4
+1	-	2
+4	-	3
+5	B	9
+5	-	16
+2	-	5
+3	-	2
+6	-	5
+3	-	1
+2	-	5
+3	-	2
+6	-	3
+6	CD	2
+5	-	247

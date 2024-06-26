@@ -1,5 +1,5 @@
 -MISSION-	7
-LabryssAxInitial	1
+LabryssAxInitial	3
 
 -LIST-
 NmlAtk5A c

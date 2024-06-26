@@ -1,0 +1,110 @@
+-MISSION-	17
+LabryssAxInitial	3
+Counter
+SP 50
+Tooi
+
+-LIST-
+NmlAtk2B c
+vr_lp205atk
+vr_lp206atk
+NmlAtk5BHold
+_Dash i c
+RokepanDash a +RokepanDash_combined
+NmlAtkAir5A c
+NmlAtkAir5B c
+NmlAtkAir5B2nd c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir2B c
+NmlAtkAir5B c
+NmlAtkAir5B2nd c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+NmlAtkAir5B2nd c
+vr_lp254atk
+AxeAttackAirB
+UltimateTackleD
+
+-KEY-
+5	-	11
+6	-	4
+5	-	6
+6	-	13
+3	-	2
+2	B	2
+5	B	3
+5	-	21
+5	D	4
+5	-	4
+5	D	4
+5	-	5
+5	D	4
+5	-	4
+5	D	3
+5	-	6
+5	D	3
+5	-	4
+5	D	4
+5	-	4
+5	D	4
+5	-	3
+6	-	4
+5	-	5
+6	-	19
+6	B	1
+5	B	28
+5	-	5
+6	-	5
+5	-	5
+6	-	32
+3	-	1
+2	-	4
+3	-	1
+6	A	5
+5	-	10
+6	-	28
+9	-	4
+8	-	5
+5	-	1
+5	A	7
+5	-	5
+5	B	6
+5	-	33
+5	B	8
+5	-	18
+8	-	5
+5	-	19
+2	-	5
+2	B	10
+2	-	3
+5	-	42
+8	-	4
+8	B	3
+5	B	14
+5	-	7
+5	B	12
+5	-	14
+8	-	7
+8	B	8
+6	B	5
+6	-	4
+5	-	2
+5	B	15
+5	-	12
+5	C	12
+5	-	33
+2	-	3
+1	-	1
+4	-	1
+4	B	2
+5	B	8
+5	-	27
+2	-	4
+3	-	1
+6	-	4
+5	-	2
+2	-	2
+3	-	1
+3	D	1
+6	D	2
+5	-	176
