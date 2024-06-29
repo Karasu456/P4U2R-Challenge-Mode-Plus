@@ -1,0 +1,77 @@
+-MISSION-	16
+HashiEx
+Crouch
+
+-LIST-
+Chudan c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
+ChudanBlow c
+_Dash +CmnActFDash i c
+NmlAtk5B +NmlAtk5BC
+Ashibarai c
+Persona5C +Persona5C_hit nOnly
+NmlAtkAir5B c
+NmlAtkAir5B2nd c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
+AxeAttackAirB
+Persona5C +Persona5C_hit nOnly
+PersonaUltimateTemaeNaguriD
+
+-KEY-
+5	-	7
+6	-	4
+5	-	5
+6	-	5
+6	AB	13
+6	-	18
+6	AB	1
+5	AB	77
+5	B	1
+5	-	2
+5	D	8
+5	-	16
+6	-	3
+5	-	6
+6	-	25
+6	B	2
+5	BC	2
+5	C	2
+5	-	4
+2	-	12
+2	AB	6
+2	-	15
+5	-	38
+6	-	2
+9	-	4
+9	B	2
+5	B	5
+5	-	10
+5	B	11
+5	-	18
+6	-	3
+9	-	4
+9	B	6
+6	B	2
+5	B	2
+5	-	7
+2	-	4
+2	B	12
+2	-	5
+1	-	2
+4	-	3
+5	-	2
+5	B	9
+5	C	9
+5	-	50
+2	-	4
+3	-	2
+6	-	3
+2	-	4
+3	-	2
+6	-	3
+2	-	3
+3	-	2
+6	D	2
+5	-	117
