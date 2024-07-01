@@ -20,7 +20,7 @@ CmnBDash i c
 AxeAttackB
 UltimateFullswingB a +UltimateFullswingB_set
 ProgramFinish	nOnly
-UltimateFullswingB +UltimateFullswingB_hit nOnly
+UltimateFullswingB +UltimateFullswingB_hit
 PersonaUshiAirNageD
 UltimateFullswingB
 

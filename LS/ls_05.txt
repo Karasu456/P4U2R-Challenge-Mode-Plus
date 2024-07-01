@@ -19,7 +19,7 @@ UltimateFullswingAB a +UltimateFullswingAB_set
 Persona5C +Persona5C_titano nOnly
 Persona2C +Persona2C_titano nOnly
 PersonaUshiTatakiC +UshiTatakiC_titano nOnly d3090
-UltimateFullswingAB +UltimateFullswingAB_hit nOnly
+UltimateFullswingAB +UltimateFullswingAB_hit
 ProgramFinish	nOnly
 
 -KEY-

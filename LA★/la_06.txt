@@ -5,7 +5,7 @@ LabryssAxInitial 3
 Hashi
 
 -LIST-
-CmnSurinuke	i +CmnSurinuke_LA
+CmnSurinuke	i c +CmnSurinuke_advance
 Oraora +OraoraC_cornered
 CmnFAirDash i c
 CmnAirTurn i c
