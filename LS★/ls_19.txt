@@ -1,0 +1,131 @@
+-MISSION-	19
+SP	100
+Kakusei
+HashiEx
+Crouch
+
+-LIST-
+NmlAtkAir5A c
+NmlAtkAir2B c
+NmlAtk5B c
+NmlAtk2B c
+NmlAtkAir5B c
+NmlAtkAir5B2nd +NmlAtkAir5B2nd_Hammer
+CmnActJumpExUpper	a	c	nOnly
+AxeAttackAirB
+NmlAtkAir5B c
+NmlAtkAir5B2nd c
+CmnActJumpExUpper	a	c	nOnly
+NmlAtkAir5B c
+NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
+AxeAttackAirB
+Persona5C +Persona5C_hit nOnly
+UltimateFullswingA
+PersonaUshiAirNageD
+CmnSurinuke	i c +CmnSurinuke_advance
+UltimateFullswingB
+
+-KEY-
+5	-	10
+6	-	2
+9	-	6
+5	-	23
+6	-	4
+5	-	5
+6	-	8
+6	A	4
+5	A	2
+5	-	5
+2	-	4
+2	B	8
+2	-	3
+5	-	42
+5	B	9
+5	-	5
+2	-	4
+2	B	7
+5	B	2
+5	-	26
+8	-	7
+8	B	4
+5	B	5
+5	-	8
+5	B	12
+5	-	18
+8	-	6
+5	-	3
+2	-	1
+2	C	7
+5	C	1
+5	-	4
+2	-	2
+1	-	2
+4	-	1
+4	B	3
+4	-	1
+5	-	113
+8	-	9
+8	B	7
+5	B	3
+5	-	5
+5	B	11
+5	-	22
+8	-	5
+8	B	5
+5	B	4
+5	-	6
+5	BC	16
+5	C	4
+2	C	4
+1	C	2
+4	C	3
+5	BC	19
+5	C	41
+5	-	13
+2	-	3
+1	-	3
+4	-	3
+5	-	1
+2	-	4
+1	A	2
+4	A	2
+5	A	8
+S4	-	1
+5	-	11
+2	-	58
+5	-	1
+8	-	1
+8	D	3
+5	D	2
+5	-	73
+6	-	4
+5	-	4
+6	-	2
+6	A	1
+6	AC	5
+6	C	1
+5	C	1
+5	-	5
+2	-	4
+3	-	2
+6	-	4
+3	-	1
+2	-	1
+2	B	2
+2	-	1
+3	-	2
+6	-	3
+6	B	1
+3	B	1
+2	B	1
+2	-	3
+3	-	1
+3	B	1
+6	B	3
+5	-	1
+2	-	3
+2	B	1
+3	B	3
+6	B	3
+5	B	28
+5	-	204

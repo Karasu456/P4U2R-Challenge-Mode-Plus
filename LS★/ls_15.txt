@@ -12,7 +12,7 @@ NmlAtkAir5B c
 CmnActJumpExUpper a c nOnly
 NmlAtkAir5B c
 AxeAttackAirB
-PersonaUshiTatakiC
+PersonaUshiTatakiC +PersonaUshiTatakiC_air
 
 -KEY-
 5	-	12

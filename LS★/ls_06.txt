@@ -3,6 +3,7 @@ HashiEx
 Kakusei
 SP	150
 Crouch
+ShadowLabryssProgramFastRecover	1
 
 -LIST-
 NmlAtkAir5A c

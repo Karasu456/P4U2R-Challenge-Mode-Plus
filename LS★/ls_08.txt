@@ -1,0 +1,82 @@
+-MISSION-	8
+SP 50
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5D i |Persona5D i +Persona5D
+NmlAtk5A3rd c
+CmnMiniJump i c
+NmlAtkAir2B c
+_HighJump a c nOnly
+NmlAtkAir5B c
+AxeAttackAirB
+Persona8C
+_HighJump a c nOnly
+AxeAttackAirB
+PersonaUltimateTemaeNaguriD
+
+-KEY-
+5	-	12
+6	-	2
+5	-	6
+6	-	6
+5	A	3
+5	-	6
+5	A	5
+5	-	19
+5	A	1
+5	AD	9
+5	D	13
+2	D	8
+2	AD	1
+2	ACD	4
+2	CD	1
+2	D	11
+2	BD	4
+2	D	4
+2	-	2
+5	-	24
+6	-	3
+5	-	6
+6	-	6
+3	-	1
+9	-	3
+2	-	1
+5	B	7
+5	-	1
+2	-	9
+1	B	3
+4	B	3
+5	B	2
+5	-	21
+8	-	9
+8	C	4
+8	-	7
+8	C	3
+8	-	5
+5	-	40
+2	-	6
+5	-	2
+8	-	4
+5	-	4
+2	-	2
+1	-	2
+4	-	1
+4	B	2
+5	B	6
+5	-	20
+2	-	4
+3	-	3
+6	-	4
+5	-	2
+2	-	4
+3	-	1
+6	-	4
+5	D	3
+2	-	2
+2	D	1
+3	D	3
+6	-	3
+5	-	1
+5	D	2
+5	-	37

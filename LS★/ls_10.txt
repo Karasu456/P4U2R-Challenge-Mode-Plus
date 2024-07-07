@@ -1,0 +1,70 @@
+-MISSION-	10
+HashiEx
+
+-LIST-
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5B c
+NmlAtk2B c
+NmlAtkAir2B c
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5B c
+NmlAtkAir5B2nd +NmlAtkAir2BC
+Persona2C +Persona2C_hit nOnly
+NmlAtkAir5B c
+NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
+CmnActJumpExUpper a c nOnly
+AxeAttackAirB
+Persona5C +Persona5C_hit nOnly
+
+-KEY-
+5	-	16
+6	-	3
+5	-	6
+6	-	7
+6	A	5
+6	-	3
+5	-	3
+5	A	7
+5	-	14
+5	B	7
+5	-	15
+2	-	5
+2	B	6
+2	-	1
+5	-	27
+8	-	6
+5	-	1
+5	B	2
+2	B	6
+5	B	4
+5	-	8
+8	-	7
+8	B	2
+5	B	9
+5	-	2
+2	-	6
+2	B	1
+2	BC	13
+2	C	8
+1	C	3
+4	C	3
+5	BC	9
+5	C	16
+5	-	83
+8	-	7
+8	B	10
+5	B	3
+5	-	9
+5	B	4
+5	BC	9
+5	C	11
+8	C	5
+5	C	1
+2	C	3
+1	C	1
+1	BC	2
+4	BC	2
+5	BC	5
+5	C	37
+5	-	100
