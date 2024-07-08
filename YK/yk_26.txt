@@ -1,0 +1,122 @@
+-MISSION-	26
+Tooi
+
+-LIST-
+Persona2C c
+PersonaAir5C c
+Air2B_Atk +Air2B_Atk_Charge
+5B_Atk
+Air5B_Atk
+5B_Atk
+2B_Atk +2B_Atk_Charge
+MatoNageA a
+5B_Atk
+2B_Atk +2B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+5B_Atk
+2B_Atk +2B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+5B_Atk
+2B_Atk +2B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+MoonsaltArrowCharm +MoonsaltArrowCharmC_combined
+
+-KEY-
+5    -    14
+2    -    2
+2    C    7
+5    C    1
+5    -    23
+6    -    3
+9    -    5
+6    -    2
+5    C    12
+5    -    9
+6    -    1
+9    -    3
+6    -    2
+2    -    3
+2    B    3
+5    B    10
+6    B    15
+5    B    3
+5    -    11
+6    -    4
+5    -    5
+6    -    4
+6    B    6
+5    B    3
+5    -    12
+6    -    1
+9    -    3
+8    -    1
+5    -    4
+6    -    10
+6    B    9
+6    -    26
+5    B    9
+5    -    1
+2    -    4
+2    B    29
+1    B    3
+4    -    1
+4    A    2
+5    A    9
+5    -    23
+5    B    9
+5    -    2
+2    -    5
+2    B    12
+5    B    20
+5    -    3
+6    -    1
+9    -    3
+8    -    1
+5    -    4
+6    -    8
+6    B    1
+5    B    28
+5    -    15
+5    B    11
+5    -    1
+2    -    4
+2    B    7
+5    B    20
+4    B    4
+7    B    1
+7    -    5
+7    B    1
+4    B    3
+5    B    24
+5    -    44
+5    B    16
+5    -    1
+2    -    4
+2    B    29
+5    B    5
+5    -    2
+9    -    6
+6    B    2
+5    B    27
+5    -    1
+8    -    3
+8    B    4
+5    B    12
+2    B    4
+3    B    3
+6    B    2
+6    C    2
+5    C    10
+5    -    3
+5    A    6
+5    -    4
+5    A    8
+5    -    50
+3    -    1
+6    -    2
+6    C    1
+5    C    12
+5    -    18
+5    A    12
+5    -    39

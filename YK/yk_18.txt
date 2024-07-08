@@ -1,0 +1,124 @@
+-MISSION-	18
+Kakusei
+Tooi
+SP 125
+
+-LIST-
+Ashibarai c
+CmnCancelBurst i c
+Air5D_atk	+Air5D_Atk
+Air5B_Atk
+5B_Atk
+2B_Atk +2B_Atk_Charge
+MatoNageA a
+5B_Atk +5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+_Jump i c nOnly
+Air5B_Atk +Air5B_Atk_Charge
+Air2B_Atk +Air2B_Atk_Charge
+5B_Atk +5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+CmnActJumpExUpper a c nOnly
+Air5B_Atk +Air5B_Atk_Charge
+eff_MahaGaruD_dmy
+AirUltimateArrow_AtkB d5400
+UltimateArrow_AtkAB
+
+-KEY-
+5	-	11
+6	-	4
+5	-	4
+6	-	9
+3	-	3
+2	-	1
+2	AB	5
+2	-	8
+5	-	1
+5	ACD	6
+5	-	39
+4	-	1
+7	-	6
+4	D	10
+5	-	24
+5	B	8
+5	-	6
+6	-	4
+5	-	4
+6	-	15
+6	B	7
+5	-	4
+2	-	3
+2	B	26
+1	B	2
+4	-	2
+5	A	5
+5	-	7
+2	-	6
+2	B	2
+2	-	6
+2	B	5
+2	-	5
+2	B	6
+2	-	9
+2	AB	5
+2	-	9
+5	-	19
+6	-	4
+5	-	4
+6	-	8
+6	B	19
+5	-	11
+6	-	1
+9	-	3
+5	-	5
+6	-	7
+6	B	31
+5	-	5
+8	-	5
+5	-	2
+5	B	24
+5	-	1
+8	-	4
+5	-	1
+2	B	40
+5	-	15
+2	-	3
+2	B	11
+
+5	-	9
+5	B	31
+7	-	4
+4	-	2
+5	-	1
+5	B	28
+5	-	2
+8	-	5
+5	-	4
+5	B	24
+2	-	1
+1	-	2
+4	-	1
+4	D	4
+2	-	4
+3	-	2
+6	-	4
+2	-	3
+3	-	3
+6	-	1
+6	B	4
+2	-	3
+3	-	1
+6	B	7
+5	-	80
+2	-	4
+3	-	2
+6	-	4
+2	-	3
+2	-	2
+3	-	2
+6	-	4
+2	AB	4
+3	-	2
+6	-	2
+6	AB	4
+5	-	18
