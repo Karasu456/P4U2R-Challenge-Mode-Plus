@@ -1,0 +1,128 @@
+-MISSION-	29
+SP	100
+Burst 100
+Counter
+HashiEx
+
+-LIST-
+Persona5C c
+CmnActHeatUp +HeatUp a c
+5B_Atk +5B_Atk_Charge
+MoonsaltArrowCharm +MoonsaltArrowCharm_combinedD
+eff_AirKuneKuneArrowA |eff_KuneKuneArrowA
+eff_AirKuneKuneArrowB |eff_KuneKuneArrowB
+eff_AirKuneKuneArrowAB |eff_KuneKuneArrowAB
+Air5B_Atk +Air5B_Atk_Charge
+eff_KuneKuneArrowA
+MoonsaltArrowCharm +MoonsaltArrowCharm_combinedC
+eff_AirKuneKuneArrowB |eff_KuneKuneArrowB
+eff_AirKuneKuneArrowAB |eff_KuneKuneArrowAB
+5B_Atk +5B_Atk_Charge
+MatoNageA	a
+5B_Atk
+2B_Atk
+Air5D_atk |NmlAtkAir5D +Air5D_set i
+AirUltimateArrow_AtkB d7400
+UltimateArrow_AtkAB
+
+-KEY-
+5	-	9
+6	-	5
+5	-	5
+6	-	7
+6	C	17
+5	-	4
+5	ACD	13
+5	-	43
+5	B	26
+2	-	1
+3	-	2
+6	-	2
+6	D	8
+5	-	11
+5	A	9
+5	-	26
+2	-	3
+3	-	3
+6	-	1
+6	A	5
+5	A	6
+5	-	12
+2	-	3
+3	-	3
+6	B	5
+5	-	42
+2	-	2
+3	-	4
+6	AB	7
+5	-	37
+2	-	5
+5	-	4
+5	B	17
+
+5	-	3
+6	-	4
+5	-	3
+6	-	3
+2	-	3
+3	-	2
+6	A	5
+6	-	1
+5	-	13
+2	-	4
+3	-	6
+6	C	6
+5	-	10
+5	A	6
+5	-	18
+2	-	3
+3	-	2
+6	B	4
+5	-	37
+2	-	5
+3	-	5
+6	AB	6
+5	-	49
+
+5	B	18
+5	-	3
+6	-	3
+5	-	3
+6	-	3
+5	B	25
+2	B	3
+1	B	2
+4	B	1
+4	-	1
+4	A	6
+5	-	21
+5	B	8
+5	-	4
+2	-	4
+2	B	25
+5	-	11
+9	-	6
+5	D	13
+2	-	1
+3	-	2
+6	-	5
+5	-	1
+2	-	4
+3	-	1
+3	B	2
+6	-	5
+5	B	7
+2	-	2
+5	-	85
+2	-	3
+3	-	2
+6	-	5
+2	-	5
+3	-	1
+3	AB	3
+6	-	4
+2	-	3
+2	AB	3
+3	-	1
+6	-	5
+2	AB	4

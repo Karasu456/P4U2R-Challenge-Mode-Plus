@@ -1,0 +1,123 @@
+-MISSION-	28
+SP	80
+Burst 100
+Tooi
+
+-LIST-
+CmnBAirDash i c
+eff_KuneKuneArrowA
+CmnActHeatUp +HeatUp a c
+eff_KuneKuneArrowA
+MoonsaltArrowCharm |MoonsaltArrowConfuse +MoonsaltJumpCD_combined
+eff_AirKuneKuneArrowB |eff_KuneKuneArrowB
+eff_AirKuneKuneArrowAB |eff_KuneKuneArrowAB
+Air2B_Atk +Air2B_Atk_Charge
+5B_Atk
+CmnFAirDash i c
+Air5B_Atk +Air5B_Atk_Charge
+5B_Atk +5B_Atk_Charge
+MoonsaltArrowCharm +MoonsaltArrowCharm_combined
+eff_AirKuneKuneArrowA |eff_KuneKuneArrowA
+eff_AirKuneKuneArrowB |eff_KuneKuneArrowB
+eff_AirKuneKuneArrowAB |eff_KuneKuneArrowAB
+eff_AirKuneKuneArrowA |eff_KuneKuneArrowA
+eff_AirKuneKuneArrowB |eff_KuneKuneArrowB
+AirUltimateArrow_AtkAB
+
+-KEY-
+5	-	13
+7	-	3
+4	-	1
+5	-	4
+4	-	11
+5	-	11
+2	-	3
+3	-	3
+6	A	6
+5	-	29
+5	ACD	8
+5	-	41
+2	-	3
+3	-	2
+6	-	2
+6	A	7
+5	-	18
+2	-	2
+3	-	4
+6	CD	9
+5	-	28
+5	A	5
+5	-	6
+2	-	3
+3	-	3
+6	B	3
+5	-	33
+2	-	14
+3	-	3
+6	AB	3
+5	-	39
+6	-	4
+5	-	5
+6	-	7
+3	-	1
+2	-	3
+2	B	2
+3	B	2
+6	B	26
+5	-	6
+6	-	4
+5	-	6
+6	-	4
+6	B	3
+5	B	6
+5	-	8
+9	-	3
+8	-	1
+5	-	3
+6	-	7
+5	B	16
+5	-	20
+5	B	29
+5	-	4
+2	-	3
+3	-	2
+6	-	1
+6	D	10
+5	-	10
+5	A	4
+5	-	34
+2	-	3
+3	-	3
+6	-	1
+6	A	3
+5	A	5
+5	-	13
+2	-	3
+3	-	3
+6	B	4
+5	-	33
+2	-	5
+3	-	4
+6	AB	6
+5	-	42
+2	-	3
+3	-	4
+6	A	9
+5	-	13
+2	-	3
+3	-	2
+6	B	4
+5	-	17
+2	-	4
+3	-	2
+6	-	5
+2	-	5
+3	-	2
+6	-	5
+2	-	5
+3	-	2
+6	-	5
+2	-	5
+3	-	2
+6	-	4
+6	AB	3
