@@ -1,0 +1,94 @@
+-MISSION-	18
+Tooi
+SP	75
+Counter
+Kakusei
+
+-LIST-
+NmlAtk5C c
+CmnFAirDash i c
+NmlAtkAir5B c
+NmlAtk2B c
+NmlAtk5C c
+NmlAtk5B c
+Ashibarai c
+AssaultB_1st
+AssaultA_2nd +AssaultA_2ndHasei
+KousokuDashC |KousokuDashAirC a n2miss +KousokuDashCHasei
+AssaultA_1st
+AssaultB_2nd +AssaultB_2ndHasei
+CmnActJumpExUpper a c nOnly
+NmlAtkAir5C c
+ReversalActionAir
+UltimateTaikuuAB
+
+
+-KEY-
+5	-	10
+6	-	16
+6	C	5
+5	C	2
+5	-	12
+6	-	1
+9	-	4
+5	-	6
+6	-	10
+6	B	10
+6	-	27
+3	-	2
+2	-	3
+2	B	11
+5	-	31
+5	C	7
+5	-	19
+5	B	10
+5	-	11
+2	-	13
+2	AB	7
+2	B	2
+2	-	30
+3	-	3
+6	-	2
+6	B	2
+5	B	6
+5	-	25
+5	A	6
+5	-	6
+5	C	3
+2	C	3
+2	-	5
+3	-	2
+6	-	3
+6	A	3
+5	A	2
+5	-	12
+5	B	5
+5	-	26
+6	-	3
+9	-	7
+6	-	1
+5	-	5
+5	C	14
+6	-	22
+5	-	9
+5	BD	7
+5	-	10
+2	-	2
+1	-	4
+4	-	2
+5	-	4
+2	-	4
+1	-	1
+1	A	1
+4	AB	1
+4	A	1
+5	-	3
+2	-	2
+2	A	1
+1	AB	4
+4	A	1
+5	-	3
+5	A	1
+5	AB	7
+5	B	1
+5	-	11

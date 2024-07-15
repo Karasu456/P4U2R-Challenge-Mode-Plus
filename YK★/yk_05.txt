@@ -1,5 +1,5 @@
 -MISSION-	5
-SP	25
+SP	75
 
 -LIST-
 Ashibarai c

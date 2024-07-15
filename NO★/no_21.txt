@@ -5,13 +5,13 @@ Counter
 NmlAtk2C c
 NmlAtk2B c
 NmlAtk5C c
-AssaultB_1st
 AssaultB_2nd +AssaultB_2nd_combined
 NmlAtkAir5B c
 NmlAtk5C c
 CmnMiniJump i c
 NmlAtkAir5C c
 NmlAtk5C c
+CmnMiniJump i c
 NmlAtkAir5C c
 NmlAtk5B c
 NmlAtk5C c
