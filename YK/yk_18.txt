@@ -20,7 +20,7 @@ Air2B_Atk +Air2B_Atk_Charge
 Air5B_Atk +Air5B_Atk_Charge
 CmnActJumpExUpper a c nOnly
 Air5B_Atk +Air5B_Atk_Charge
-eff_MahaGaruD_dmy
+eff_MahaGaruD_dmy +eff_MahaGaruD_dmy_air
 AirUltimateArrow_AtkB d5400
 UltimateArrow_AtkAB
 
@@ -84,41 +84,3 @@ UltimateArrow_AtkAB
 5	-	15
 2	-	3
 2	B	11
-
-5	-	9
-5	B	31
-7	-	4
-4	-	2
-5	-	1
-5	B	28
-5	-	2
-8	-	5
-5	-	4
-5	B	24
-2	-	1
-1	-	2
-4	-	1
-4	D	4
-2	-	4
-3	-	2
-6	-	4
-2	-	3
-3	-	3
-6	-	1
-6	B	4
-2	-	3
-3	-	1
-6	B	7
-5	-	80
-2	-	4
-3	-	2
-6	-	4
-2	-	3
-2	-	2
-3	-	2
-6	-	4
-2	AB	4
-3	-	2
-6	-	2
-6	AB	4
-5	-	18

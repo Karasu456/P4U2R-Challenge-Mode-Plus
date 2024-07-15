@@ -1,0 +1,82 @@
+-MISSION-	26
+HashiEx
+-LIST-
+NmlAtkAir5B c
+NmlAtk2B c
+NmlAtk5B c
+Ashibarai c
+rp403_atkc_col
+NmlAtk2B c
+Persona5C |rpef_204_atk c 
+rp406_atka_col
+OnpuShot_Atk
+CmnFAirDash i c
+NmlAtkAir2B c
+rp403_atkc_col
+NmlAtk5A c
+NmlAtk5A2nd c
+NmlAtk5A3rd c
+OnpuShot_Atk +OnpuShot_Atk_stylish
+
+-KEY-
+5	-	10
+6	-	1
+9	-	3
+8	-	1
+5	-	4
+6	-	15
+6	B	13
+5	B	1
+5	-	22
+2	-	3
+2	B	7
+5	B	3
+5	-	19
+5	B	8
+5	-	7
+2	-	5
+2	AB	7
+2	-	10
+3	-	1
+6	-	3
+6	C	1
+5	C	5
+5	-	54
+2	B	6
+2	-	1
+5	-	6
+5	C	5
+5	-	7
+2	-	3
+5	-	4
+2	-	3
+2	A	5
+5	-	36
+2	-	3
+3	-	2
+6	-	3
+5	A	7
+5	-	41
+6	-	2
+9	-	3
+8	-	1
+5	-	4
+6	-	5
+3	-	2
+2	-	1
+2	B	14
+5	-	22
+2	-	4
+3	-	2
+6	-	3
+6	C	1
+5	C	4
+5	-	48
+5	A	5
+5	-	5
+5	A	7
+5	-	13
+5	A	7
+5	-	15
+5	A	8
+5	-	54

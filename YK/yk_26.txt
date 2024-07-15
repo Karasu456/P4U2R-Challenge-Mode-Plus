@@ -19,8 +19,8 @@ Air5B_Atk +Air5B_Atk_Charge
 5B_Atk
 2B_Atk +2B_Atk_Charge
 Air5B_Atk +Air5B_Atk_Charge
-Air5B_Atk +Air5B_Atk_Charge
-MoonsaltArrowCharm +MoonsaltArrowCharmC_combined
+CmnActJumpExUpper a c
+MoonsaltArrowCharm +MoonsaltArrowCharm_combinedAir
 
 -KEY-
 5    -    14

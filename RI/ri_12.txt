@@ -5,7 +5,7 @@ SP 50
 NmlAtkThrow c
 CmnOneMoreCancel i c
 NmlAtk2C	c	|rpef_232_shot	|rpef_232_bit
-_Dash +CmnActFDash i c
+_Dash i c
 NmlAtk2B c
 NmlAtk5C	c	|rpef_204_atk
 AssaultB

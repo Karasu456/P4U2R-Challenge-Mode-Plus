@@ -1,0 +1,132 @@
+-MISSION-	21
+SP	150
+Counter
+Kakusei
+HashiEx
+
+-LIST-
+MoonsaltArrowCharm |MoonsaltArrowConfuse +MoonsaltArrow_combined
+Persona5C c
+Ashibarai c
+eff_MahaGaruCD_dmy
+2B_Atk
+5B_Atk +5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+Air2B_Atk +Air2B_Atk_Charge
+5B_Atk +5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+Air2B_Atk +Air2B_Atk_Charge
+2B_Atk
+5B_Atk +5B_Atk_Charge
+Air5B_Atk +Air5B_Atk_Charge
+CmnActJumpExUpper a c nOnly
+Air5B_Atk +Air5B_Atk_Charge
+eff_MahaGaruD_dmy
+AirUltimateArrow_AtkB d6500
+UltimateArrow_AtkAB
+
+-KEY-
+5	-	8
+6	-	4
+5	-	4
+6	-	2
+3	-	3
+2	-	4
+3	-	2
+6	C	4
+5	-	41
+5	A	6
+5	-	24
+6	-	4
+5	-	4
+6	-	5
+6	C	13
+5	-	8
+2	-	3
+2	AB	7
+2	-	6
+1	-	2
+4	-	2
+5	CD	9
+5	-	29
+2	-	3
+2	B	12
+5	-	10
+5	B	30
+9	-	2
+8	-	2
+5	-	3
+6	-	6
+5	B	26
+5	-	10
+8	-	6
+5	-	2
+5	B	24
+8	-	3
+5	-	3
+2	-	1
+2	B	37
+5	-	13
+5	B	27
+5	-	4
+8	-	6
+5	-	11
+5	B	25
+5	-	10
+8	-	5
+5	-	3
+5	B	25
+5	-	2
+8	-	2
+5	-	3
+2	-	2
+2	B	41
+5	-	15
+2	-	2
+2	B	15
+5	-	8
+5	B	28
+4	-	1
+7	-	4
+4	-	4
+5	-	3
+5	B	26
+5	-	2
+8	-	5
+5	B	24
+2	B	3
+1	B	2
+4	B	3
+4	-	1
+5	D	6
+2	-	4
+3	-	1
+6	-	5
+6	-	2
+2	-	2
+3	-	2
+6	-	2
+6	B	3
+2	-	3
+3	-	1
+6	B	4
+6	-	2
+5	-	69
+2	-	3
+3	-	3
+6	-	5
+2	-	4
+3	-	2
+6	-	5
+3	-	1
+2	-	3
+3	-	2
+6	-	3
+6	AB	2
+2	-	3
+3	-	2
+6	AB	2
+6	-	2
+3	-	2
+3	AB	4
+5	-	164

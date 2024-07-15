@@ -1,0 +1,111 @@
+-MISSION-	23
+Kakusei
+SP	150
+JunpeisPoint	10
+Tooi
+
+-LIST-
+UltimateGrandSlamA	a
+UltimateGrandSlamA	+UltimateGrandSlamABYoko_clean d2020
+CmnCancelBurst i c
+NmlAtk5BClean
+NmlAtk2BClean
+CmnBJump i c +_Jump7
+NmlAtkAir5A c
+NmlAtkAir5BClean
+NmlAtk5BClean
+CmnMiniJump i c
+NmlAtkAir5BClean
+NmlAtk5B c
+PushBuntABClean
+NmlAtk2A c
+NmlAtk5BClean
+Persona2D c
+PersonaDeathBoundD
+PersonaUltimateSwingShotCD
+UltimateSwingShotCD d5200 +ReversalActionClean
+
+-KEY-
+5	-	31
+2	-	4
+3	-	3
+6	-	2
+5	-	4
+2	-	1
+3	-	2
+6	A	5
+5	-	58
+5	B	3
+5	-	7
+5	B	5
+5	-	9
+5	ACD	5
+5	-	53
+6	-	4
+5	-	6
+6	-	10
+6	B	9
+5	-	5
+2	-	4
+2	B	12
+5	-	16
+4	-	1
+7	-	8
+4	-	4
+6	-	4
+5	-	5
+6	-	6
+6	A	4
+6	-	2
+5	-	6
+5	B	4
+5	-	49
+6	-	2
+5	-	2
+5	B	6
+5	-	3
+2	-	5
+2	AC	12
+5	-	12
+5	B	10
+5	-	24
+6	-	3
+5	-	7
+6	-	4
+6	B	5
+5	-	3
+2	-	2
+1	-	3
+4	AB	4
+5	-	18
+6	-	4
+5	-	6
+6	-	28
+3	-	3
+2	-	1
+2	A	5
+2	-	7
+5	B	4
+5	-	3
+2	-	6
+2	D	10
+2	-	26
+1	-	2
+4	-	4
+5	D	6
+5	-	4
+2	-	5
+1	-	2
+4	-	4
+5	-	2
+2	-	7
+1	-	2
+4	-	4
+2	-	2
+2	CD	3
+1	CD	3
+4	D	2
+4	-	2
+5	-	104
+5	A	6
+5	-	124
