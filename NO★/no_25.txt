@@ -96,7 +96,7 @@ DamageOver8500 d8500 c nOnly
 6	-	1
 6	B	6
 5	-	28
-5	A	8
+5	B	8
 5	-	5
 5	BD	4
 2	-	4
