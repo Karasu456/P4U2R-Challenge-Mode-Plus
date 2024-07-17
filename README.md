@@ -7,5 +7,4 @@ This gameplay mod is specifically designed to be an add-on for the Persona Fight
 https://youtu.be/dKi89on7d48?si=YP9lxsAfWgffRxHk
 
 
-![Alt Text]
-(https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](Insert URL Here)
