@@ -5,3 +5,7 @@ This gameplay mod is specifically designed to be an add-on for the Persona Fight
 **Challenge Mode+ Section(α) Showcase:**
 
 https://youtu.be/dKi89on7d48?si=YP9lxsAfWgffRxHk
+
+
+![Alt Text]
+(Insert GIF URL Here)
