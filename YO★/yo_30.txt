@@ -6,19 +6,20 @@ Counter
 -LIST-
 WarpLowSlashC nOnly
 CmnActHeatUp +HeatUp a c nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-VSlashD +WarpLowSlash nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
-KunaiHit_C |KunaiHit_D |KunaiHit_CD +FinalKunaiHit nOnly
+KunaiHit_C nOnly
+KunaiHit_D nOnly
+KunaiHit_CD nOnly
+KunaiHit_C nOnly
+KunaiHit_D nOnly
+KunaiHit_CD nOnly
+KunaiHit_C nOnly
+KunaiHit_D nOnly
+VSlashD nOnly
+MoonsaltMoveA a n2miss nOnly
+KunaiHit_CD nOnly
+KunaiHit_C nOnly
+KunaiHit_D nOnly
+KunaiHit_CD nOnly
 TatsumakiCD nOnly
 -KEY-
 5	-	19
@@ -130,3 +131,20 @@ TatsumakiCD nOnly
 4	-	4
 5	D	2
 5	-	228
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

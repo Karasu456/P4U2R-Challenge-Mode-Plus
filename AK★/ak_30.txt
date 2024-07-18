@@ -3,24 +3,24 @@ SP        100
 Burst	100
 
 -LIST-
-NmlAtk2B c
-CmnActHeatUp +HeatUp a c
-NmlAtk5B c
-AirTosshinA
-WavingCD |HaseiWavingCD a
-DashUpperA
-BodyBlowA
-CorkScrewAB
-AirTosshinB
-DashUpperB
-BodyBlowB +BodyBlowB_Charge
-Persona5C c
-DuckingC |HaseiDuckingC a
-ReversalAction
-LightningPlasma_col +LightningPlasmaD_col
-Ashibarai c
-CorkScrewB
-UltimateUpperAB 
+NmlAtk2B c nOnly
+CmnActHeatUp +HeatUp a c nOnly
+NmlAtk5B c nOnly
+AirTosshinA nOnly
+WavingCD |HaseiWavingCD a nOnly
+DashUpperA nOnly
+BodyBlowA nOnly
+CorkScrewAB nOnly
+AirTosshinB nOnly
+DashUpperB nOnly
+BodyBlowB +BodyBlowB_Charge nOnly
+Persona5C c nOnly
+DuckingC |HaseiDuckingC a nOnly
+ReversalAction nOnly
+LightningPlasma_col +LightningPlasmaD_col nOnly
+Ashibarai c nOnly
+CorkScrewB nOnly
+UltimateUpperAB nOnly
 
 -KEY-
 5	-	18

@@ -15,7 +15,7 @@ AirRollingD |RollingD
 dmy_machinegun2
 dmy_5B
 _HighJump a c nOnly
-PersonaAir5C c
+PersonaAir5C +PersonaAir5C_single
 AirRollingD |RollingD
 ModeChangeA a
 
