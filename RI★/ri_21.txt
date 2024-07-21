@@ -1,0 +1,138 @@
+-MISSION-	21
+HashiEx
+Counter
+RisesBitFastRecover	1
+SP 50
+
+-LIST-
+AssaultA
+NmlAtk2B c
+NmlAtk5C	c	|rpef_204_atk
+NmlAtk2C	c	|rpef_232_shot	|rpef_232_bit
+NmlAtk5C	c	|rpef_204_atk
+Ashibarai i +Ashibarai_miss
+NmlAtk5C	c	|rpef_204_atk
+OnpuShotb_Atk
+NmlAtk5A2nd +NmlAtk5AA
+NmlAtk5C	c	|rpef_204_atk
+rp406_atka_col
+NmlAtkAir5C	|rpef_253_atk +NmlAtkAir5C_5DHold
+NmlAtkAir2B	c
+AtkAir5DBeam +AtkAir5DBeam_release
+NmlAtk5B c
+AssaultB
+UltimateBitFunnelD |BitFunnel_MarkingD a +UltimateBitFunnelD_scan
+NmlAtk5B c
+AssaultA
+
+-KEY-
+5	-	13
+6	-	3
+5	-	6
+6	-	5
+2	-	3
+1	-	1
+4	-	2
+4	A	1
+5	A	7
+5	-	48
+2	-	4
+2	B	6
+5	B	3
+5	-	19
+5	C	6
+5	-	35
+2	-	3
+2	C	5
+5	C	1
+5	-	37
+4	-	40
+4	C	1
+5	C	4
+5	-	9
+2	-	2
+2	AB	7
+2	B	1
+5	-	30
+5	C	8
+5	-	20
+2	-	4
+3	-	2
+6	-	1
+6	B	3
+5	B	5
+5	-	30
+6	-	4
+5	-	5
+6	-	6
+5	-	1
+5	A	5
+5	-	7
+5	A	7
+5	-	14
+5	C	5
+5	-	10
+2	-	4
+5	-	5
+2	-	3
+2	A	5
+5	A	2
+5	-	38
+8	-	9
+5	C	7
+5	-	14
+5	D	21
+2	D	9
+2	BD	3
+2	D	7
+2	BD	5
+2	D	6
+2	BD	6
+2	D	6
+5	D	39
+5	-	15
+5	B	7
+5	-	8
+2	-	3
+1	-	3
+4	-	2
+4	B	1
+5	B	3
+5	-	14
+2	-	6
+3	-	1
+6	-	5
+5	-	1
+2	-	4
+3	-	2
+6	-	4
+3	-	1
+2	-	4
+3	D	2
+6	D	1
+6	-	3
+2	-	6
+3	-	2
+6	-	4
+3	-	1
+2	-	5
+3	-	1
+6	-	4
+3	-	1
+2	-	5
+3	-	1
+6	-	5
+2	-	5
+5	-	80
+4	-	5
+5	-	5
+4	-	13
+4	B	1
+5	B	7
+5	-	2
+2	-	5
+3	-	1
+6	-	2
+6	A	2
+5	A	4
+5	-	36

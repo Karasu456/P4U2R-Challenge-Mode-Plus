@@ -1,0 +1,101 @@
+-MISSION-	24
+SP	50
+HP 45
+HPRecoverEnemyOnly	0
+HashiEx
+RisesBitFastRecover	1
+
+
+-LIST-
+NmlAtk2B c
+NmlAtk5B c
+Ashibarai c
+rp403_atkc_col
+NmlAtk2B c
+NmlAtk5C	c	|rpef_204_atk
+rp406_atka_col
+OnpuShot_Atk
+rp400_atk_col
+UltimateBitFunnelC a +UltimateBitFunnelC
+_Kakusei i c
+rpef_431_BombAtk
+rpef_431_BombAtk
+AssaultA
+UltimateHysterieBintaB
+
+-KEY-
+5	-	8
+6	-	4
+5	-	6
+6	-	7
+3	-	3
+2	-	1
+2	B	5
+5	B	2
+5	-	20
+5	B	8
+5	-	7
+2	-	4
+2	AB	6
+2	B	1
+2	-	13
+3	-	1
+6	-	1
+6	C	3
+5	C	1
+5	-	58
+2	-	2
+2	B	5
+2	-	2
+5	-	4
+5	C	5
+5	-	4
+2	-	3
+5	-	5
+2	-	3
+2	A	5
+5	-	40
+2	-	2
+3	-	2
+6	-	1
+6	A	1
+5	A	4
+5	-	46
+5	BD	4
+5	-	5
+5	BD	5
+5	-	17
+2	-	4
+3	-	1
+6	-	4
+5	-	2
+2	-	4
+3	C	1
+6	C	3
+6	-	1
+5	-	4
+5	C	3
+5	-	91
+5	C	5
+5	-	89
+5	C	8
+5	-	60
+2	-	4
+1	-	1
+1	A	1
+4	A	2
+5	A	3
+5	-	8
+2	-	6
+3	-	2
+6	-	4
+2	-	5
+3	-	2
+6	-	3
+6	B	2
+2	B	1
+2	-	4
+3	B	2
+6	B	1
+6	-	1
+5	-	148

@@ -15,13 +15,12 @@ Persona5C |rpef_204_atk c
 rp406_atkab_col	a	|TimeLagShotAB
 _HighJump a c nOnly
 NmlAtkAir5C |rpef_253_atk c
-PersonaAir5D |NmlAtkAir5D |AtkAir5DBeam i c
-CmnFAirDash i c
+PersonaAir5D |NmlAtkAir5D |AtkAir5DBeam c
 NmlAtkAir2B c
 OnpuShot_Atk
 AssaultA
 AssaultB
-UltimateBitFunnelD a
+UltimateBitFunnelD |BitFunnel_MarkingD +UltimateBitFunnelD_scan
 AssaultB
 UltimateHysterieBintaAB
 

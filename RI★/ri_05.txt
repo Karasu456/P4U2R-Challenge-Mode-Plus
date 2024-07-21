@@ -7,7 +7,7 @@ SP 50
 NmlAtk5D |Atk5DBeam +Persona5D_scan
 rp403_markingc_col |rp403_markingd_col +rp403_atk_col_scanned
 AtkAir5DBeam +PersonaAirD_scan
-UltimateBitFunnelC |UltimateBitFunnelD +UltimateBitFunnel_scan
+UltimateBitFunnelC |UltimateBitFunnelD  |BitFunnel_MarkingC |BitFunnel_MarkingD a +UltimateBitFunnel_scan
 NmlAtk2D |Atk2DBeam |rpef_205_beam +Persona2D_scan
 rp406_atka_Marking |rp406_atkb_Marking +rp406_atk_col_scanned
 

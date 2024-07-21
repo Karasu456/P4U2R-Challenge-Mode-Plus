@@ -9,7 +9,7 @@ TrapD a
 BanditRevolverA
 DanganD
 KamaeA a
-DanganLastAB |DanganLastB +DanganLastB nOnly
+DanganLastAB |DanganLastB +DanganLastSB
 DanganKakushiAB
 
 -KEY-
