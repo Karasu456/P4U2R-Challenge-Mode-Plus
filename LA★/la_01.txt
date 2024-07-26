@@ -1,6 +1,6 @@
 -MISSION-	1
 SP	50
-LabryssAxInitial	0
+LabryssAxInitial	3
 
 -LIST-
 NmlAtk5A	c

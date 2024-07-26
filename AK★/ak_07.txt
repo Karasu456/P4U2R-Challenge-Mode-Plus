@@ -8,17 +8,6 @@ RushA
 DashUpperA
 BodyBlowA
 Ashibarai c
--KEY-
-5 - 120-MISSION-	7
--LIST-
-NmlAtk5A c
-NmlAtk5A2nd	c
-NmlAtk2B c
-NmlAtk5B c
-RushA
-DashUpperA
-BodyBlowA
-Ashibarai c
 
 -KEY-
 5	-	18

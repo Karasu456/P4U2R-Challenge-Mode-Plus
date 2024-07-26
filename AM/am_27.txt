@@ -1,0 +1,133 @@
+-MISSION-	27
+SP	100
+Burst	100
+
+-LIST-
+NmlAtk2A c
+NmlAtk2B c
+CmnActHeatUp +HeatUp a c
+NmlAtk5B c
+KoromaruAssaultCD
+NyoisoAB
+NmlAtk2B c
+NmlAtkAir5A c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+NyoisoB
+PersonaRaigekisouB
+NyoisoA
+am431_FireatkCD |FireBlessCD
+ReversalAction
+UltimateXAttackAB
+
+-KEY-
+5	-	12
+6	-	6
+5	-	4
+6	-	2
+3	-	4
+2	A	6
+2	-	3
+2	B	11
+2	-	5
+5	-	22
+5	ACD	7
+5	-	52
+5	B	8
+2	B	1
+2	-	2
+3	-	3
+6	-	1
+6	CD	4
+5	CD	6
+5	-	9
+2	-	16
+3	-	3
+6	A	2
+6	AB	2
+5	AB	5
+5	B	2
+5	-	51
+2	-	4
+2	B	12
+2	-	1
+5	-	19
+6	-	2
+9	-	4
+8	-	1
+5	-	1
+5	A	6
+5	-	8
+5	B	5
+2	B	2
+2	-	2
+3	-	2
+6	-	2
+6	D	2
+5	D	2
+2	D	1
+2	BD	2
+2	B	3
+6	B	1
+6	-	5
+2	B	6
+3	B	1
+3	-	1
+6	-	4
+6	B	1
+5	B	7
+5	-	19
+2	-	3
+3	-	2
+6	-	2
+6	B	3
+5	B	5
+5	-	10
+5	B	6
+5	-	7
+5	B	5
+5	-	38
+2	-	3
+3	-	2
+6	-	2
+6	A	2
+5	A	3
+5	-	11
+2	-	11
+5	-	13
+2	-	4
+3	-	2
+6	-	4
+5	-	2
+2	-	4
+3	-	1
+6	C	1
+6	CD	2
+5	D	2
+5	-	66
+5	BD	4
+5	-	7
+5	BD	3
+5	-	7
+5	BD	5
+5	-	6
+5	BD	6
+5	-	45
+2	-	3
+1	-	2
+4	-	4
+5	-	2
+2	-	5
+1	-	2
+4	A	1
+4	AB	1
+5	AB	1
+2	AB	2
+2	A	1
+2	-	2
+1	-	1
+1	AB	1
+4	AB	2
+5	AB	2
+5	-	16

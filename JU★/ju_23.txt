@@ -109,3 +109,10 @@ UltimateSwingShotCD d5200 +ReversalActionClean
 5	-	104
 5	A	6
 5	-	124
+
+-EKEY-
+5        -        10
+2        -        26
+1        -        2
+4        -        2
+5        A        5

@@ -5,7 +5,7 @@ HashiEx
 Counter
 
 -LIST-
-DamageOver10000        c        d9000        nOnly
+DamageOver10000        c        d10000        nOnly
 
 -KEY-
 5	-	10
@@ -89,8 +89,6 @@ DamageOver10000        c        d9000        nOnly
 6	-	2
 2	-	2
 2	B	27
-
-
 5	-	38
 2	B	10
 5	-	8

@@ -1,0 +1,91 @@
+-MISSION-	10
+HashiEx
+-LIST-
+NmlAtk2B c
+NyoisoA
+KoromaruAssaultD
+Ashibarai c
+NyoisoB
+KoromaruAssaultC
+NmlAtk2B c
+NmlAtkAir5A c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+NyoisoB
+PersonaRaigekisouB
+
+-KEY-
+5	-	9
+6	-	5
+5	-	3
+6	-	3
+3	-	3
+2	-	2
+2	B	9
+2	-	2
+5	-	15
+2	-	3
+3	-	1
+6	-	1
+6	A	4
+5	A	2
+5	-	8
+2	-	3
+3	-	1
+6	-	3
+6	D	1
+5	D	3
+5	-	43
+6	-	5
+5	-	5
+6	-	11
+3	-	2
+2	AB	4
+2	B	3
+2	-	3
+3	-	4
+6	-	3
+6	B	2
+5	B	6
+5	-	47
+2	-	4
+3	-	2
+6	-	3
+6	C	1
+5	C	5
+5	-	25
+6	-	5
+5	-	4
+6	-	9
+3	-	2
+2	B	5
+5	B	4
+5	-	12
+6	-	2
+9	-	5
+5	-	3
+5	A	5
+5	-	8
+5	B	9
+5	-	3
+2	-	4
+3	-	3
+6	-	2
+6	D	3
+2	D	2
+2	BD	1
+3	BD	2
+3	B	1
+6	B	5
+5	-	39
+2	-	2
+3	-	3
+6	-	3
+6	B	1
+5	B	7
+5	-	11
+5	B	7
+5	-	15
+5	B	8
+5	-	107

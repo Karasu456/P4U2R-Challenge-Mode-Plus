@@ -12,7 +12,8 @@ PersonaAir5C c
 dmy_machinegun_9B +dmy_machinegun_9B_air
 dmy_machinegun_9B +hover_dmy_machinegun_9B_air
 dmy_machinegun_9B +hover_dmy_machinegun_9B_air
-dmy_machinegun_9B +hover_dmy_machinegun_9B_airdmy_machinegun_9B +hover_dmy_machinegun_9B_air
+dmy_machinegun_9B +hover_dmy_machinegun_9B_air
+dmy_machinegun_9B +hover_dmy_machinegun_9B_air
 dmy_machinegun_9B +boost_dmy_machinegun_9B_air
 dmy_machinegun_9B +hover_dmy_machinegun_9B_air
 dmy_machinegun_9B +hover_dmy_machinegun_9B_air

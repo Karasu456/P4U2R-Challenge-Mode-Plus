@@ -3,6 +3,7 @@ NoMiss
 Junhudo
 Kakusei
 SP 150
+LabryssAxInitial	3
 
 -LIST-
 UltimateTackleC

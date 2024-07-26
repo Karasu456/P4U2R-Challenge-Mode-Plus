@@ -2,6 +2,7 @@
 NoMiss
 Junhudo
 SP 100
+LabryssAxInitial	3
 
 -LIST-
 RocketPunchA
