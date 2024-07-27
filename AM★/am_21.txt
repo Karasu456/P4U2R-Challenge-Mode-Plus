@@ -7,6 +7,7 @@ Counter
 -LIST-
 NyoisoB
 NmlAtk5B c
+Ashibarai c
 NyoisoA
 KoromaruAssaultC
 NmlAtk2B c
@@ -28,7 +29,7 @@ UltimateXAttackAB
 5	-	61
 6	-	4
 5	-	4
-6	-	5
+6	-	8
 6	B	8
 5	-	5
 2	-	4
@@ -57,17 +58,17 @@ UltimateXAttackAB
 5	A	6
 5	-	7
 5	B	4
-5	-	4
 2	-	3
 3	-	2
 6	-	1
 6	B	3
 6	D	2
-2	D	8
-2	BD	3
+6	D	8
+2	-	4
+2	B	3
 2	B	3
 5	B	3
-5	-	27
+5	-	30
 2	-	3
 3	-	2
 6	-	5

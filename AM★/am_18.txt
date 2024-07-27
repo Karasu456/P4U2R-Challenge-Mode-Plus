@@ -1,0 +1,138 @@
+-MISSION-	18
+Counter
+Kakusei
+SP 150
+
+-LIST-
+NmlAtk2B c
+Ashibarai c
+NyoisoA
+KoromaruAssaultD
+Ashibarai c
+NyoisoB
+KoromaruAssaultD
+CmnFAirDash i c
+NmlAtkAir5A c
+NmlAtkAir5B c
+NmlAtkAir5A c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+ReversalAction
+am431_FireatkCD |FireBlessCD
+ReversalAction
+UltimateXAttackAB
+
+-KEY-
+5	-	7
+6	-	4
+5	-	3
+6	-	4
+3	-	3
+2	B	9
+2	-	20
+2	AB	5
+2	B	3
+2	-	11
+3	-	2
+6	-	2
+6	A	2
+5	A	4
+5	-	38
+2	-	2
+3	-	2
+6	-	1
+6	D	4
+5	D	2
+5	-	23
+6	-	4
+5	-	5
+6	-	35
+3	-	1
+2	A	1
+2	AB	5
+2	B	3
+2	-	2
+3	-	2
+6	-	3
+6	B	2
+5	B	7
+5	-	43
+2	-	5
+3	-	2
+6	-	2
+6	D	2
+5	D	1
+5	-	30
+6	-	4
+5	-	5
+6	-	21
+9	-	3
+6	-	1
+5	-	6
+6	-	11
+6	A	7
+6	-	2
+5	-	1
+5	B	11
+5	-	19
+6	-	3
+9	-	4
+8	-	1
+5	-	2
+5	A	6
+5	-	6
+5	B	6
+5	-	5
+2	-	4
+3	-	2
+6	-	1
+6	D	3
+5	D	3
+2	BD	3
+3	B	2
+6	B	3
+6	-	1
+5	-	3
+5	B	5
+5	-	17
+6	-	4
+5	-	5
+6	-	14
+6	BD	7
+6	-	1
+5	-	55
+2	-	4
+3	-	1
+6	-	4
+5	-	3
+2	-	3
+3	-	2
+6	CD	3
+5	CD	1
+5	D	3
+5	-	67
+5	BD	3
+5	-	6
+5	BD	4
+5	-	5
+5	BD	4
+5	-	5
+5	BD	4
+5	-	4
+5	BD	6
+5	-	40
+2	-	3
+1	-	2
+4	-	3
+5	-	3
+2	-	4
+1	-	2
+4	-	2
+5	-	1
+5	AB	1
+2	AB	3
+1	B	1
+1	-	2
+4	-	2
+5	-	163

@@ -1,0 +1,113 @@
+-MISSION-	19
+SP	150
+Kakusei
+HashiEx
+
+-LIST-
+Ashibarai c
+NyoisoA
+PersonaRaigekisouB
+NmlAtk2B c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+Ashibarai c
+NyoisoB
+PersonaRaigekisouA
+KoromaruAssaultC
+ReversalAction
+am431_FireatkCD |FireBlessCD
+ReversalAction
+UltimateXAttackAB
+
+-KEY-
+5	-	12
+6	-	4
+5	-	6
+6	-	3
+3	-	3
+2	AB	9
+2	-	3
+3	-	2
+6	-	2
+6	A	8
+5	-	44
+5	B	11
+5	-	42
+2	-	1
+2	B	11
+5	-	18
+6	-	2
+9	-	7
+5	-	2
+5	B	12
+5	-	1
+2	-	3
+3	D	2
+6	D	5
+5	D	2
+2	BD	1
+2	B	3
+3	B	2
+6	B	4
+6	-	1
+5	-	24
+6	-	4
+5	-	5
+6	-	2
+3	-	3
+2	AB	8
+5	-	2
+2	-	7
+3	-	3
+6	-	1
+6	B	10
+5	-	44
+5	A	6
+5	-	11
+2	-	2
+3	-	2
+6	-	1
+6	C	3
+5	C	3
+5	-	26
+6	-	4
+5	-	5
+6	-	13
+6	BD	8
+6	-	24
+5	-	27
+2	-	3
+3	-	2
+6	-	5
+5	-	1
+2	-	5
+3	-	2
+6	-	3
+6	C	1
+6	CD	1
+5	CD	1
+2	D	2
+5	D	2
+5	-	77
+5	BD	3
+5	-	7
+5	BD	3
+5	-	6
+5	BD	4
+5	-	6
+5	BD	4
+5	-	37
+2	-	3
+1	-	2
+4	-	3
+5	-	2
+2	-	5
+1	-	2
+4	-	3
+4	AB	2
+2	AB	2
+2	B	2
+1	-	2
+4	-	2
+5	-	28

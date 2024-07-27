@@ -511,6 +511,7 @@ ElectricBall_HontaiC
 
 
 
+
 ----Char---- AD
 -MISSION-	1
 SP	50
@@ -2496,6 +2497,7 @@ NmlAtk5A	c
 -KEY-
 6	-	10
 5	-A	3
+
 
 
 
@@ -5435,6 +5437,7 @@ HitCountOver150	h150	nOnly
 
 
 
+
 ----Char---- AK
 -MISSION-	1
 SP	50
@@ -8202,6 +8205,7 @@ UltimateUpperAB nOnly
 
 
 
+
 ----Char---- CE
 -MISSION- 1
 SP	50
@@ -10868,6 +10872,7 @@ DamageOver6000        c        d6500        nOnly
 
 
 
+
 ----Char---- EL
 -MISSION-	1
 SP	100
@@ -12971,6 +12976,7 @@ MoujyaHit_C |MoujyaHit_D |MoujyaHit_CD +MoujyaHit_final nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -15880,6 +15886,7 @@ DamageOver5000        c        d5000        nOnly
 
 
 
+
 ----Char---- KA
 -MISSION-	1
 SP	50
@@ -17899,6 +17906,7 @@ DamageOver8000        c        d8000        nOnly
 
 
 
+
 ----Char---- AM
 -MISSION-	1
 SP	50
@@ -19274,313 +19282,629 @@ UltimateSenpukonA
 5	A	2
 5	-	141
 -MISSION-	18
-SP 50
+Counter
+Kakusei
+SP 150
+
 -LIST-
-NmlAtk5A	c
-NmlAtk5A2nd	c
-NmlAtk5B	c
-Koromaru5C
-Ashibarai	c
+NmlAtk2B c
+Ashibarai c
 NyoisoA
-PersonaRaigekisouA
-am431_FireatkC	|FireBlessC
+KoromaruAssaultD
+Ashibarai c
+NyoisoB
+KoromaruAssaultD
+CmnFAirDash i c
+NmlAtkAir5A c
+NmlAtkAir5B c
+NmlAtkAir5A c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+ReversalAction
+am431_FireatkCD |FireBlessCD
+ReversalAction
+UltimateXAttackAB
+
 -KEY-
-5	-	15
-6	-	20
-5	-	5
-5	-A	1
-5	-	9
-5	-A	4
-5	-	16
-5	-B	4
-5	-BC	2
-5	-C	3
-5	-	12
-2	-	7
-2	-AB	4
-2	-B	1
-2	-	5
-5	-	9
-2	-	4
-3	-	4
-6	-	1
-6	-A	3
-5	-A	1
-5	-	44
-5	-A	3
-2	-A	3
-2	-	3
-3	-	4
-6	-	3
+5	-	7
+6	-	4
 5	-	3
-2	-	5
+6	-	4
 3	-	3
-6	-	3
-6	-C	2
-5	-C	1
-
-
-
--MISSION-	19
-SP	75
--LIST-
-NmlAtk5B	c
-Koromaru5C
-Ashibarai	c
-NyoisoAB
-NmlAtk2B	c
-Koromaru2C
-NmlAtkAir5B	c
-CmnActJumpExUpper	a	c	nOnly
-NmlAtkAir5B	c
-NmlAtkAir2B	c
-am431_FireatkC	|FireBlessC
--KEY-
-5	-	15
-5	-B	1
-5	-BC	4
-5	-	9
-2	-	3
-2	-AB	5
-2	-A	1
-2	-	5
-5	-	7
-2	-	6
-3	-	4
-6	-	1
-6	-AB	2
-5	-AB	1
-5	-A	1
-5	-	55
-2	-	10
-2	-B	5
+2	B	9
+2	-	20
+2	AB	5
+2	B	3
 2	-	11
-2	-C	3
-2	-	16
-9	-	9
-9	-B	5
-5	-B	2
-5	-	10
-9	-	9
-9	-B	4
-9	-	2
-5	-	7
-2	-	4
-2	-B	5
-2	-	6
-3	-	3
-6	-	3
-5	-	4
+3	-	2
+6	-	2
+6	A	2
+5	A	4
+5	-	38
 2	-	2
-3	-	4
-6	-C	2
-5	-C	1
+3	-	2
+6	-	1
+6	D	4
+5	D	2
+5	-	23
+6	-	4
+5	-	5
+6	-	35
+3	-	1
+2	A	1
+2	AB	5
+2	B	3
+2	-	2
+3	-	2
+6	-	3
+6	B	2
+5	B	7
+5	-	43
+2	-	5
+3	-	2
+6	-	2
+6	D	2
+5	D	1
+5	-	30
+6	-	4
+5	-	5
+6	-	21
+9	-	3
+6	-	1
+5	-	6
+6	-	11
+6	A	7
+6	-	2
+5	-	1
+5	B	11
+5	-	19
+6	-	3
+9	-	4
+8	-	1
+5	-	2
+5	A	6
+5	-	6
+5	B	6
+5	-	5
+2	-	4
+3	-	2
+6	-	1
+6	D	3
+5	D	3
+2	BD	3
+3	B	2
+6	B	3
+6	-	1
+5	-	3
+5	B	5
+5	-	17
+6	-	4
+5	-	5
+6	-	14
+6	BD	7
+6	-	1
+5	-	55
+2	-	4
+3	-	1
+6	-	4
+5	-	3
+2	-	3
+3	-	2
+6	CD	3
+5	CD	1
+5	D	3
+5	-	67
+5	BD	3
+5	-	6
+5	BD	4
+5	-	5
+5	BD	4
+5	-	5
+5	BD	4
+5	-	4
+5	BD	6
+5	-	40
+2	-	3
+1	-	2
+4	-	3
+5	-	3
+2	-	4
+1	-	2
+4	-	2
+5	-	1
+5	AB	1
+2	AB	3
+1	B	1
+1	-	2
+4	-	2
+5	-	163
+-MISSION-	19
+SP	150
+Kakusei
+HashiEx
 
--MISSION-	20
-SP	50
 -LIST-
-NmlAtk5B	c
-Koromaru5C
-Ashibarai	c
+Ashibarai c
 NyoisoA
 PersonaRaigekisouB
-KoromaruAssaultD
-NmlAtk2B	c
-CmnActJumpExUpper	a	c	nOnly
-NmlAtkAir5A	c
-NmlAtkAir5B	c
-CmnActJumpExUpper	a	c	nOnly
-NmlAtkAir5B	c
-NmlAtkAir2B	c
-am431_FireatkC	|FireBlessC
+NmlAtk2B c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+Ashibarai c
+NyoisoB
+PersonaRaigekisouA
+KoromaruAssaultC
+ReversalAction
+am431_FireatkCD |FireBlessCD
+ReversalAction
+UltimateXAttackAB
+
 -KEY-
-5	-	15
-5	-BC	4
-5	-C	1
-5	-	4
-2	-	5
-2	-AB	6
-2	-A	1
-5	-	10
-2	-	5
-3	-	5
-6	-	1
-6	-A	2
-5	-A	3
-5	-	44
-5	-B	4
-5	-	2
-2	-	4
-3	-	3
-6	-	1
-6	-D	2
-6	-	1
-5	-	32
-6	-	5
-5	-	6
-6	-	23
-3	-	2
-3	-B	2
-2	-B	3
-2	-	3
 5	-	12
+6	-	4
+5	-	6
 6	-	3
-9	-	14
-9	-A	3
-5	-A	3
-5	-	19
-5	-B	5
-5	-	17
-6	-	2
-9	-	6
-9	-B	5
-9	-	3
-6	-	2
-5	-	7
-2	-	2
-2	-B	4
-2	-	8
 3	-	3
+2	AB	9
+2	-	3
+3	-	2
+6	-	2
+6	A	8
+5	-	44
+5	B	11
+5	-	42
+2	-	1
+2	B	11
+5	-	18
+6	-	2
+9	-	7
+5	-	2
+5	B	12
+5	-	1
+2	-	3
+3	D	2
+6	D	5
+5	D	2
+2	BD	1
+2	B	3
+3	B	2
+6	B	4
+6	-	1
+5	-	24
+6	-	4
+5	-	5
+6	-	2
+3	-	3
+2	AB	8
+5	-	2
+2	-	7
+3	-	3
+6	-	1
+6	B	10
+5	-	44
+5	A	6
+5	-	11
+2	-	2
+3	-	2
+6	-	1
+6	C	3
+5	C	3
+5	-	26
+6	-	4
+5	-	5
+6	-	13
+6	BD	8
+6	-	24
+5	-	27
+2	-	3
+3	-	2
+6	-	5
+5	-	1
+2	-	5
+3	-	2
+6	-	3
+6	C	1
+6	CD	1
+5	CD	1
+2	D	2
+5	D	2
+5	-	77
+5	BD	3
+5	-	7
+5	BD	3
+5	-	6
+5	BD	4
+5	-	6
+5	BD	4
+5	-	37
+2	-	3
+1	-	2
+4	-	3
+5	-	2
+2	-	5
+1	-	2
+4	-	3
+4	AB	2
+2	AB	2
+2	B	2
+1	-	2
+4	-	2
+5	-	28
+-MISSION-	20
+SP	150
+Counter
+Kakusei
+HashiEx
+
+-LIST-
+NmlAtk2A c
+Ashibarai c
+UltimateSenpukonB
+CmnCancelBurst i c
+NmlAtk5C i +Koromaru5C_miss
+ReversalAction
+am431_FireatkD |FireBlessD +am431_FireatkD_air
+NmlAtkAir5B c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+Ashibarai c
+NyoisoB
+PersonaRaigekisouA
+KoromaruAssaultC
+NyoisoA
+PersonaRaigekisouB
+Koromaru2C
+UltimateXAttackB
+
+-KEY-
+5	-	8
 6	-	4
 5	-	4
-2	-	1
-3	-	5
-6	-C	3
-
--MISSION-	21
-SP	25
--LIST-
-NmlAtk2B	c
-NmlAtk5B	c
-Koromaru5C
-Ashibarai c
-NyoisoAB
-NmlAtk2B	c
-NmlAtkAir5A	c
-NmlAtkAir5B	c
-NmlAtkAir2B	c
-Koromaru2C
-NmlAtkAir5B	c
-CmnActJumpExUpper	a	c	nOnly
-NmlAtkAir5B	c
-NmlAtkAir2B	c
--KEY-
-5	-	15
-6	-	6
+6	-	8
+3	-	2
+3	A	5
+2	-	6
+2	AB	7
+2	-	5
 3	-	1
-3	-B	1
-2	-B	2
-2	-	15
-5	-	13
-5	-BC	3
-5	-C	3
-5	-	10
-2	-	6
-2	-B	1
-2	-AB	1
-2	-B	2
-2	-	4
-5	-	10
-2	-	4
-3	-	5
-6	-	3
-6	-AB	1
-5	-AB	1
-5	-	57
-2	-	6
-2	-B	2
+6	-	7
+2	-	7
+3	-	2
+6	B	2
+6	-	1
+5	-	134
+5	ACD	3
+5	-	15
+5	ACD	4
+5	-	5
+5	ACD	5
+5	-	21
+6	-	4
+5	-	5
+6	C	6
+5	-	7
+5	BD	5
+6	-	5
+6	BD	6
+6	-	4
+6	BD	6
+6	-	17
+5	-	20
 2	-	2
-2	-B	4
-2	-	6
-5	-	19
-6	-	2
-9	-	7
-9	-A	3
-9	-	3
+3	-	2
+6	-	5
+5	-	1
+2	-	4
+3	-	3
+6	-	1
+6	D	10
+5	-	100
+5	B	5
+5	-	7
+5	B	3
 5	-	6
-5	-B	6
+5	B	3
+5	-	5
+5	B	5
+5	-	5
+9	-	4
+6	-	1
+6	B	9
+5	-	6
+2	-	2
+2	B	2
+3	B	2
+6	B	2
+6	-	1
+3	D	1
+2	D	5
+5	D	1
+6	D	1
+6	BD	3
+3	BD	1
+3	B	1
+2	B	3
+2	-	2
+2	B	8
 5	-	8
-2	-	9
-2	-B	16
-2	-C	1
+
+5	-	17
+3	-	2
+2	-	1
+2	AB	5
+2	B	4
 2	-	5
-5	-	27
-9	-	7
-9	-B	5
-9	-	1
-5	-	12
-8	-	1
-9	-	6
-9	-B	1
-8	-B	2
-5	-B	1
-5	-	12
-2	-	5
-2	-B	4
+3	-	1
+6	-	4
+5	-	1
+5	B	8
+5	-	46
+5	A	5
+5	-	6
+2	-	2
+3	-	2
+6	-	3
+6	C	1
+5	C	7
+5	-	34
+2	-	4
+3	-	1
+6	-	2
+6	A	2
+5	A	2
+5	-	23
+5	B	7
+5	-	16
 2	-	3
+2	C	4
+2	-	3
+1	-	3
+4	-	2
+5	-	3
+2	-	3
+1	-	3
+4	B	1
+5	B	2
+5	-	19
+-MISSION-	21
+SP 75
+Kakusei
+Tooi
+Counter
+
+-LIST-
+NyoisoB
+NmlAtk5B c
+Ashibarai c
+NyoisoA
+KoromaruAssaultC
+NmlAtk2B c
+NmlAtkAir5A c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+NyoisoB
+PersonaRaigekisouB
+UltimateXAttackAB
+
+-KEY-
+5	-	7
+2	-	2
+3	-	3
+6	-	2
+6	B	1
+5	B	5
+5	-	61
+6	-	4
+5	-	4
+6	-	8
+6	B	8
+5	-	5
+2	-	4
+2	AB	8
+2	-	11
+3	-	1
+6	-	3
+6	A	2
+5	A	6
+5	-	45
+2	-	3
+3	-	2
+6	C	4
+5	C	1
+5	-	21
+6	-	4
+5	-	5
+6	-	26
+3	-	2
+2	B	8
+5	B	3
+5	-	15
+6	-	3
+9	-	6
+5	-	3
+5	A	6
+5	-	7
+5	B	4
+2	-	3
+3	-	2
+6	-	1
+6	B	3
+6	D	2
+6	D	8
+2	-	4
+2	B	3
+2	B	3
+5	B	3
+5	-	30
+2	-	3
+3	-	2
+6	-	5
+5	-	1
+5	B	11
+5	-	12
+5	B	3
+5	-	7
+5	B	3
+5	-	5
+5	B	7
+5	-	3
+5	B	1
+2	B	2
+1	B	2
+1	-	1
+4	-	2
+5	-	2
+2	-	5
+1	-	2
+4	-	2
+5	-	2
+2	-	1
+2	AB	2
+1	AB	1
+1	-	2
+4	-	1
+5	-	7
+5	AB	5
+5	-	307
 
 -MISSION-	22
-SP	50
+SP 150
+Kakusei
+Hashi
+Counter
+
 -LIST-
-NmlAtk2B	c
-Koromaru2C
-NmlAtkAir5B	c
-CmnActJumpExUpper	a	c	nOnly
-NmlAtkAir5A	c
-NmlAtkAir5B	c
-NmlAtkAir2B	c
-KoromaruAssaultD
+NyoisoB
+Ashibarai c
+NyoisoA
+KoromaruAssaultC
+NmlAtk2B c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
 ReversalAction
-UltimateSenpukonB
+am431_FireatkD |FireBlessD
+ReversalAction
+am431_FireatkD |FireBlessD
+ReversalAction
+UltimateXAttackB
+
 -KEY-
-5	-	15
-6	-	8
-3	-	3
-2	-	1
-2	-B	4
-2	-	14
-2	-C	3
-2	-	3
-5	-	4
-6	-	2
-9	-	18
-5	-	13
-5	-B	10
-5	-	6
-6	-	3
-9	-	8
-9	-A	3
-5	-A	1
-5	-	6
-5	-B	5
-5	-	4
-2	-	3
-3	-	4
-6	-	1
-6	-D	3
-5	-D	2
-5	-	4
-2	-	3
-2	-B	11
-2	-	10
 5	-	9
-6	-	6
-5	-	5
-6	-	11
-6	-BD	1
-6	-D	1
-6	-BD	1
-6	-	1
+2	-	5
+3	-	2
+6	-	2
+6	B	3
+5	B	8
 5	-	61
 2	-	4
+2	AB	5
+2	B	4
+2	-	12
+3	-	3
+6	A	4
+5	A	6
+5	-	35
+2	-	3
+3	-	2
+6	C	4
+5	C	1
+5	-	18
+6	-	4
+5	-	4
+6	-	28
+3	-	1
+2	-	3
+2	B	11
+5	B	1
+5	-	16
+6	-	2
+9	-	6
+5	-	5
+5	A	6
+5	-	6
+5	B	5
+2	B	2
+2	-	2
+3	-	2
+6	-	6
+3	D	1
+2	D	5
+3	BD	2
+6	BD	5
+2	BD	4
+2	B	7
+2	-	2
+5	-	15
+6	-	4
+5	-	5
+6	-	22
+5	-	1
+2	-	2
+5	-	2
+5	BD	10
+5	-	5
+6	-	19
+5	-	29
+2	-	2
+3	-	2
+6	-	5
+5	-	2
+2	-	3
+3	-	3
+6	-	1
+6	D	3
+5	D	5
+5	-	95
+5	BD	4
+5	-	5
+5	BD	4
+5	-	5
+5	BD	5
+5	-	3
+5	BD	7
+5	-	3
+5	BD	7
+5	-	57
+2	-	4
+3	-	1
+6	-	5
+5	-	1
+2	-	4
 3	-	3
 6	-	2
-5	-	2
+6	D	2
+5	D	1
+2	D	3
+5	D	4
+5	-	80
+5	BD	3
+5	-	7
+5	BD	4
+5	-	5
+5	BD	4
+5	-	5
+5	BD	4
+5	-	5
+5	BD	6
+5	-	3
+5	BD	6
+5	-	4
+5	BD	7
+5	-	51
 2	-	4
-3	-	2
-3	-B	1
-6	-	2
-6	-B	2
+1	-	2
+4	-	3
+5	-	2
+2	-	5
+1	-	3
+4	B	3
+5	B	2
+5	-	340
 
 -MISSION-	23
 Kakusei
@@ -19870,94 +20194,129 @@ UltimateXAttackA
 -MISSION-	25
 Kakusei
 SP	150
+Counter
 HashiEx
 -LIST-
-DamageOver6000	c	d6000	nOnly
+HitCountOver80	h80	nOnly
+
 -KEY-
-5	-	40
-6	-	3
-5	-	3
-6	-	2
-3	-	5
-3	-AB	3
-2	-AB	1
-2	-	1
-5	-	6
-2	-	4
-3	-	4
-6	-	2
-6	-A	1
-5	-A	3
-5	-	45
-5	-B	3
-2	-	5
-1	-	2
-4	-	1
-4	-D	3
-4	-	2
-5	-	31
-2	-	3
-2	-B	2
-2	-	1
-2	-B	4
-2	-	37
-3	-	2
-3	-B	2
-6	-	1
-6	-B	2
-5	-B	2
-5	-	64
-2	-	3
-2	-B	2
-2	-	2
-2	-B	4
-2	-	5
-5	-	15
+5	-	9
 6	-	5
-9	-	9
-8	-B	2
-5	-B	1
-5	-	5
+5	-	6
+6	-	8
 2	-	4
+3	-	2
+6	-	3
+6	B	6
+5	-	27
+5	B	4
+5	-	9
+2	B	3
 1	-	2
 4	-	4
-4	-C	1
-5	-C	4
+5	D	8
+5	-	39
+6	-	4
 5	-	6
-2	-	3
-2	-B	8
-2	-	12
-5	-	17
-6	-	15
-5	-	9
-5	-BD	4
-5	-	62
+6	-	19
+3	B	2
+2	B	5
+2	-	11
+2	BD	4
+5	BD	2
+5	-	57
 2	-	4
-3	-	3
-6	-	3
-5	-	4
-2	-	4
-3	-	5
-6	-	1
-6	-CD	4
-6	-C	1
-6	-	1
-5	-	101
-5	-BD	3
-5	-B	2
-5	-	71
-6	-	1
+3	-	1
+6	-	6
+5	-	1
+2	-	5
 3	-	2
+6	-	3
+3	-	1
+2	B	2
 2	-	3
-1	-	2
-4	-	2
-5	-	3
-6	-	1
-3	-	3
+3	-	1
+6	-	2
+6	B	1
+3	B	2
+2	B	2
+2	-	1
+2	B	3
+5	B	4
+5	-	120
+5	ACD	4
+5	-	6
+5	ACD	2
+5	-	6
+5	ACD	3
+5	-	5
+5	ACD	5
+5	-	30
+6	-	4
+5	-	4
+6	-	6
+3	-	2
+2	-	5
+2	AB	9
+2	-	4
+3	-	1
+6	-	2
+6	A	6
+5	-	6
+5	A	6
+5	-	32
+5	A	5
+5	-	2
+2	-	3
+3	-	2
+6	-	3
+6	D	5
+5	-	32
+6	-	4
+5	-	5
+6	-	26
+3	-	2
 2	-	2
-1	-AB	2
-4	-AB	1
-4	-	5
+2	B	8
+5	-	10
+6	-	3
+9	-	4
+8	-	1
+5	-	3
+5	A	5
+5	-	10
+5	B	4
+2	-	4
+3	-	1
+6	-	6
+2	-	3
+2	D	3
+3	D	1
+6	D	3
+6	-	1
+5	-	2
+2	B	4
+2	-	1
+3	-	1
+6	-	3
+6	-	2
+5	-	4
+5	-	13
+2	-	7
+3	-	4
+6	AB	6
+5	-	11
+5	A	4
+5	-	6
+5	A	8
+5	-	20
+2	-	3
+3	-	2
+6	-	4
+5	-	2
+2	-	4
+3	-	3
+6	AB	2
 -MISSION-	26
 -LIST-
 NmlAtk5A c
@@ -20162,179 +20521,294 @@ UltimateXAttackAB
 5	AB	2
 5	-	16
 -MISSION-	28
-SP	100
+Counter
+SP 100
 Burst	100
 -LIST-
-NmlAtk5B	c
-Koromaru5C
-Ashibarai	c
-CmnActHeatUp	+HeatUp	a	c
-Ashibarai	c
+NmlAtk2B c
+Ashibarai c
 NyoisoA
-PersonaRaigekisouAB
+KoromaruAssaultC
+Ashibarai c
 NyoisoB
-PersonaRaigekisouAB
-NyoisoAB
-KoromaruAssaultCD
+KoromaruAssaultD
+NmlAtk2B c
+NmlAtkAir5A c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+NyoisoB
+CmnActHeatUp +HeatUp a c
+am431_FireatkCD |FireBlessCD
 ReversalAction
-UltimateSenpukonAB
--KEY-
-5	-	15
-5	-BC	4
-5	-C	2
-5	-	7
-2	-	5
-2	-AB	6
-2	-	3
-5	-	25
-5	-ACD	3
-5	-CD	1
-5	-C	1
-5	-	47
-2	-	9
-2	-AB	5
-2	-	8
-3	-	4
-6	-	3
-6	-A	1
-5	-A	4
-5	-	47
-5	-AB	5
-5	-A	1
-5	-	11
-2	-	4
-3	-	4
-6	-	1
-6	-B	1
-5	-B	2
-5	-	49
-5	-AB	4
-5	-A	1
-5	-	12
-2	-	5
-3	-	3
-6	-	1
-6	-AB	1
-5	-AB	3
-5	-	34
-2	-	4
-3	-	3
-3	-C	1
-6	-CD	2
-5	-CD	1
-5	-D	1
-5	-	15
-6	-	5
-5	-	4
-6	-	22
-6	-BD	3
-6	-D	1
-6	-	12
-5	-	46
-2	-	5
-3	-	3
-6	-	3
-5	-	4
-2	-	4
-3	-	4
-6	-	1
-6	-AB	4
+am431_FireatkCD |FireBlessCD
+UltimateXAttackAB
 
+-KEY-
+5	-	6
+6	-	4
+5	-	4
+6	-	2
+3	-	3
+2	B	5
+2	-	24
+2	A	1
+2	AB	4
+2	B	2
+2	-	12
+3	-	1
+6	-	3
+6	A	1
+5	A	5
+5	-	36
+2	-	4
+3	-	3
+6	C	4
+5	C	2
+5	-	24
+6	-	4
+5	-	4
+6	-	14
+3	-	1
+3	A	1
+2	AB	5
+2	B	2
+2	-	9
+3	-	1
+6	-	1
+6	B	4
+5	B	1
+5	-	50
+2	-	4
+3	-	2
+6	D	4
+5	D	1
+5	-	20
+6	-	4
+5	-	5
+6	-	34
+3	-	1
+3	B	1
+2	B	6
+5	-	13
+6	-	2
+9	-	3
+8	-	4
+8	A	1
+5	A	3
+5	-	11
+5	B	4
+5	-	8
+2	-	4
+3	-	1
+6	-	1
+6	D	3
+5	D	3
+2	-	5
+3	B	5
+
+2	-	13
+5	-	9
+2	-	3
+3	-	3
+6	-	4
+5	B	7
+5	-	48
+5	ACD	4
+5	-	44
+2	-	3
+3	-	2
+6	-	4
+5	-	1
+2	-	5
+3	-	1
+6	-	2
+6	CD	2
+6	D	1
+5	-	75
+5	BD	3
+5	-	7
+5	BD	3
+5	-	5
+5	BD	4
+5	-	5
+5	BD	5
+5	-	44
+2	-	4
+3	-	1
+6	-	6
+2	-	6
+3	-	1
+6	-	3
+3	-	2
+3	CD	1
+2	CD	2
+2	D	1
+2	-	1
+3	-	2
+6	-	3
+5	-	64
+2	-	2
+1	-	3
+4	-	3
+2	-	5
+1	-	2
+4	-	1
+4	AB	2
+5	-	1
+2	-	5
+2	AB	3
+4	-	2
+5	-	2
+2	AB	5
+1	-	2
+4	-	1
+5	-	253
 -MISSION-	29
 SP	100
 Burst	100
+Counter
+HashiEx
 -LIST-
-NmlAtk2B	c
-Koromaru5C
+NmlAtk2B c
+Ashibarai c
+KoromaruAssaultC
+ReversalAction
+am431_FireatkD |FireBlessD
+ReversalAction
+am431_FireatkD |FireBlessD
+_HighJump a c nOnly
+NmlAtkAir5A c
+NmlAtkAir5B +NmlAtkAir5B_AssaultD 
+NmlAtkAir2B c
+KoromaruAssaultD +KoromaruAssaultD_hit nOnly
+Ashibarai c
 NyoisoB
 PersonaRaigekisouB
-CmnActHeatUp	+HeatUp	a	c
-NyoisoAB
-KoromaruAssaultD
-NmlAtk2B	c
-NmlAtkAir5A	c
-NmlAtkAir5B	c
-NmlAtkAir2B	c
-Koromaru2C
-ReversalAction
-am431_FireatkCD	|FireBlessCD
-ReversalAction
+KoromaruAirAssaultC
+CmnActHeatUp +HeatUp a c
 UltimateXAttackAB
--KEY-
-5	-	4
-2	-	3
-2	-B	3
-2	-	4
-5	-	4
-5	-C	3
-5	-	10
-2	-	5
-3	-	3
-6	-	1
-6	-B	3
-5	-B	2
-5	-	48
-5	-B	5
-5	-	24
-5	-ACD	4
-5	-D	1
-5	-	41
-2	-	5
-3	-	4
-6	-	2
-6	-AB	2
-5	-AB	2
-5	-	29
-2	-	5
-3	-	3
-3	-D	1
-6	-D	2
-6	-	1
-5	-	17
-6	-	6
-5	-	4
-6	-	24
-3	-	1
-3	-B	4
-2	-	4
-5	-	17
-6	-	2
-9	-	11
-9	-A	4
-9	-	1
-5	-	5
-5	-B	7
-5	-	9
-2	-	9
-2	-B	5
-2	-C	3
-2	-	33
-6	-	3
-6	-BD	2
-6	-B	1
-6	-	11
-5	-	63
-2	-	4
-3	-	3
-6	-	2
-2	-	4
-3	-	4
-6	-CD	3
-6	-	2
-5	-	87
-5	-B	1
-5	-BD	3
-5	-	2
-5	-BD	4
-5	-D	1
-5	-	68
-2	-	3
-1	-	3
-4	-	3
-2	-	3
-1	-	3
-4	-AB	3
 
+-KEY-
+5	-	12
+6	-	6
+5	-	3
+6	-	4
+3	-	2
+3	B	1
+2	B	10
+2	-	18
+2	A	1
+2	AB	5
+2	B	2
+2	-	8
+3	-	1
+6	-	5
+5	C	4
+5	-	32
+6	-	3
+5	-	6
+6	-	14
+6	BD	7
+6	-	16
+5	-	43
+2	-	5
+6	-	5
+5	-	2
+2	-	5
+3	-	2
+6	-	5
+2	D	4
+2	-	3
+5	-	103
+5	BD	3
+5	-	7
+5	BD	3
+5	-	6
+5	BD	4
+5	-	5
+5	BD	4
+5	-	5
+5	BD	5
+5	-	57
+2	-	3
+3	-	1
+6	-	6
+2	-	3
+3	-	3
+6	D	4
+5	D	2
+5	-	118
+2	-	4
+3	-	1
+6	-	2
+9	-	2
+8	-	1
+5	-	4
+5	A	5
+5	-	9
+5	B	6
+5	-	4
+2	-	3
+3	-	1
+6	-	2
+6	B	2
+6	-	1
+5	-	2
+2	D	4
+3	D	1
+6	D	1
+6	-	4
+5	B	1
+2	B	4
+2	-	1
+3	-	3
+6	-	1
+6	B	5
+5	B	3
+5	-	17
+6	-	4
+5	-	3
+6	-	1
+3	-	1
+3	A	1
+3	AB	1
+2	AB	5
+2	B	2
+2	-	9
+3	-	2
+6	-	2
+6	B	2
+5	B	6
+5	-	35
+5	B	6
+5	-	5
+2	-	3
+1	-	2
+4	B	1
+4	BC	1
+5	BC	1
+5	C	5
+5	-	32
+5	ACD	3
+5	-	6
+5	ACD	5
+5	-	5
+5	ACD	3
+5	-	29
+2	-	3
+1	-	2
+4	-	3
+5	-	2
+2	-	6
+1	-	2
+4	-	1
+5	-	2
+2	-	3
+2	A	1
+1	AB	2
+4	AB	1
+5	-	32
 -MISSION-	30
 SP	100
 Burst	100
@@ -20393,6 +20867,7 @@ DiaA	|DiaB	|DiaAB	+FinalDia		nOnly
 2	-	3
 1	-	3
 4	-AB	3
+
 
 
 
@@ -23208,6 +23683,7 @@ RocketPunchA	|RocketPunchB	|RocketPunchAB	+FinalRokepan	nOnly
 
 
 
+
 ----Char---- NX
 -MISSION-	1
 SP	50
@@ -25455,6 +25931,7 @@ NmlAtk5A	c
 -KEY-
 6	-	10
 5	-A	3
+
 
 
 
@@ -27896,6 +28373,7 @@ NmlAtk5A	c
 
 
 
+
 ----Char---- NB
 -MISSION-	1
 SP	50
@@ -29882,6 +30360,7 @@ nbef_430ShougekihaCD nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -32522,6 +33001,7 @@ DamageOver8000        c        d8000        nOnly
 5	B	2
 4	B	2
 4	-	23
+
 
 
 
@@ -35332,6 +35812,7 @@ BanditRevolverA	|BanditRevolverB	|BanditRevolverAB	|AirBanditRevolverA	|AirBandi
 
 
 
+
 ----Char---- BC
 -MISSION-	1
 SP        50
@@ -37805,6 +38286,7 @@ DamageOver5000        c        d5000        nOnly
 4	CD	3
 5	D	3
 5	-	30
+
 
 
 
@@ -40718,6 +41200,7 @@ AssaultA	|AssaultB	|AssaultAB	+FinalAssault	nOnly
 
 
 
+
 ----Char---- LS
 -MISSION-	1
 SP	50
@@ -43046,6 +43529,7 @@ DamageOver9000	c	d9000	nOnly
 
 
 
+
 ----Char---- NO
 -MISSION-	1
 SP	50
@@ -45124,6 +45608,7 @@ DamageOver8500 d8500 c nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -47588,6 +48073,7 @@ ShadowKuma_s +ShadowKuma nOnly
 5	-	337
 5	A	4
 5	-	229
+
 
 
 
@@ -50541,6 +51027,7 @@ TatsumakiCD nOnly
 4	-	4
 5	D	2
 5	-	228
+
 
 
 
@@ -56065,66 +56552,6 @@ LandAgiA	|LandAgiB	|LandAgirao	|AirAgiA	|AirAgiB	|AirAgirao	+FinalAgi	nOnly
 2	-	3
 3	-	3
 6	-A	5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-----Char---- YU
 
 
 ----End----
