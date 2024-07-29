@@ -19,8 +19,8 @@ NmlAtk5B c
 Ashibarai c
 vr_lp206atk
 NmlAtkAir5B2nd +NmlAtkAir5BB
-NmlAtkAir5B2nd +NmlAtkAir5BB
 vr_lp254atk
+AxeAttackAirB
 UltimateTackleC
 CmnBAirDash i +CmnOneMoreCancel_IADB
 UltimateTackleD
@@ -137,6 +137,7 @@ UltimateTackleD
 2	-	4
 5	D	4
 5	-	329
+
 
 -EKEY-
 5        -        10

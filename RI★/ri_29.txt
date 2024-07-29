@@ -20,7 +20,7 @@ NmlAtkAir2B c
 OnpuShot_Atk
 AssaultA
 AssaultB
-UltimateBitFunnelD |BitFunnel_MarkingD +UltimateBitFunnelD_scan
+UltimateBitFunnelD |BitFunnel_MarkingD a +UltimateBitFunnelD_scan
 AssaultB
 UltimateHysterieBintaAB
 

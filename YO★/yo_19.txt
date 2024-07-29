@@ -14,7 +14,7 @@ MoonsaltSlashA
 MoonsaltSlashA
 MoonsaltMoveA +MoonsaltMoveHaseiA a n2miss
 MoonsaltSlashA 
-WarpLowSlashC a
+WarpLowSlashC a +WarpLowSlashC_feint
 KunaiHit_D
 NmlAtkAir5B c
 KunaiHit_CD

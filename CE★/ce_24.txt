@@ -14,8 +14,10 @@ CmnFAirDash i c
 NmlAtkAir2B c
 AirAbaremakuriB
 NoutenotoshiB
-_Kakusei i c
 PersonaGodHandD
+_Kakusei i c
+
+
 -KEY-
 6	-	5
 5	-	4

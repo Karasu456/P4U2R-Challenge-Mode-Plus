@@ -97,5 +97,5 @@ MoonsaltArrowConfuse
 5	B	6
 
 -EKEY-
-8	-	4
-4	-	39
+8 - 4
+4 - 34

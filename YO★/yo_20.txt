@@ -8,7 +8,7 @@ MoonsaltMoveA a n2miss
 MoonsaltSlashA
 MoonsaltSlashA
 MoonsaltSlashA
-WarpLowSlashC a
+WarpLowSlashC a +WarpLowSlashC_feint
 KunaiHit_CD
 Persona2C c
 VSlashC

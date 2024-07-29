@@ -1,6 +1,5 @@
 -MISSION-	23
 Tooi
-Kakusei
 SP 50
 
 -LIST-

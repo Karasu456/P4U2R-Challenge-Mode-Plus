@@ -1,7 +1,6 @@
 -MISSION-	23
 Kakusei
 SP 150
-Counter
 EnemyKyofu
 
 -LIST-

@@ -17,8 +17,7 @@ AirMissileD |MissileD |MissileBomb
 CmnFAirDash i c
 PersonaAir2C c
 AirChudan
-MissileBomb nOnly
-
+MissileBomb +MissileBombD
 -KEY-
 5	-	13
 6	-	4

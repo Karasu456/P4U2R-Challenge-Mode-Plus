@@ -11,7 +11,7 @@ ImpactReversal
 NmlAtkCounterAssault c
 _GCSurinuke a c +CmnGCSurinuke
 CmnDamageBurst        c        i
-UltimateWalkingShotKick        +UltimateWalkingShotKickC nOnly
+UltimateWalkingShotKick        +UltimateKick_reversal
 -KEY-
 5 - 32
 4 - 5

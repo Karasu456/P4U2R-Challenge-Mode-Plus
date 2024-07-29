@@ -512,6 +512,7 @@ ElectricBall_HontaiC
 
 
 
+
 ----Char---- AD
 -MISSION-	1
 SP	50
@@ -2529,6 +2530,7 @@ NmlAtk5A	c
 
 
 
+
 ----Char---- AG
 -MISSION-	1
 SP	50
@@ -2776,6 +2778,7 @@ UltimateAirThrowAB
 -MISSION-	4
 Ichigeki
 SP        100
+Tooi
 
 -LIST-
 IchigekiShot
@@ -5438,6 +5441,7 @@ HitCountOver150	h150	nOnly
 
 
 
+
 ----Char---- AK
 -MISSION-	1
 SP	50
@@ -7301,7 +7305,6 @@ UltimateUpperB
 -MISSION-	23
 Kakusei
 SP 150
-Counter
 EnemyKyofu
 
 -LIST-
@@ -8178,6 +8181,7 @@ UltimateUpperAB nOnly
 6	AB	3
 5	AB	18
 5	-	178
+
 
 
 
@@ -9971,7 +9975,6 @@ PersonaGodHandD
 5	-	227
 -MISSION-	23
 Kakusei
-Counter
 EnemyKyofu
 SP 100
 
@@ -10117,8 +10120,10 @@ CmnFAirDash i c
 NmlAtkAir2B c
 AirAbaremakuriB
 NoutenotoshiB
-_Kakusei i c
 PersonaGodHandD
+_Kakusei i c
+
+
 -KEY-
 6	-	5
 5	-	4
@@ -10873,6 +10878,7 @@ DamageOver6000        c        d6500        nOnly
 
 
 
+
 ----Char---- EL
 -MISSION-	1
 SP	100
@@ -10887,19 +10893,57 @@ TatsumakiHit_CD	+Stylishgaru
 PersonaMahajiodainAB	+Stylishjio
 
 -KEY-
-5	-A	3
 5	-	9
-5	-A	3
-5	-	34
-5	-A	3
-5	-	50
-5	-A	3
-5	-	114
-5	-A	3
-5	-	71
-5	-A	3
-5	-	71
-5	-A	3
+6	-	4
+5	-	5
+6	-	1
+6	A	5
+6	-	2
+5	-	3
+5	A	6
+5	-	7
+5	A	5
+5	-	7
+5	A	4
+5	-	6
+5	A	4
+5	-	6
+5	A	4
+5	-	6
+5	A	4
+5	-	5
+5	A	5
+5	-	36
+5	A	2
+5	-	6
+5	A	4
+5	-	5
+5	A	5
+5	-	29
+5	A	4
+5	-	6
+5	A	4
+5	-	6
+5	A	4
+5	-	6
+5	A	4
+5	-	5
+5	A	6
+5	-	70
+5	A	3
+5	-	7
+5	A	4
+5	-	7
+5	A	5
+5	-	40
+5	A	3
+5	-	5
+5	A	5
+5	-	5
+5	A	4
+5	-	60
+5	A	4
+5	-	134
 -MISSION-	2
 SP 100
 Junhudo
@@ -11295,7 +11339,7 @@ TatsumakiHit_D
 elef203_CardShot
 Persona5C c
 Persona2C c
-MaharagidainD a i +MaharagiHit_D
+MaharagidainD a i +MaharagiHit_D_set
 
 -KEY-
 5	-	12
@@ -11687,7 +11731,6 @@ SP 50
 -LIST-
 NmlAtkThrow c
 Mahanmaon a
-_Dash a c
 Persona2D a i |NmlAtk2D a i c
 NmlAtk5A c
 NmlAtk5A2nd_P4U2 c
@@ -12976,6 +13019,7 @@ MoujyaHit_C |MoujyaHit_D |MoujyaHit_CD +MoujyaHit_final nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -15887,6 +15931,7 @@ DamageOver5000        c        d5000        nOnly
 
 
 
+
 ----Char---- KA
 -MISSION-	1
 SP	50
@@ -16322,7 +16367,7 @@ Oiuchi +OiuchiA
 6	-	6
 5	-	4
 6	-	19
-2	-	7
+2	-	12
 2	B	11
 2	-	6
 3	-	2
@@ -16353,8 +16398,7 @@ Oiuchi +OiuchiA
 5	-	110
 -MISSION-	10
 SP 50
-Hashi
-Jump
+HashiEx
 
 -LIST-
 AirMountA
@@ -17177,7 +17221,6 @@ UltimateThrow
 5	-	429
 -MISSION-	23
 Tooi
-Kakusei
 SP 50
 
 -LIST-
@@ -17876,6 +17919,7 @@ DamageOver8000        c        d8000        nOnly
 5	CD	24
 5	D	1
 5	-	98
+
 
 
 
@@ -20896,17 +20940,18 @@ DiaA	|DiaB	|DiaAB	+FinalDia		nOnly
 
 
 
+
 ----Char---- LA
 -MISSION-	1
 SP	50
-LabryssAxInitial	0
+LabryssAxInitial	3
 
 -LIST-
 NmlAtk5A	c
 NmlAtk5A2nd_P4U2	c
 NmlAtk5A3rd_P4U2	c
 AxeAttackA	+StylishAxeAttack
-UltimateTackleD	+StylishTackle
+UltimateTackleC	+StylishTackle
 
 -KEY-
 5	-A	3
@@ -22755,8 +22800,8 @@ NmlAtk5B c
 Ashibarai c
 vr_lp206atk
 NmlAtkAir5B2nd +NmlAtkAir5BB
-NmlAtkAir5B2nd +NmlAtkAir5BB
 vr_lp254atk
+AxeAttackAirB
 UltimateTackleC
 CmnBAirDash i +CmnOneMoreCancel_IADB
 UltimateTackleD
@@ -23655,6 +23700,7 @@ RocketPunchA	|RocketPunchB	|RocketPunchAB	+FinalRokepan	nOnly
 1	-	3
 4	-	3
 5	-A	2
+
 
 
 
@@ -25931,6 +25977,7 @@ NmlAtk5A	c
 -KEY-
 6	-	10
 5	-A	3
+
 
 
 
@@ -28374,6 +28421,7 @@ NmlAtk5A	c
 
 
 
+
 ----Char---- NB
 -MISSION-	1
 SP	50
@@ -30393,6 +30441,7 @@ nbef_430ShougekihaCD nOnly
 
 
 
+
 ----Char---- MI
 -MISSION-	1
 SP 50
@@ -31233,7 +31282,7 @@ NmlAtk5Btame
 Chudan c
 _ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
-_Dash i c
+_Dash +CmnActFDash i c
 
 -KEY-
 2	-	30
@@ -32766,7 +32815,7 @@ NmlAtk5Btame
 Ashibarai c
 IceMiller_ShotC
 NmlAtk5Btame
-ChudanBlow c nOnly
+ChudanBlow c
 IceMiller_ShotD
 TentarahuC a
 CmnActHeatUp +HeatUp a c
@@ -33028,6 +33077,7 @@ DamageOver8000        c        d8000        nOnly
 
 
 
+
 ----Char---- NA
 -MISSION-	1
 SP	50
@@ -33201,7 +33251,7 @@ NoMiss
 Junhudo
 Kakusei
 SP 150
-NaotosFate 1
+NaotosFate 2
 
 -LIST-
 DanganKakushiA
@@ -33210,7 +33260,8 @@ DanganKakushiAB
 DanganUltimate
 UltimateWalkingShotKick +UltimateWalkingShotKickC
 UltimateWalkingShotKickD        |UltimateWalkingShotKickC
-MudoonKill
+Hamaon
+Mudoon
 
 -KEY-
 5	-	12
@@ -33279,21 +33330,35 @@ MudoonKill
 5	-	5
 4	-	20
 5	-	10
-5	CD	13
-5	D	1
-5	-	50
-5	C	7
-5	-	13
-2	-	3
+2	-	9
+5	-	2
+4	-	3
+2	-	6
 1	-	3
 4	-	2
-5	-	2
+5	C	2
+2	C	2
+4	C	1
+4	-	2
+5	-	225
+4	-	4
+5	-	6
+4	-	9
+4	CD	2
+5	CD	7
+5	D	3
+5	-	49
+5	C	4
+5	-	6
 2	-	3
-2	D	1
-1	D	2
+1	-	2
+4	-	3
+5	-	2
+2	-	5
+1	-	1
 4	D	2
-4	-	1
-5	-	271
+5	D	2
+5	-	252
 -MISSION-	4
 Ichigeki
 SP	100
@@ -33812,7 +33877,7 @@ ImpactReversal
 NmlAtkCounterAssault c
 _GCSurinuke a c +CmnGCSurinuke
 CmnDamageBurst        c        i
-UltimateWalkingShotKick        +UltimateWalkingShotKickC nOnly
+UltimateWalkingShotKick        +UltimateKick_reversal
 -KEY-
 5 - 32
 4 - 5
@@ -34279,7 +34344,7 @@ SP	75
 Tooi
 
 -LIST-
-Persona5D c
+Persona5D +Persona5D_2nd
 Persona5C c
 AirBanditRevolverB
 AirBanditRevolverA
@@ -34990,7 +35055,7 @@ SP 150
 Tooi
 
 -LIST-
-UltimateWalkingShotKick +DanganUltimateTamaC
+UltimateWalkingShotKick +UltimateKick_reversal
 CmnCancelBurst i c
 Persona5C c
 CmnFAirDash i c
@@ -35786,6 +35851,7 @@ BanditRevolverA	|BanditRevolverB	|BanditRevolverAB	|AirBanditRevolverA	|AirBandi
 2	-	2
 3	-	2
 6	-B	3
+
 
 
 
@@ -38286,6 +38352,7 @@ DamageOver5000        c        d5000        nOnly
 4	CD	3
 5	D	3
 5	-	30
+
 
 
 
@@ -40970,7 +41037,7 @@ NmlAtkAir2B c
 OnpuShot_Atk
 AssaultA
 AssaultB
-UltimateBitFunnelD |BitFunnel_MarkingD +UltimateBitFunnelD_scan
+UltimateBitFunnelD |BitFunnel_MarkingD a +UltimateBitFunnelD_scan
 AssaultB
 UltimateHysterieBintaAB
 
@@ -41172,6 +41239,7 @@ AssaultA	|AssaultB	|AssaultAB	+FinalAssault	nOnly
 2	-	3
 1	-	3
 4	-AB	3
+
 
 
 
@@ -43530,6 +43598,7 @@ DamageOver9000	c	d9000	nOnly
 
 
 
+
 ----Char---- NO
 -MISSION-	1
 SP	50
@@ -45640,6 +45709,7 @@ DamageOver8500 d8500 c nOnly
 
 
 
+
 ----Char---- KU
 -MISSION-	1
 SP	50
@@ -46472,7 +46542,7 @@ PersonaAir2C c
 PersonaAir5C c
 AirMissileD |MissileD |MissileBomb
 MoudokuTsumeA
-MissileBomb nOnly
+MissileBomb +MissileBombD
 Ashibarai c
 
 -KEY-
@@ -46616,7 +46686,7 @@ AirMissileD |MissileD |MissileBomb
 CmnFAirDash i c
 PersonaAir2C c
 AirChudan
-MissileBomb nOnly
+MissileBomb +MissileBombD
 
 -KEY-
 6	-	4
@@ -46808,8 +46878,7 @@ AirMissileD |MissileD |MissileBomb
 CmnFAirDash i c
 PersonaAir2C c
 AirChudan
-MissileBomb nOnly
-
+MissileBomb +MissileBombD
 -KEY-
 5	-	13
 6	-	4
@@ -46884,7 +46953,7 @@ AirMissileD |MissileD |MissileBomb
 CmnFAirDash	i	c
 PersonaAir2C c
 AirChudan
-MissileBomb nOnly
+MissileBomb +MissileBombD
 
 -KEY-
 5	-	12
@@ -46961,7 +47030,7 @@ AirMissileD |MissileD |MissileBomb
 CmnFAirDash i c
 PersonaAir2C c
 AirChudan
-MissileBomb nOnly
+MissileBomb +MissileBombD
 
 -KEY-
 5	-	16
@@ -47048,7 +47117,7 @@ NmlAtkAir5A c
 AirScrewDriverA
 AirMissileD |MissileD |MissileBomb
 MoudokuTsumeA
-MissileBomb nOnly
+MissileBomb +MissileBombD
 UltimateNihilB
 ShadowKuma
 
@@ -47895,7 +47964,7 @@ AirScrewDriverA
 MoudokuTsumeA
 AirMissileC |MissileC |MissileBomb
 Persona5C c
-ShadowKuma_s +UltimateNihil
+ShadowKuma_s +UltimateNihil_SB
 
 -KEY-
 5	-	5
@@ -48073,6 +48142,7 @@ ShadowKuma_s +ShadowKuma nOnly
 5	-	337
 5	A	4
 5	-	229
+
 
 
 
@@ -49343,7 +49413,7 @@ Persona5C c
 Persona2C c
 KunaiHit_C
 NmlAtkAir5A c
-NmlAtkAir5A2nd |NmlAtkAir5B2nd +NmlAtkAir5A c
+NmlAtkAir5A2nd |NmlAtkAir5B2nd +NmlAtkAir5A2nd
 NmlAtkAir2B	+NmlAtkAirAB	c
 CmnActJumpExUpper a c nOnly
 VSlashC
@@ -49566,7 +49636,7 @@ MoonsaltSlashA
 MoonsaltSlashA
 MoonsaltMoveA +MoonsaltMoveHaseiA a n2miss
 MoonsaltSlashA 
-WarpLowSlashC a
+WarpLowSlashC a +WarpLowSlashC_feint
 KunaiHit_D
 NmlAtkAir5B c
 KunaiHit_CD
@@ -49701,7 +49771,7 @@ MoonsaltMoveA a n2miss
 MoonsaltSlashA
 MoonsaltSlashA
 MoonsaltSlashA
-WarpLowSlashC a
+WarpLowSlashC a +WarpLowSlashC_feint
 KunaiHit_CD
 Persona2C c
 VSlashC
@@ -51049,6 +51119,7 @@ TatsumakiCD nOnly
 
 
 
+
 ----Char---- YK
 -MISSION-	1
 SP	50
@@ -51331,7 +51402,7 @@ IchigekiArrowFinish_Atk
 5        -        3
 2        -CD        3
 -MISSION-	5
-SP	25
+SP	75
 
 -LIST-
 Ashibarai c
@@ -51514,6 +51585,10 @@ MoonsaltArrowConfuse
 5	C	12
 5	-	5
 5	B	6
+
+-EKEY-
+8	-	4
+4	-	39
 -MISSION-	7
 -LIST-
 NmlAtk5A c
@@ -55665,7 +55740,7 @@ PersonaFireAttackB
 MaharagidineD_Frontfire_col |MaharagidineD_Backfire_col
 FireBoosterCD a
 MaharagidineC_Frontfire_col |MaharagidineC_Backfire_col
-PersonaFireBirdA
+PersonaFireBirdA +PersonaFireBirdA_air
 
 -KEY-
 5	-	10
@@ -55766,7 +55841,7 @@ CmnFAirDash i c
 NmlAtkAir5A c
 Sensu_Air5B +NmlAtkAir5B c
 AirAgirao
-_Dash +CmnActFDash i c
+_Dash i c
 AgishotAB
 PersonaAir5C c
 AirAgiB
@@ -55869,6 +55944,7 @@ AgidineCD
 1        -        2
 4        -        2
 5        B        5
+
 -MISSION-	24
 Counter
 Hashi

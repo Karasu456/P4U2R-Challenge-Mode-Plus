@@ -17,7 +17,7 @@ PersonaAir2C c
 PersonaAir5C c
 AirMissileD |MissileD |MissileBomb
 MoudokuTsumeA
-MissileBomb nOnly
+MissileBomb +MissileBombD
 Ashibarai c
 
 -KEY-

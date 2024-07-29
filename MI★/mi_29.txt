@@ -17,7 +17,7 @@ NmlAtk5Btame
 Ashibarai c
 IceMiller_ShotC
 NmlAtk5Btame
-ChudanBlow c nOnly
+ChudanBlow c
 IceMiller_ShotD
 TentarahuC a
 CmnActHeatUp +HeatUp a c

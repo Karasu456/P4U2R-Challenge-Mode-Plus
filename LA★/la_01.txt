@@ -7,7 +7,7 @@ NmlAtk5A	c
 NmlAtk5A2nd_P4U2	c
 NmlAtk5A3rd_P4U2	c
 AxeAttackA	+StylishAxeAttack
-UltimateTackleD	+StylishTackle
+UltimateTackleC	+StylishTackle
 
 -KEY-
 5	-A	3

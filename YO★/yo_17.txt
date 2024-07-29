@@ -13,7 +13,7 @@ Persona5C c
 Persona2C c
 KunaiHit_C
 NmlAtkAir5A c
-NmlAtkAir5A2nd |NmlAtkAir5B2nd +NmlAtkAir5A c
+NmlAtkAir5A2nd |NmlAtkAir5B2nd +NmlAtkAir5A2nd
 NmlAtkAir2B	+NmlAtkAirAB	c
 CmnActJumpExUpper a c nOnly
 VSlashC

@@ -15,7 +15,7 @@ NmlAtk5Btame
 Chudan c
 _ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
-_Dash i c
+_Dash +CmnActFDash i c
 
 -KEY-
 2	-	30

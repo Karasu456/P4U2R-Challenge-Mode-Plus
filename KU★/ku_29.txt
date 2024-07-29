@@ -21,7 +21,7 @@ AirScrewDriverA
 MoudokuTsumeA
 AirMissileC |MissileC |MissileBomb
 Persona5C c
-ShadowKuma_s +UltimateNihil
+ShadowKuma_s +UltimateNihil_SB
 
 -KEY-
 5	-	5

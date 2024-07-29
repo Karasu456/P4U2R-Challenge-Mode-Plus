@@ -23,7 +23,7 @@ PersonaFireAttackB
 MaharagidineD_Frontfire_col |MaharagidineD_Backfire_col
 FireBoosterCD a
 MaharagidineC_Frontfire_col |MaharagidineC_Backfire_col
-PersonaFireBirdA
+PersonaFireBirdA +PersonaFireBirdA_air
 
 -KEY-
 5	-	10

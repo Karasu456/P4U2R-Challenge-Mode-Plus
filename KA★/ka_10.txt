@@ -1,7 +1,6 @@
 -MISSION-	10
 SP 50
-Hashi
-Jump
+HashiEx
 
 -LIST-
 AirMountA

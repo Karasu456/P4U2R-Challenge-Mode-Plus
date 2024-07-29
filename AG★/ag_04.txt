@@ -1,6 +1,7 @@
 -MISSION-	4
 Ichigeki
 SP        100
+Tooi
 
 -LIST-
 IchigekiShot

@@ -7,7 +7,7 @@ CmnFAirDash i c
 NmlAtkAir5A c
 Sensu_Air5B +NmlAtkAir5B c
 AirAgirao
-_Dash +CmnActFDash i c
+_Dash i c
 AgishotAB
 PersonaAir5C c
 AirAgiB

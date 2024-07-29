@@ -4,7 +4,6 @@ SP 50
 -LIST-
 NmlAtkThrow c
 Mahanmaon a
-_Dash a c
 Persona2D a i |NmlAtk2D a i c
 NmlAtk5A c
 NmlAtk5A2nd_P4U2 c

@@ -4,7 +4,7 @@ SP 150
 Tooi
 
 -LIST-
-UltimateWalkingShotKick +DanganUltimateTamaC
+UltimateWalkingShotKick +UltimateKick_reversal
 CmnCancelBurst i c
 Persona5C c
 CmnFAirDash i c
@@ -115,6 +115,7 @@ UltimateWalkingShotKick +UltimateWalkingShotKickC
 5	-	5
 5	C	4
 5	-	152
+
 -EKEY-
 5        -        10
 2        -        26
