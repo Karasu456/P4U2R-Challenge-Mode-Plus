@@ -34,5 +34,4 @@ This gameplay mod is specifically designed to be an add-on for the Persona Fight
 - Heli-Vision / Adachi Trials
 - Buttface & Naked Black Man / Marie Trials
 - Beeg Yoshi /  Margaret Trials
-
-And many more!
+- And many more!
