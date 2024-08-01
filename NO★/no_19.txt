@@ -5,12 +5,12 @@ HashiEx
 -LIST-
 NmlAtk5B c
 NmlAtk2B c
+Ashibarai c
 NmlAtk5C c
 AssaultB_1st
 AssaultB_2nd +AssaultB_2ndHasei
 KousokuDashC |KousokuDashAirC a n2miss +KousokuDashCHasei
-AssaultA_1st
-AssaultA_2nd +AssaultA_2ndHasei
+AssaultA_2nd +AssaultA_2nd_combined
 NmlAtkAir5C c
 ReversalActionAir
 UltimateAssaultAB
