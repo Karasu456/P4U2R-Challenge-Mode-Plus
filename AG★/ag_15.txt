@@ -1,5 +1,6 @@
 -MISSION-	15
 Crouch
+Tooi
 AegissBulletsRecover 1
 AegissOrgia 1
 

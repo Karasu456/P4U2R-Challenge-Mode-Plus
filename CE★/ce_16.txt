@@ -1,6 +1,6 @@
 -MISSION-	16
 Crouch
-Hashi
+HashiEx
 
 -LIST-
 Chudan c
