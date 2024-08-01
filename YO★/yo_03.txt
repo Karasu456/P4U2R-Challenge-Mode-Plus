@@ -17,7 +17,7 @@ Sukukaja5A_Finish
 KakeagariA        +StylishKakeagari
 UltimateKunaiD        +StylishUltimateKunai
 UltimateSukukajaD a
-UltimateKunaiC |UltimateKunaiD +UltimateKunai
+UltimateKunaiC |UltimateKunaiD +UltimateKunaiC
 UltimateSukukajaCD a
 UltimateKunaiCD
 -KEY-
