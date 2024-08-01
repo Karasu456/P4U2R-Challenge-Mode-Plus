@@ -3,7 +3,7 @@ Ichigeki
 SP        100
 
 -LIST-
-rief450_atk
+rief450_atk	|rief_450_atk
 -KEY-
 2        -        3
 5        -        3
