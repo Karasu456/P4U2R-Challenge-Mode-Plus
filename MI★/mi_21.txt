@@ -22,7 +22,7 @@ ChudanBlow c
 IceMiller_ShotD
 TentarahuC a
 aref_431_colD
-UltimateRenzokuB
+UltimateRenzokuB +UltimateRenzokuB_trial
 -KEY-
 5	-	10
 6	-	3

@@ -6,8 +6,8 @@ SP 150
 
 -LIST-
 UltimateRenzokuA
-UltimateRenzokuB
-UltimateRenzokuAB
+UltimateRenzokuB +UltimateRenzokuB_trial
+UltimateRenzokuAB +UltimateRenzokuAB_trial
 aref_431_colC
 aref_431_colD
 aref_431_colCD

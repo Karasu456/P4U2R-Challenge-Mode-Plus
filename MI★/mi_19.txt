@@ -16,7 +16,7 @@ _ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 IceMiller_ShotD
 TentarahuD
-UltimateRenzokuB
+UltimateRenzokuB +UltimateRenzokuB_trial
 
 -KEY-
 5	-	8
