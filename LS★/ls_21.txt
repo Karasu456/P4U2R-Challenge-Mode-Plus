@@ -16,7 +16,7 @@ NmlAtkAir5B c
 CmnActJumpExUpper a c nOnly
 NmlAtkAir5B +NmlAtkAir5BC
 AxeAttackAirA
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 PersonaUltimateTemaeNaguriCD
 
 -KEY-

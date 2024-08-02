@@ -3,7 +3,7 @@ Counter
 
 -LIST-
 PersonaAir5C c
-NmlAtk2B c
+NmlAtk2B +GotchaD_NmlAtk2B
 PersonaAntiAirD +PersonaAntiAirD_Hit nOnly
 NmlAtkAir5B c
 NmlAtk5A c

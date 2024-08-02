@@ -16,7 +16,7 @@ CmnCancelBurst i c
 UltimateProgramC a +UltimateProgramC_combo
 Ashibarai c
 RocketPunchA
-UltimateFullswingAB a +UltimateFullswingAB_set
+UltimateFullswingAB a +UltimateFullswingAB_hold
 ProgramFinish nOnly
 UltimateFullswingAB +UltimateFullswingAB_hit
 
@@ -106,6 +106,7 @@ UltimateFullswingAB +UltimateFullswingAB_hit
 4	AB	1
 5	AB	211
 5	-	496
+
 
 -EKEY-
 5        -        10

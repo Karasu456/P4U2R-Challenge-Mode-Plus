@@ -13,7 +13,7 @@ _HighJump a c nOnly
 NmlAtkAir5A c
 NmlAtkAir5B +NmlAtkAir5BC
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 PersonaUltimateTemaeNaguriCD
 
 -KEY-

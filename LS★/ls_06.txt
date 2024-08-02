@@ -23,6 +23,7 @@ UltimateFullswingB a +UltimateFullswingB_set
 ProgramFinish	nOnly
 UltimateFullswingB +UltimateFullswingB_hit
 PersonaUshiAirNageD
+CmnSurinuke	i c +CmnSurinuke_advance
 UltimateFullswingB
 
 

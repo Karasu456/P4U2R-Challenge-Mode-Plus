@@ -4,7 +4,7 @@ SP 50
 
 -LIST-
 NmlAtkThrow c
-Persona5C
+Persona5C +Persona5C_hold
 NmlAtkAir2B c
 NmlAtkAir5B c
 NmlAtkAir5B2nd c
@@ -12,7 +12,7 @@ CmnActJumpExUpper a c nOnly
 NmlAtkAir5B c
 NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 PersonaUltimateTemaeNaguriD
 
 

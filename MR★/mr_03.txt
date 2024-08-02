@@ -10,12 +10,12 @@ mr430_Atk
 mr430B_Atk
 mr430SB_Atk
 mr432C_CardAtk +mr432_CardAtk
-mr432San_Atk
-mr432Cloud_Atk
-mr432Rain_Atk
-mr432Snow_Atk
-UltimateWindC a
-ExWindShot_Trial	+mp431_ExWindShot
+mr432San_Atk +mr432San_Atk_trial
+mr432Cloud_Atk +mr432Cloud_Atk_trial
+mr432Rain_Atk +mr432Rain_Atk_trial
+mr432Snow_Atk +mr432Snow_Atk_trial
+UltimateWindC |UltimateWindD +UltimateWind a
+ExWindShot_Trial
 
 -KEY-
 5	-	14

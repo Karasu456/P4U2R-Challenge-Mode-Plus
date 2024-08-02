@@ -7,7 +7,7 @@ ShadowLabryssProgramFastRecover	1
 NmlAtk5A c
 NmlAtk5B +NmlAtk5BC
 Ashibarai c
-Persona5C +Persona5C_hit nOnly
+Persona5C nOnly
 NmlAtkAir2B c
 _HighJump a c nOnly
 NmlAtkAir5B c
@@ -19,7 +19,7 @@ UltimateFullswingAB a +UltimateFullswingAB_set
 Persona5C +Persona5C_titano nOnly
 Persona2C +Persona2C_titano nOnly
 PersonaUshiTatakiC +UshiTatakiC_titano nOnly d3090
-UltimateFullswingAB +UltimateFullswingAB_hit
+UltimateFullswingAB +UltimateFullswingAB_hit nOnly
 ProgramFinish	nOnly
 
 -KEY-

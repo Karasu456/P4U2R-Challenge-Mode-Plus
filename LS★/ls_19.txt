@@ -19,7 +19,7 @@ CmnActJumpExUpper	a	c	nOnly
 NmlAtkAir5B c
 NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 UltimateFullswingA
 PersonaUshiAirNageD
 CmnSurinuke	i c +CmnSurinuke_advance
