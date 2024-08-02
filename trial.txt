@@ -3591,6 +3591,7 @@ ModeChangeA a
 5	-	22
 -MISSION-	15
 Crouch
+Tooi
 AegissBulletsRecover 1
 AegissOrgia 1
 
@@ -6566,6 +6567,7 @@ CorkScrewB
 5	-	63
 -MISSION-	15
 Crouch
+Tooi
 
 -LIST-
 Chudan c
@@ -9265,6 +9267,7 @@ Ashibarai c
 5	-	138
 -MISSION-	15
 Crouch
+Tooi
 
 -LIST-
 Chudan c
@@ -9329,7 +9332,7 @@ AirDragonKickC
 5        -        138
 -MISSION-	16
 Crouch
-Hashi
+HashiEx
 
 -LIST-
 Chudan c
@@ -16736,7 +16739,7 @@ UltimateCriticalCombo +UltimateCriticalComboA
 5	-	272
 -MISSION-	16
 Crouch
-Hashi
+HashiEx
 
 -LIST-
 Chudan c
@@ -17513,7 +17516,7 @@ Counter
 
 -LIST-
 PersonaAir5C c
-NmlAtk2B c
+NmlAtk2B +GotchaD_NmlAtk2B
 PersonaAntiAirD +PersonaAntiAirD_Hit nOnly
 NmlAtkAir5B c
 NmlAtk5A c
@@ -19851,6 +19854,7 @@ Ashibarai c
 NyoisoA
 KoromaruAssaultC
 NmlAtk2B c
+NmlAtkAir5A c
 NmlAtkAir5B +NmlAtkAir5B_AssaultD
 NmlAtkAir2B c
 KoromaruAssaultD +KoromaruAssaultD_hit nOnly
@@ -26217,12 +26221,12 @@ mr430_Atk
 mr430B_Atk
 mr430SB_Atk
 mr432C_CardAtk +mr432_CardAtk
-mr432San_Atk
-mr432Cloud_Atk
-mr432Rain_Atk
-mr432Snow_Atk
-UltimateWindC a
-ExWindShot_Trial	+mp431_ExWindShot
+mr432San_Atk +mr432San_Atk_trial
+mr432Cloud_Atk +mr432Cloud_Atk_trial
+mr432Rain_Atk +mr432Rain_Atk_trial
+mr432Snow_Atk +mr432Snow_Atk_trial
+UltimateWindC |UltimateWindD +UltimateWind a
+ExWindShot_Trial
 
 -KEY-
 5	-	14
@@ -27206,7 +27210,7 @@ SP 50
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 NmlAtk5B c
 NmlAtk5B2nd
@@ -30589,8 +30593,8 @@ SP 150
 
 -LIST-
 UltimateRenzokuA
-UltimateRenzokuB
-UltimateRenzokuAB
+UltimateRenzokuB +UltimateRenzokuB_trial
+UltimateRenzokuAB +UltimateRenzokuAB_trial
 aref_431_colC
 aref_431_colD
 aref_431_colCD
@@ -31379,6 +31383,7 @@ _Dash +CmnActFDash i c
 6	-	17
 -MISSION-	15
 Crouch
+Tooi
 
 -LIST-
 Chudan c
@@ -31420,7 +31425,7 @@ NmlAtkAir5B c
 6	-	11
 -MISSION-	16
 Crouch
-Hashi
+HashiEx
 
 -LIST-
 Chudan c
@@ -31664,7 +31669,7 @@ _ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 IceMiller_ShotD
 TentarahuD
-UltimateRenzokuB
+UltimateRenzokuB +UltimateRenzokuB_trial
 
 -KEY-
 5	-	8
@@ -31875,7 +31880,7 @@ ChudanBlow c
 IceMiller_ShotD
 TentarahuC a
 aref_431_colD
-UltimateRenzokuB
+UltimateRenzokuB +UltimateRenzokuB_trial
 -KEY-
 5	-	10
 6	-	3
@@ -34236,6 +34241,7 @@ DanganKakushiA
 5	-	157
 -MISSION-	15
 Crouch
+Tooi
 
 -LIST-
 Chudan c
@@ -34292,7 +34298,7 @@ AirBanditRevolverB
 6	-	24
 -MISSION-	16
 Crouch
-Hashi
+HashiEx
 
 -LIST-
 Chudan c
@@ -36752,6 +36758,7 @@ UltimateLaserAirC
 5        -        162
 -MISSION-	15
 Crouch
+Tooi
 
 -LIST-
 Chudan c
@@ -36802,7 +36809,7 @@ AirMidAssaultB
 5        -        114
 -MISSION-	16
 Crouch
-Hashi
+HashiEx
 
 -LIST-
 Chudan c
@@ -41634,7 +41641,7 @@ ShadowLabryssProgramFastRecover	1
 NmlAtk5A c
 NmlAtk5B +NmlAtk5BC
 Ashibarai c
-Persona5C +Persona5C_hit nOnly
+Persona5C nOnly
 NmlAtkAir2B c
 _HighJump a c nOnly
 NmlAtkAir5B c
@@ -41646,7 +41653,7 @@ UltimateFullswingAB a +UltimateFullswingAB_set
 Persona5C +Persona5C_titano nOnly
 Persona2C +Persona2C_titano nOnly
 PersonaUshiTatakiC +UshiTatakiC_titano nOnly d3090
-UltimateFullswingAB +UltimateFullswingAB_hit
+UltimateFullswingAB +UltimateFullswingAB_hit nOnly
 ProgramFinish	nOnly
 
 -KEY-
@@ -41763,6 +41770,7 @@ UltimateFullswingB a +UltimateFullswingB_set
 ProgramFinish	nOnly
 UltimateFullswingB +UltimateFullswingB_hit
 PersonaUshiAirNageD
+CmnSurinuke	i c +CmnSurinuke_advance
 UltimateFullswingB
 
 
@@ -41858,34 +41866,33 @@ UltimateFullswingB
 2	B	2
 2	-	2
 1	-	1
-4	B	203
+4	B	200
 2	-	98
-8	D	3
-5	D	13
-5	-	48
-6	-	5
+8	D	5
+5	-	73
+6	-	4
 5	-	4
-6	AC	4
-6	C	1
+6	AC	3
+2	-	2
+3	-	3
 6	-	4
-5	-	7
-2	-	4
+2	-	2
+3	-	3
+6	-	4
+2	-	2
+3	-	3
+6	-	4
+2	-	2
 3	-	2
-6	-	4
-2	-	5
-3	-	3
-6	B	5
-2	-	5
-3	-	3
-6	B	2
-5	-	71
+6	-	3
+2	B	2
 -MISSION-	7
 
 -LIST-
 NmlAtk5A c
 NmlAtk5B +NmlAtk5BC
 Ashibarai c
-Persona5C +Persona5C_hit nOnly
+Persona5C nOnly
 CmnFJump i c +_Jump9
 NmlAtkAir2B c
 NmlAtkAir5B c
@@ -42044,7 +42051,7 @@ CmnActJumpExUpper a c nOnly
 NmlAtkAir5B c
 NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 PersonaUltimateTemaeNaguriC
 
 -KEY-
@@ -42116,7 +42123,7 @@ NmlAtkAir5B c
 NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
 CmnActJumpExUpper a c nOnly
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 
 -KEY-
 5	-	16
@@ -42259,7 +42266,7 @@ SP 50
 
 -LIST-
 NmlAtkThrow c
-Persona5C
+Persona5C +Persona5C_hold
 NmlAtkAir2B c
 NmlAtkAir5B c
 NmlAtkAir5B2nd c
@@ -42267,7 +42274,7 @@ CmnActJumpExUpper a c nOnly
 NmlAtkAir5B c
 NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 PersonaUltimateTemaeNaguriD
 
 
@@ -42535,7 +42542,7 @@ CmnActJumpExUpper a c nOnly
 NmlAtkAir5B c
 NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 PersonaUltimateTemaeNaguriD
 
 -KEY-
@@ -42609,7 +42616,7 @@ _HighJump a c nOnly
 NmlAtkAir5A c
 NmlAtkAir5B +NmlAtkAir5BC
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 PersonaUltimateTemaeNaguriCD
 
 -KEY-
@@ -42840,7 +42847,7 @@ CmnActJumpExUpper	a	c	nOnly
 NmlAtkAir5B c
 NmlAtkAir5B2nd +NmlAtkAir5B2nd_Knuckle
 AxeAttackAirB
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 UltimateFullswingA
 PersonaUshiAirNageD
 CmnSurinuke	i c +CmnSurinuke_advance
@@ -43104,7 +43111,7 @@ NmlAtkAir5B c
 CmnActJumpExUpper a c nOnly
 NmlAtkAir5B +NmlAtkAir5BC
 AxeAttackAirA
-Persona5C +Persona5C_hit nOnly
+Persona5C +Persona5C_hit
 PersonaUltimateTemaeNaguriCD
 
 -KEY-
@@ -43322,7 +43329,7 @@ CmnCancelBurst i c
 UltimateProgramC a +UltimateProgramC_combo
 Ashibarai c
 RocketPunchA
-UltimateFullswingAB a +UltimateFullswingAB_set
+UltimateFullswingAB a +UltimateFullswingAB_hold
 ProgramFinish nOnly
 UltimateFullswingAB +UltimateFullswingAB_hit
 
@@ -44953,7 +44960,6 @@ HashiEx
 -LIST-
 NmlAtk5B c
 NmlAtk2B c
-Ashibarai c
 NmlAtk5C c
 AssaultB_1st
 AssaultB_2nd +AssaultB_2ndHasei
@@ -44967,6 +44973,7 @@ NmlAtk2C c
 NmlAtk5C c
 NmlAtk5B c
 NmlAtk2B c
+Ashibarai c
 AssaultB_1st
 AssaultB_2nd +AssaultB_2ndHasei
 AssaultA_3rd +AssaultA_3rdHasei
@@ -45944,8 +45951,8 @@ UltimateItemAB a
 AirUltimateItemAB a
 MissileC
 MissileBomb
-MissileD
-AirMissileD
+MissileD +MissileD_trial
+AirMissileD +AirMissileD_trial
 UltimateNihilA
 ShadowKuma
 UltimateNihilB
@@ -46196,7 +46203,7 @@ NmlAtkAir5B c
 PersonaAir2C c
 AirScrewDriverA
 AirMissileD |MissileD |MissileBomb
-MissileBomb nOnly
+MissileBomb +MissileBombD
 NmlAtk5B c
 NmlAtk5D a c
 
@@ -47370,11 +47377,11 @@ NmlAtk5B c
 CmnMiniJump i c
 NmlAtkAir5A c
 AirScrewDriverB
-NmlAtk5A c
-NmlAtk5A2nd_P4U2 c
+NmlAtk5A2nd_P4U2 +NmlAtk5A2nd_trial
 NmlAtk5B c
 TVWarpD
-ShadowKuma +UltimateNihil
+UltimateNihilAB
+ShadowKuma
 
 -KEY-
 5	-	13
@@ -47480,10 +47487,10 @@ _HighJump a c nOnly
 NmlAtkAir5A c
 AirScrewDriverA
 AirMissileD |MissileD |MissileBomb
-CmnFAirDash i c
 PersonaAir2C c
 AirChudan
-ShadowKuma +UltimateNihil
+UltimateNihilB
+ShadowKuma
 
 -KEY-
 5	-	20
@@ -47595,7 +47602,7 @@ NmlAtkAir5A c
 NmlAtkAir5B c
 PersonaAir2C c
 MoudokuTsumeA
-AirMissileC |MissileC |MissileBomb
+AirMissileC |MissileC |MissileBomb +AirMissileC_hold
 _Kakusei i c
 UltimateNihilB
 ShadowKuma
@@ -47827,7 +47834,7 @@ CmnActJumpExUpper a c nOnly
 AirChudan
 AirScrewDriverB
 MoudokuTsumeA
-AirMissileC
+AirMissileC +AirMissileC_hold
 NmlAtk5B c
 Persona5C c
 UltimateNihilAB
@@ -47919,7 +47926,7 @@ CmnActJumpExUpper a c nOnly
 AirChudan
 AirScrewDriverB
 MoudokuTsumeA
-AirMissileC
+AirMissileC +AirMissileC_hold
 Ashibarai c
 TsubureruKumaA a
 NmlAtk5B c
@@ -48003,8 +48010,7 @@ SP 100
 Burst 100
 
 -LIST-
-NmlAtk5A c
-NmlAtk5A2nd c
+NmlAtk5A2nd +NmlAtk5A2nd_trial
 NmlAtk2B c
 NmlAtkAir5A c
 NmlAtkAir5A c
@@ -48021,7 +48027,8 @@ AirScrewDriverA
 MoudokuTsumeA
 AirMissileC |MissileC |MissileBomb
 Persona5C c
-ShadowKuma_s +UltimateNihil_SB
+UltimateNihilAB
+ShadowKuma_s +ShadowKuma
 
 -KEY-
 5	-	5
@@ -48418,7 +48425,7 @@ Sukukaja5A_Finish
 KakeagariA        +StylishKakeagari
 UltimateKunaiD        +StylishUltimateKunai
 UltimateSukukajaD a
-UltimateKunaiC |UltimateKunaiD +UltimateKunai
+UltimateKunaiC |UltimateKunaiD +UltimateKunaiC
 UltimateSukukajaCD a
 UltimateKunaiCD
 -KEY-
@@ -49340,6 +49347,7 @@ WarpLowSlashC
 5        -        207
 -MISSION-	15
 Crouch
+Tooi
 
 -LIST-
 Chudan c
@@ -49389,7 +49397,7 @@ WarpLowSlashC
 5	-	172
 -MISSION-	16
 Crouch
-Hashi
+HashiEx
 
 -LIST-
 Chudan c
@@ -50622,9 +50630,9 @@ Tooi
 
 
 -LIST-
-CmnBAirDash a c
+CmnBAirDash i c
 PersonaAir5D c
-CmnFAirDash a c
+CmnFAirDash i c
 NmlAtkAir5B c
 NmlAtkAir5A2nd	+NmlAtkAir5B2nd	c
 NmlAtk5A c
@@ -51484,7 +51492,7 @@ Air5B_Atk +Air5B_Atk_Charge
 CmnActJumpExUpper	a	c	nOnly
 Air5B_Atk +Air5B_Atk_Charge
 MoonsaltJumpC a n2miss
-MoonsaltArrowCharm |MoonsaltArrowConfuse
+MoonsaltArrowCharm |MoonsaltArrowConfuse +MoonsaltArrow
 
 -KEY-
 5	-	11
@@ -56691,10 +56699,6 @@ LandAgiA	|LandAgiB	|LandAgirao	|AirAgiA	|AirAgiB	|AirAgirao	+FinalAgi	nOnly
 2	-	3
 3	-	3
 6	-A	5
-
-
-
-----Char---- YU
 
 
 ----End----
