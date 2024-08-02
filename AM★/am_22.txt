@@ -10,6 +10,7 @@ Ashibarai c
 NyoisoA
 KoromaruAssaultC
 NmlAtk2B c
+NmlAtkAir5A c
 NmlAtkAir5B +NmlAtkAir5B_AssaultD
 NmlAtkAir2B c
 KoromaruAssaultD +KoromaruAssaultD_hit nOnly

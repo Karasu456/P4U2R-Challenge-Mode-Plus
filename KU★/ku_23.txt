@@ -19,10 +19,10 @@ _HighJump a c nOnly
 NmlAtkAir5A c
 AirScrewDriverA
 AirMissileD |MissileD |MissileBomb
-CmnFAirDash i c
 PersonaAir2C c
 AirChudan
-ShadowKuma +UltimateNihil
+UltimateNihilB
+ShadowKuma
 
 -KEY-
 5	-	20

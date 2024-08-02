@@ -3,8 +3,7 @@ SP 100
 Burst 100
 
 -LIST-
-NmlAtk5A c
-NmlAtk5A2nd c
+NmlAtk5A2nd +NmlAtk5A2nd_trial
 NmlAtk2B c
 NmlAtkAir5A c
 NmlAtkAir5A c
@@ -21,7 +20,8 @@ AirScrewDriverA
 MoudokuTsumeA
 AirMissileC |MissileC |MissileBomb
 Persona5C c
-ShadowKuma_s +UltimateNihil_SB
+UltimateNihilAB
+ShadowKuma_s +ShadowKuma
 
 -KEY-
 5	-	5

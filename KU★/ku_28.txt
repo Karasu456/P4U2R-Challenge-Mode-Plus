@@ -13,7 +13,7 @@ CmnActJumpExUpper a c nOnly
 AirChudan
 AirScrewDriverB
 MoudokuTsumeA
-AirMissileC
+AirMissileC +AirMissileC_hold
 Ashibarai c
 TsubureruKumaA a
 NmlAtk5B c

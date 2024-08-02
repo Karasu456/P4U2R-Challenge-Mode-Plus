@@ -19,11 +19,11 @@ NmlAtk5B c
 CmnMiniJump i c
 NmlAtkAir5A c
 AirScrewDriverB
-NmlAtk5A c
-NmlAtk5A2nd_P4U2 c
+NmlAtk5A2nd_P4U2 +NmlAtk5A2nd_trial
 NmlAtk5B c
 TVWarpD
-ShadowKuma +UltimateNihil
+UltimateNihilAB
+ShadowKuma
 
 -KEY-
 5	-	13

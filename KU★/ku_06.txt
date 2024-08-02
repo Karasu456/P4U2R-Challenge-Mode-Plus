@@ -12,7 +12,7 @@ NmlAtkAir5B c
 PersonaAir2C c
 AirScrewDriverA
 AirMissileD |MissileD |MissileBomb
-MissileBomb nOnly
+MissileBomb +MissileBombD
 NmlAtk5B c
 NmlAtk5D a c
 

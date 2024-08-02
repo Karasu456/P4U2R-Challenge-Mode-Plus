@@ -18,7 +18,7 @@ NmlAtkAir5A c
 NmlAtkAir5B c
 PersonaAir2C c
 MoudokuTsumeA
-AirMissileC |MissileC |MissileBomb
+AirMissileC |MissileC |MissileBomb +AirMissileC_hold
 _Kakusei i c
 UltimateNihilB
 ShadowKuma

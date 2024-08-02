@@ -15,7 +15,7 @@ CmnActJumpExUpper a c nOnly
 AirChudan
 AirScrewDriverB
 MoudokuTsumeA
-AirMissileC
+AirMissileC +AirMissileC_hold
 NmlAtk5B c
 Persona5C c
 UltimateNihilAB

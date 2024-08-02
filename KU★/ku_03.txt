@@ -14,8 +14,8 @@ UltimateItemAB a
 AirUltimateItemAB a
 MissileC
 MissileBomb
-MissileD
-AirMissileD
+MissileD +MissileD_trial
+AirMissileD +AirMissileD_trial
 UltimateNihilA
 ShadowKuma
 UltimateNihilB
@@ -65,8 +65,8 @@ UltimateGorogoroTamaD
 5	-	46
 6	-	3
 5	-	7
-6	-	30
-5	-	41
+6	-	35
+5	-	30
 5 B 6
 5 - 12
 2 B 3
