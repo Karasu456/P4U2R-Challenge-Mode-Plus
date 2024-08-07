@@ -12,13 +12,13 @@ PersonaAir2C c
 AirScrewDriverB
 CmnActHeatUp +HeatUp a c
 AirChudan
-AirMissileC |AirMissileD +AirMissileCD
+AirMissileC |AirMissileD +AirMissileCD_hold
 Ashibarai c
 AirChudan
 AirChudan
 AirScrewDriverA
 MoudokuTsumeA
-AirMissileC |MissileC |MissileBomb
+AirMissileC +AirMissileC_hold
 Persona5C c
 UltimateNihilAB
 ShadowKuma_s +ShadowKuma

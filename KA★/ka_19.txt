@@ -1,6 +1,7 @@
 -MISSION-	19
 Counter
 SP 75
+Hashi
 
 -LIST-
 NmlAtk2B c
@@ -15,6 +16,10 @@ UltimateCriticalComboAB
 PersonaAntiAirC
 Oiuchi +OiuchiA
 -KEY-
+5	-	4
+6	-	6
+5	-	5
+6	-	6
 2	-	9
 2	B	10
 5	-	32
