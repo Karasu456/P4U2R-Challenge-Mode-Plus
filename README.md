@@ -1,7 +1,7 @@
 ### Challenge Mode+ Mod Release Trailer
 [![](https://markdown-videos-api.jorgenkh.no/youtube/BSnCdUlPNkA)](https://youtu.be/BSnCdUlPNkA)
 
-Challenge Mode+ is a gameplay mod for Persona 4 Arena Ultimax(PC) that updates the game's Challenge Mode to showcase each character’s unique traits & more practical combo routes. This gameplay mod is specifically designed to be an add-on for the Persona Fight Club Modpack, which greatly changes the game's palettes, music, menus, & stages. For more info about the Modpack & Challenge Mode+, join the P4AU discord server here: www.discord.gg/p4au
+Challenge Mode+ is a gameplay mod for Persona 4 Arena Ultimax(PC) that updates the game's Challenge Mode combo trials to showcase each character’s unique traits & more practical combo routes. This gameplay mod is specifically designed to be an add-on for the Persona Fight Club Modpack, which greatly changes the game's palettes, music, menus, & stages. For more info about the Modpack & Challenge Mode+, join the P4AU discord server here: www.discord.gg/p4au
 
 
 ### Challenge Mode+ Mod Showcase
