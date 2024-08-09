@@ -20,9 +20,9 @@ OrgiaBackDash        a
 OrgiaDash        a
 AirSurinuke        a
 Hovering        a
-AirRollingC |RollingC
-AirRollingD |RollingD
-AirRollingCD |RollingCD
+RollingC |AirRollingC
+RollingD |AirRollingD
+RollingCD |AirRollingCD
 dmy_machinegun5
 dmy_machinegun_5CD |dmy_machinegun_8CD
 

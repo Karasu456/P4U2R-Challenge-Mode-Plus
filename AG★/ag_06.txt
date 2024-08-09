@@ -10,7 +10,7 @@ NmlAtkAir5B c
 NmlAtk2A c
 dmy_5B
 Persona5C c
-dmy_machinegun_3B +dmy_machinegun_3B_hold
+dmy_machinegun_3B +dmy_machinegun_3B_hold h60
 CmnCancelBurst i c
 dmy_machinegun_9B
 PersonaAir2C c
