@@ -10,7 +10,7 @@ Randomizer_colCD
 NmlAtkCounterAssault c
 _GCSurinuke a c +CmnGCSurinuke
 CmnDamageBurst        c        i
-MoujyaHit_C
+MoujyaHit_D
 -KEY-
 5 - 38
 4 - 110
@@ -125,8 +125,8 @@ MoujyaHit_C
 6 - 5
 2 - 4
 3 - 2
-6 C 3
-6 C 3
+6 D 3
+6 D 3
 5 - 45
 -EKEY-
 5        -        16

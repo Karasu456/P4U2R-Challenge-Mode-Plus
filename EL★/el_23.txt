@@ -22,7 +22,7 @@ elef203_CardShot
 Persona5C c |Persona5Cex
 PersonaMahabufudainAB
 NmlAtk2C	a i	+NmlAtk2Cmiss
-MoujyaHit_C |MoujyaHit_D +MoujyaHit_C_or_D
+MoujyaHit_C
 
 
 

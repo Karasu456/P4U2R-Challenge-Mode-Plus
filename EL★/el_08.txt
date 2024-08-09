@@ -13,7 +13,7 @@ Persona5C c
 Persona2C c
 PersonaMahabufudainB
 Persona5D c
-_Jump +_Jump9 i c
+CmnFJump +_Jump9 i c
 elef251_CardShotAir
 NmlAtkAir2B c
 PersonaAir5C c

@@ -13,7 +13,7 @@ Air5B_Atk
 MatoNageA a
 5B_Atk +5B_Atk_Charge
 Air5B_Atk +Air5B_Atk_Charge
-_Jump i c nOnly
+_Jump i c
 Air5B_Atk +Air5B_Atk_Charge
 Air2B_Atk +Air2B_Atk_Charge
 5B_Atk +5B_Atk_Charge

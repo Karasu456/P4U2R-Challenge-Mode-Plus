@@ -22,8 +22,8 @@ Ashibarai c
 TatsumakiHit_D
 Persona2C c
 PersonaMahabufudainAB
-NmlAtk2C	a i	+NmlAtk2Cmiss
-MoujyaHit_C |MoujyaHit_D +MoujyaHit_C_or_D
+Persona2D a i |NmlAtk2D a i c
+MoujyaHit_C
 
 -KEY-
 5	-	13
@@ -102,22 +102,20 @@ MoujyaHit_C |MoujyaHit_D +MoujyaHit_C_or_D
 4	A	1
 4	AB	1
 5	AB	6
-5	-	79
+5	-	84
 2	-	6
-2	C	5
+2	D	5
 2	-	5
-5	-	47
+5	-	40
 5	AB	4
 5	B	1
 5	-	5
 5	AB	5
 5	-	16
 2	-	3
-2	ABC	1
-1	ABC	1
-1	-	1
-4	-	1
-5	-	3
+2	ABC	2
+1	-	2
+4	-	2
 2	-	2
 1	-	2
 4	C	2

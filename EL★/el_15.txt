@@ -10,7 +10,7 @@ ChudanJump a c
 NmlAtkAir2B c
 elef251_CardShotAir
 PersonaAir5D c
-CmnBJump i c +_Jump7
+CmnFJump +_Jump9 i c
 elef251_CardShotAir
 NmlAtkAir2B c
 PersonaAir5C c
@@ -35,9 +35,9 @@ PersonaAir5C c
 5	-	20
 5	D	10
 5	-	72
-4	-	2
-7	-	10
-7	B	2
+6	-	2
+9	-	10
+9	B	2
 4	B	2
 5	B	8
 5	-	15
