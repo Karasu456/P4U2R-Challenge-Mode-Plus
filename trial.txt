@@ -2585,9 +2585,9 @@ OrgiaBackDash        a
 OrgiaDash        a
 AirSurinuke        a
 Hovering        a
-AirRollingC |RollingC
-AirRollingD |RollingD
-AirRollingCD |RollingCD
+RollingC |AirRollingC
+RollingD |AirRollingD
+RollingCD |AirRollingCD
 dmy_machinegun5
 dmy_machinegun_5CD |dmy_machinegun_8CD
 
@@ -2873,7 +2873,7 @@ NmlAtkAir5B c
 NmlAtk2A c
 dmy_5B
 Persona5C c
-dmy_machinegun_3B +dmy_machinegun_3B_hold
+dmy_machinegun_3B +dmy_machinegun_3B_hold h60
 CmnCancelBurst i c
 dmy_machinegun_9B
 PersonaAir2C c
@@ -4670,113 +4670,88 @@ NmlAtk5A2nd_P4U2 c
 NmlAtk5A3rd_P4U2 c
 dmy_machinegun10
 dmy_machinegun_9B +StylishCanon
-PersonaAirAthenaSurfingD
+PersonaAirAthenaSurfingD	+StylishSurfing
 _Kakusei i c
 Persona5C c
-PersonaAthenaSurfingC +AthenaSurfingC
+PersonaAthenaSurfingC |PersonaAthenaSurfingD +AthenaSurfing
 
 -KEY-
-5	-	11
-2	-	3
-5	-	6
-2	-	2
-2	A	6
+5	-	12
+2	-	4
+5	-	5
 2	-	1
-5	-	15
+2	B	7
+5	-	9
 6	-	4
 5	-	5
-6	-	13
-6	B	6
-6	-	1
+6	-	5
+6	B	8
+6	-	5
 5	-	13
-2	-	2
-2	A	6
-2	-	4
-5	-	6
-5	B	4
-5	-	9
-2	-	5
-2	A	1
-2	AB	6
-2	-	6
-3	-	2
-6	-	4
-5	C	6
-5	-	29
-2	-	6
-5	-	6
+2	A	7
 2	-	4
 5	-	2
-5	A	1
-2	A	5
-2	-	6
-5	-	17
-5	A	3
-5	-	7
-5	A	4
-5	-	6
-5	A	4
-5	-	7
-5	A	4
-5	-	5
-5	A	5
-5	-	4
-5	A	6
-5	-	5
-5	A	5
-5	-	5
-5	A	5
-5	-	4
-5	A	5
-5	-	6
-5	A	3
-5	-	7
-5	A	4
-5	-	5
-5	A	6
-5	-	5
+5	B	5
+5	-	14
+2	-	1
+2	AB	6
+2	B	2
+2	-	10
+3	-	2
+6	-	1
+6	C	2
+5	C	5
+5	-	34
 2	-	4
-1	-	3
+5	-	4
+2	-	1
+2	A	6
+2	-	1
+5	-	24
+5	A	3
+5	-	6
+5	A	5
+5	-	13
+5	A	6
+5	-	13
+5	A	6
+5	-	6
+5	A	5
+5	-	6
+5	A	4
+5	-	5
+5	A	4
+5	-	5
+5	A	5
+5	-	6
+5	A	4
+5	-	6
+5	A	4
+5	-	5
+5	A	5
+5	-	5
+5	A	5
+5	-	5
+5	A	5
+5	-	6
+5	A	4
+5	-	8
+5	A	6
+5	-	133
+4	-	4
+5	-	5
+4	-	5
+4	C	2
+5	C	5
+5	-	4
+2	-	5
+1	-	1
 4	-	2
-5	-	4
-2	-	4
-1	-	2
-1	D	2
-4	D	3
-5	D	3
-5	-	166
-5	C	7
-2	-	4
-1	-	3
-4	-	1
 5	-	3
 2	-	4
-1	C	4
-4	C	2
-5	-	41
-2	-	4
-3	-	3
-6	-	5
-5	-	1
-2	-	5
-3	C	2
-6	C	1
-6	-	4
-2	-	4
-2	C	1
-3	C	2
-3	-	1
-6	-	5
-5	-	1
-2	-	1
-2	C	2
-2	-	2
-3	-	3
-6	-	3
-6	C	2
-2	C	2
-2	-	8
-5	-	193
+1	-	2
+4	D	2
+5	-	175
 -MISSION-	25
 SP	150
 Burst 100
@@ -11105,94 +11080,130 @@ ConcentrateB a
 ConcentrateAB a
 Mahanmaon a
 Mahamudo_on a
+Mahamudo_onSB +Mahamudo_onCD a
+DiarahanA |DiarahanB +Diarahan a
 DiarahanAB a
 MoujyaHit_C
 MoujyaHit_D
 PersonaMoujya_no_NagekiCD	+MoujyaHit_CD
+
 -KEY-
-5	-	12
+5	-	10
 2	-	4
-3	-	2
-6	-	5
+3	-	1
+6	-	4
+5	-	1
+2	-	5
+3	-	1
+6	-	1
+6	A	2
+5	A	1
+5	-	79
+2	-	5
+3	-	1
+6	-	4
+5	-	1
+2	-	2
+2	B	1
+3	B	2
+6	B	1
+6	-	1
+5	-	94
 2	-	3
-3	-	3
-6	A	4
-5	-	84
-2	-	4
-3	-	3
-6	-	3
+3	-	2
+6	-	4
 5	-	2
 2	-	4
-3	-	3
-6	B	2
-5	B	2
-5	-	97
+3	-	1
+6	-	1
+6	AB	2
+5	ABC	1
+5	-	111
+2	-	3
+3	-	2
+6	-	4
+5	-	1
+2	-	3
+3	-	2
+6	C	2
+5	C	1
+5	-	251
+2	-	3
+3	-	2
+6	-	4
+5	-	2
 2	-	4
 3	-	2
-6	-	3
+6	-	2
+6	D	1
+5	D	3
+5	-	155
+2	-	4
+3	-	2
+6	-	4
+5	-	1
+2	-	3
+3	-	3
+6	-	1
+6	CD	1
+5	CD	2
+5	D	2
+5	-	176
+2	-	2
+1	-	3
+4	-	2
+5	-	2
+2	-	5
+1	-	2
+4	-	1
+4	A	1
+5	A	2
+5	-	169
+2	-	3
+1	-	3
+4	-	1
 5	-	3
 2	-	4
-3	-	4
-6	AB	6
-5	-	106
-2	-	4
-3	-	3
-6	-	3
-5	-	2
-2	-	3
-3	-	4
-6	C	2
-5	C	3
-5	-	254
-2	-	5
-3	-	2
-6	-	5
-2	-	5
-3	-	2
-6	-	3
-5	D	10
-5	-	182
-2	-	5
 1	-	2
-4	-	5
-2	-	6
-1	-	2
-4	-	2
 4	AB	2
-5	AB	124
-5	-	155
+5	AB	1
+5	-	170
 6	-	5
 5	-	4
-6	-	14
-5	-	6
-2	-	6
+6	-	34
+3	-	2
+2	-	3
 1	-	2
-4	-	4
-2	-	6
-1	-	3
 4	-	3
-4	C	8
-5	-	239
+5	-	1
+2	-	5
+1	-	1
+4	-	1
+4	C	2
+5	C	2
+5	-	244
 6	-	4
 5	-	5
-6	-	89
-5	-	33
+6	-	45
+2	-	3
+1	-	2
+4	-	2
+5	-	3
 2	-	4
 1	-	2
+4	D	1
+5	D	4
+5	-	280
+5	-	1
+2	-	5
+1	-	3
 4	-	2
 5	-	2
 2	-	5
-1	-	3
-4	D	2
-5	D	6
-5	-	288
-2	-	6
-4	-	4
-5	-	2
-2	-	4
-1	-	4
-4	CD	4
-5	-	214
+1	-	2
+4	-	2
+5	CD	4
+5	-	30
 -MISSION-	4
 Ichigeki
 SP	100
@@ -11216,7 +11227,7 @@ Ichigeki
 6	-D	1
 5	-	300
 -MISSION-	5
-SP 100
+SP 50
 HashiEx
 HPRecoverEnemyOnly	0
 
@@ -11224,6 +11235,7 @@ HPRecoverEnemyOnly	0
 NmlAtk5A c
 NmlAtk5A2nd_P4U2 c
 elef203_CardShot
+Ashibarai c
 ConcentrateA a
 _Kakusei i c
 Ashibarai c
@@ -11233,55 +11245,64 @@ Persona2C c
 PersonaMahabufudainB
 Chudan c
 CmnOneMoreCancel i c
-MoujyaHit_D
+MoujyaHit_C
 
 -KEY-
-5	-	11
+5	-	10
 6	-	4
-5	-	5
-6	-	13
-6	A	7
-5	-	3
-5	A	7
-5	-	28
-5	B	8
-5	-	18
+5	-	6
+6	-	2
+6	A	5
+6	-	5
+6	A	5
+5	A	3
+5	-	25
+5	B	9
+5	-	26
+2	-	3
+2	AB	5
+2	B	2
+3	-	1
+6	-	6
+3	-	1
+2	-	5
+3	-	1
+6	A	3
+6	-	1
+5	-	80
+2	-	4
+2	AB	7
+2	B	1
 2	-	3
 3	-	2
-6	-	5
-2	-	5
-6	A	2
-5	-	79
-2	-	7
-2	AB	8
-3	-	2
-6	-	8
-5	CD	4
-8	CD	6
-8	D	2
-8	-	84
-5	-	23
-5	C	13
-5	-	9
-2	-	22
+6	-	4
+5	CD	7
+5	D	3
+5	-	11
+6	-	16
+5	-	78
+5	C	16
+5	-	12
+2	-	17
 2	C	11
-2	-	19
-1	-	4
+2	-	28
+1	-	2
 4	B	2
 5	B	6
-5	-	117
+5	-	113
 5	AB	5
-5	B	4
-5	-	23
+5	B	2
+5	-	20
 5	ABC	4
+5	-	1
 2	-	3
 1	-	3
-4	-	2
-5	-	2
+4	-	1
+5	-	3
 2	-	4
-1	D	2
-4	D	2
-5	-	35
+1	-	2
+4	C	2
+5	-	228
 -MISSION-	6
 HashiEx
 
@@ -11295,63 +11316,67 @@ Persona5C	c	|Persona5Cex
 Persona2C c
 PersonaMahabufudainB
 Persona5D c
+CmnFJump +_Jump9 i c
 elef251_CardShotAir
 NmlAtkAir2B c
-CmnActJumpExUpper a c nOnly
 PersonaAir5C c
 
 -KEY-
-5	-	10
+5	-	14
+8	-	1
 7	-	3
-8	-	2
-5	-	4
-4	-	17
-5	-	6
-2	-	4
+4	-	1
+5	-	5
+4	-	15
+5	-	15
+2	-	3
 2	C	5
-5	-	56
-6	-	4
-5	-	6
+5	-	45
+6	-	5
+5	-	5
 6	-	32
-6	C	4
-5	C	2
-5	-	35
-2	-	4
-3	-	4
-6	D	3
-5	D	6
+5	C	8
+5	-	23
+2	-	8
+3	-	3
+6	D	5
+5	D	5
 5	-	7
-8	-	47
-5	-	34
-5	A	5
-5	-	3
+6	-	7
+9	-	6
+8	-	19
+7	-	10
+8	-	7
+5	-	2
+2	-	21
+5	-	15
+5	A	7
+5	-	7
 5	B	8
-5	-	36
-5	C	9
 5	-	30
-2	-	6
+5	C	8
+5	-	34
+2	-	2
 2	C	7
-2	-	24
+2	-	28
 1	-	3
-4	B	2
-5	B	5
-5	-	117
-5	D	12
-5	-	70
-4	-	2
-7	-	5
+4	-	1
 4	B	3
-5	B	5
-5	-	18
-2	-	4
-2	B	6
-5	B	3
-5	-	4
+5	B	7
+5	-	114
+5	D	7
+5	-	72
 6	-	2
 9	-	4
-5	-	2
-5	C	8
-5	-	124
+9	B	2
+6	B	3
+5	B	5
+5	-	16
+2	-	5
+2	B	7
+5	B	1
+5	-	11
+5	C	7
 -MISSION-	7
 
 -LIST-
@@ -11419,7 +11444,7 @@ Persona5C c
 Persona2C c
 PersonaMahabufudainB
 Persona5D c
-_Jump +_Jump9 i c
+CmnFJump +_Jump9 i c
 elef251_CardShotAir
 NmlAtkAir2B c
 PersonaAir5C c
@@ -11617,7 +11642,7 @@ Randomizer_colCD
 NmlAtkCounterAssault c
 _GCSurinuke a c +CmnGCSurinuke
 CmnDamageBurst        c        i
-MoujyaHit_C
+MoujyaHit_D
 -KEY-
 5 - 38
 4 - 110
@@ -11683,7 +11708,7 @@ MoujyaHit_C
 4 - 4
 5 - 6
 4 - 40
-6 - 123
+6 - 113
 3 - 2
 2 - 5
 3 - 3
@@ -11692,8 +11717,8 @@ MoujyaHit_C
 2 - 5
 3 - 2
 6 - 2
-6 C 2
-5 C 3
+6 D 2
+5 D 3
 5 - 6
 5 C 6
 5 - 58
@@ -11732,8 +11757,8 @@ MoujyaHit_C
 6 - 5
 2 - 4
 3 - 2
-6 C 3
-6 C 3
+6 D 3
+6 D 3
 5 - 45
 -EKEY-
 5        -        16
@@ -11929,7 +11954,7 @@ ChudanJump a c
 NmlAtkAir2B c
 elef251_CardShotAir
 PersonaAir5D c
-CmnBJump i c +_Jump7
+CmnFJump +_Jump9 i c
 elef251_CardShotAir
 NmlAtkAir2B c
 PersonaAir5C c
@@ -11954,9 +11979,9 @@ PersonaAir5C c
 5	-	20
 5	D	10
 5	-	72
-4	-	2
-7	-	10
-7	B	2
+6	-	2
+9	-	10
+9	B	2
 4	B	2
 5	B	8
 5	-	15
@@ -12123,7 +12148,7 @@ PersonaAir5C c
 2	B	8
 5	B	2
 5	-	4
-8	-	4
+9	-	4
 5	B	9
 5	-	24
 2	B	7
@@ -12421,6 +12446,7 @@ Ashibarai c
 5	-	73
 -MISSION-	21
 Counter
+Tooi
 
 -LIST-
 PersonaMahabufudainB
@@ -12439,69 +12465,70 @@ elef203_CardShot
 Persona5C c
 Persona2C c
 PersonaMahajiodainB
+_Dash	a c
 
 -KEY-
-5	-	12
-2	-	7
-1	-	2
-4	B	3
-5	B	4
-5	-	89
-6	-	3
-5	-	5
-6	-	27
-2	AB	9
-2	-	3
-3	-	2
-6	-	2
-6	D	2
-5	D	11
-6	-	6
-9	-	25
-7	-	11
-8	-	6
-9	-	3
-6	-	2
-2	-	11
-5	-	18
-5	B	11
-5	-	5
-5	B	6
-5	-	5
-5	B	6
-5	-	5
-5	B	4
-5	-	5
-5	B	5
-5	-	3
-5	B	7
-5	-	4
-5	B	6
-5	-	6
-4	-	2
-7	-	9
-6	-	4
-5	-	4
-6	-	4
-6	B	4
-5	B	4
-5	-	24
-5	C	8
-5	-	26
-2	-	5
-2	A	6
-5	-	4
-5	B	4
-5	-	34
-5	C	9
-5	-	3
-2	-	33
-2	C	8
-2	-	21
+5	-	11
+2	-	2
 1	-	2
 4	-	3
-5	B	6
-5	-	234
+5	B	4
+5	-	22
+6	-	8
+5	-	66
+6	-	4
+5	-	5
+6	-	22
+3	-	1
+3	AB	1
+2	AB	5
+2	B	2
+2	-	2
+3	-	3
+6	D	4
+5	D	8
+5	-	3
+6	-	10
+9	-	9
+8	-	23
+5	-	2
+2	-	21
+5	-	15
+5	B	11
+5	-	32
+5	B	11
+5	-	19
+5	B	11
+5	-	8
+4	-	2
+7	-	6
+4	-	2
+5	-	2
+6	-	4
+5	-	4
+6	-	6
+6	B	2
+5	B	7
+5	-	20
+5	C	8
+5	-	31
+2	-	3
+2	A	5
+5	-	5
+5	B	7
+5	-	31
+5	C	8
+5	-	27
+2	-	11
+2	C	8
+2	-	22
+3	-	2
+6	B	3
+5	B	2
+5	-	50
+6	-	4
+5	-	6
+6	-	40
 -MISSION-	22
 Kakusei
 SP 150
@@ -12526,8 +12553,8 @@ Ashibarai c
 TatsumakiHit_D
 Persona2C c
 PersonaMahabufudainAB
-NmlAtk2C	a i	+NmlAtk2Cmiss
-MoujyaHit_C |MoujyaHit_D +MoujyaHit_C_or_D
+Persona2D a i |NmlAtk2D a i c
+MoujyaHit_C
 
 -KEY-
 5	-	13
@@ -12606,22 +12633,20 @@ MoujyaHit_C |MoujyaHit_D +MoujyaHit_C_or_D
 4	A	1
 4	AB	1
 5	AB	6
-5	-	79
+5	-	84
 2	-	6
-2	C	5
+2	D	5
 2	-	5
-5	-	47
+5	-	40
 5	AB	4
 5	B	1
 5	-	5
 5	AB	5
 5	-	16
 2	-	3
-2	ABC	1
-1	ABC	1
-1	-	1
-4	-	1
-5	-	3
+2	ABC	2
+1	-	2
+4	-	2
 2	-	2
 1	-	2
 4	C	2
@@ -12651,7 +12676,7 @@ elef203_CardShot
 Persona5C c |Persona5Cex
 PersonaMahabufudainAB
 NmlAtk2C	a i	+NmlAtk2Cmiss
-MoujyaHit_C |MoujyaHit_D +MoujyaHit_C_or_D
+MoujyaHit_C
 
 
 
@@ -16943,7 +16968,11 @@ UltimateCriticalComboAB
 PersonaAntiAirC
 Oiuchi +OiuchiA
 -KEY-
-2	-	9
+5	-	4
+6	-	6
+5	-	5
+6	-	8
+2	-	5
 2	B	10
 5	-	32
 5	C	12
@@ -48039,13 +48068,13 @@ PersonaAir2C c
 AirScrewDriverB
 CmnActHeatUp +HeatUp a c
 AirChudan
-AirMissileC |AirMissileD +AirMissileCD
+AirMissileC |AirMissileD +AirMissileCD_hold
 Ashibarai c
 AirChudan
 AirChudan
 AirScrewDriverA
 MoudokuTsumeA
-AirMissileC |MissileC |MissileBomb
+AirMissileC +AirMissileC_hold
 Persona5C c
 UltimateNihilAB
 ShadowKuma_s +ShadowKuma
@@ -52648,7 +52677,7 @@ Air5B_Atk
 MatoNageA a
 5B_Atk +5B_Atk_Charge
 Air5B_Atk +Air5B_Atk_Charge
-_Jump i c nOnly
+_Jump i c
 Air5B_Atk +Air5B_Atk_Charge
 Air2B_Atk +Air2B_Atk_Charge
 5B_Atk +5B_Atk_Charge
@@ -56721,10 +56750,6 @@ LandAgiA	|LandAgiB	|LandAgirao	|AirAgiA	|AirAgiB	|AirAgirao	+FinalAgi	nOnly
 2	-	3
 3	-	3
 6	-A	5
-
-
-
-----Char---- YU
 
 
 ----End----
