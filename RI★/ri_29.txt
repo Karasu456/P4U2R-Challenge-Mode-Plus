@@ -6,6 +6,7 @@ RisesBitFastRecover	1
 
 -LIST-
 rp403_atkc_col
+CmnActHeatUp	+HeatUp	a	c
 Persona5C |rpef_204_atk c 
 CmnFAirDash i c
 NmlAtkAir2B c

@@ -517,6 +517,7 @@ ElectricBall_HontaiC
 
 
 
+
 ----Char---- AD
 -MISSION-	1
 SP	50
@@ -2502,6 +2503,7 @@ NmlAtk5A	c
 -KEY-
 6	-	10
 5	-A	3
+
 
 
 
@@ -5430,6 +5432,7 @@ HitCountOver150	h150	nOnly
 
 
 
+
 ----Char---- AK
 -MISSION-	1
 SP	50
@@ -8203,6 +8206,7 @@ UltimateUpperAB nOnly
 
 
 
+
 ----Char---- CE
 -MISSION- 1
 SP	50
@@ -10877,6 +10881,7 @@ DamageOver6000        c        d6500        nOnly
 
 
 
+
 ----Char---- EL
 -MISSION-	1
 SP	100
@@ -13067,6 +13072,7 @@ MoujyaHit_C |MoujyaHit_D |MoujyaHit_CD +MoujyaHit_final nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -15988,6 +15994,7 @@ DamageOver5000        c        d5000        nOnly
 
 
 
+
 ----Char---- KA
 -MISSION-	1
 SP	50
@@ -17980,6 +17987,7 @@ DamageOver8000        c        d8000        nOnly
 5	CD	24
 5	D	1
 5	-	98
+
 
 
 
@@ -21011,6 +21019,7 @@ DiaA	|DiaB	|DiaAB	+FinalDia		nOnly
 
 
 
+
 ----Char---- LA
 -MISSION-	1
 SP	50
@@ -23804,6 +23813,7 @@ RocketPunchA	|RocketPunchB	|RocketPunchAB	+FinalRokepan	nOnly
 
 
 
+
 ----Char---- NX
 -MISSION-	1
 SP	50
@@ -26051,6 +26061,7 @@ NmlAtk5A	c
 -KEY-
 6	-	10
 5	-A	3
+
 
 
 
@@ -28504,6 +28515,7 @@ NmlAtk5A	c
 
 
 
+
 ----Char---- NB
 -MISSION-	1
 SP	50
@@ -30490,6 +30502,7 @@ nbef_430ShougekihaCD nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -33137,6 +33150,7 @@ DamageOver8000        c        d8000        nOnly
 5	B	2
 4	B	2
 4	-	23
+
 
 
 
@@ -35975,6 +35989,7 @@ BanditRevolverA	|BanditRevolverB	|BanditRevolverAB	|AirBanditRevolverA	|AirBandi
 
 
 
+
 ----Char---- BC
 -MISSION-	1
 SP        50
@@ -38449,6 +38464,7 @@ DamageOver5000        c        d5000        nOnly
 4	CD	3
 5	D	3
 5	-	30
+
 
 
 
@@ -41124,6 +41140,7 @@ RisesBitFastRecover	1
 
 -LIST-
 rp403_atkc_col
+CmnActHeatUp	+HeatUp	a	c
 Persona5C |rpef_204_atk c 
 CmnFAirDash i c
 NmlAtkAir2B c
@@ -41340,6 +41357,7 @@ AssaultA	|AssaultB	|AssaultAB	+FinalAssault	nOnly
 2	-	3
 1	-	3
 4	-AB	3
+
 
 
 
@@ -43708,6 +43726,7 @@ DamageOver9000	c	d9000	nOnly
 
 
 
+
 ----Char---- NO
 -MISSION-	1
 SP	50
@@ -45786,6 +45805,7 @@ DamageOver8500 d8500 c nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -48255,6 +48275,7 @@ ShadowKuma_s +ShadowKuma nOnly
 5	-	337
 5	A	4
 5	-	229
+
 
 
 
@@ -51215,6 +51236,7 @@ TatsumakiCD nOnly
 4	-	4
 5	D	2
 5	-	228
+
 
 
 
