@@ -26142,8 +26142,8 @@ mr405_Atk +mr405_Atk_214Skill
 mr406c_Atk
 mr406d_Atk
 mr406sb_Atk
-mr407c_Atk
-mr407sb_Atk
+MegiDolaOnC a +mr407c_AtkSet
+MegiDolaOnSB a +mr407cd_AtkSet
 
 -KEY-
 5	-	19
@@ -26256,11 +26256,6 @@ mr407sb_Atk
 2	-	4
 1	-	4
 4	CD	11
-5	-	50
-2	-	4
-1	-	5
-4	CD	14
-5	-	125
 -MISSION-	3
 NoMiss
 Junhudo
@@ -26530,7 +26525,7 @@ CmnFAirDash i c
 NmlAtkAir5B c
 MegiDolaOnD a +mr407d_AtkSet
 CmnBAirDash	i	c
-PresentForYouA a +214ASkill
+PresentForYouA a +mr403_Atk
 
 -KEY-
 5	-	8
@@ -26649,7 +26644,7 @@ NmlAtk5A c
 NmlAtk5A2nd c
 NmlAtk5B c
 Ashibarai c
-PresentForYouA a +214ASkill
+PresentForYouA a +mr403_Atk
 
 -KEY-
 5	-	10
@@ -26688,16 +26683,15 @@ PresentForYouA a +214ASkill
 2	A	1
 2	AB	6
 2	A	1
-2	-	9
-1	-	2
-4	-	2
-4	A	1
-5	A	4
-5	-	15
-5	A	3
-5	-	6
+2	-	3
+1	-	3
+4	A	2
 5	A	2
-5	-	128
+5	-	7
+5	A	4
+5	-	5
+5	A	4
+5	-	45
 -MISSION-	9
 HashiEx
 MariesOtenki	1
@@ -27973,7 +27967,7 @@ HashiEx
 
 -LIST-
 mr405_Atk +mr405_Atk_214Skill
-mr407c_Atk
+mr407c_Atk +mr407c_AtkHit
 Persona5C c
 mr405_Atk +mr405_Atk_214Skill
 mr430B_Atk
@@ -56772,6 +56766,10 @@ LandAgiA	|LandAgiB	|LandAgirao	|AirAgiA	|AirAgiB	|AirAgirao	+FinalAgi	nOnly
 2	-	3
 3	-	3
 6	-A	5
+
+
+
+----Char---- YU
 
 
 ----End----

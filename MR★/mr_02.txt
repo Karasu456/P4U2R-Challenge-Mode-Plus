@@ -18,8 +18,8 @@ mr405_Atk +mr405_Atk_214Skill
 mr406c_Atk
 mr406d_Atk
 mr406sb_Atk
-mr407c_Atk
-mr407sb_Atk
+MegiDolaOnC a +mr407c_AtkSet
+MegiDolaOnSB a +mr407cd_AtkSet
 
 -KEY-
 5	-	19
@@ -132,8 +132,3 @@ mr407sb_Atk
 2	-	4
 1	-	4
 4	CD	11
-5	-	50
-2	-	4
-1	-	5
-4	CD	14
-5	-	125

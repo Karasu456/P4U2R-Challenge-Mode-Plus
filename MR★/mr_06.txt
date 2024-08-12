@@ -17,7 +17,7 @@ CmnFAirDash i c
 NmlAtkAir5B c
 MegiDolaOnD a +mr407d_AtkSet
 CmnBAirDash	i	c
-PresentForYouA a +214ASkill
+PresentForYouA a +mr403_Atk
 
 -KEY-
 5	-	8

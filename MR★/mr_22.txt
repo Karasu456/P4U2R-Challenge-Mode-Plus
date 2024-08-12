@@ -7,7 +7,7 @@ HashiEx
 
 -LIST-
 mr405_Atk +mr405_Atk_214Skill
-mr407c_Atk
+mr407c_Atk +mr407c_AtkHit
 Persona5C c
 mr405_Atk +mr405_Atk_214Skill
 mr430B_Atk
@@ -44,7 +44,6 @@ mr432San_Atk
 4	-	2
 5	C	12
 5	-	21
-
 2	-	2
 1	-	2
 4	-	3
