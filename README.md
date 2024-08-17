@@ -31,7 +31,7 @@ Challenge Mode+ is a gameplay mod for Persona 4 Arena Ultimax(PC) that updates t
 - Loxxhart, Osugure, & Vincent / Sho Trial Combos
 - Axis, Gold, & Ebstorm / Ken + Koromaru Trial Combos
 - Jolteo / Rise Trial Combos
-- Heli-Vision / Adachi Trial Combos
+- Heli-Vision & Bonafied / Adachi Trial Combos
 - Buttface & Naked Black Man / Marie Trial Combos
 - Beeg Yoshi /  Margaret Trial Combos
 - And many more!
