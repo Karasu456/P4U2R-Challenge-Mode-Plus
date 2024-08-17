@@ -3,72 +3,93 @@ SP	50
 HashiEx
 
 -LIST-
+PersonaAir5C c
+NmlAtk5B c
+SpecialWalkA a
+DashAssaultA
+PersonaUltimateHeatRiserB
+SpecialWalkB a
+DashAssaultB +DashAssaultB_slide
 NmlAtk5B c
 Persona5C c
-PersonaUltimateHeatRiserB
 Persona2C c
 CmnMiniJump i c
+CmnAirTurn i c
 PersonaAir5C c
 Persona5C c
-CmnFAirDash i c
-NmlAtkAir5B c
+CmnActJumpExUpper	a	c	nOnly
 PersonaAir2C c
-CmnBAirDash i c
-PersonaAir5C c
-DevilSmileC i
+PersonaAir2D c
 
 -KEY-
-5	-	10
+5	-	9
+6	-	1
+9	-	3
+5	-	5
+6	-	12
+6	C	5
+5	-	14
 6	-	4
 5	-	5
-6	-	6
-6	B	6
-6	-	3
-5	-	5
-5	C	7
-5	-	3
+6	-	5
+6	B	4
+6	-	1
+5	-	41
 2	-	4
 3	-	2
 6	-	4
-5	-	1
-2	-	5
-3	-	2
-6	-	1
-6	B	4
-6	-	1
-5	-	121
-2	-	9
-2	C	13
-2	-	18
-2	AC	6
-2	C	3
-2	-	5
-5	-	13
-5	C	10
-5	-	18
-5	C	11
-5	-	11
-6	-	2
-9	-	2
-8	-	1
-5	-	4
-6	-	17
-6	B	4
-5	B	3
-5	-	2
-2	-	6
-2	C	8
-2	-	12
-2	D	4
-5	-	13
-7	-	3
-5	-	3
-4	-	6
-5	-	7
-5	C	3
+5	A	3
 5	-	6
-2	-	2
+5	A	3
+5	-	3
+2	-	4
+3	-	1
+6	-	2
+6	B	2
+3	-	1
+2	-	3
+3	-	1
+3	B	1
+6	B	2
+5	-	5
+5	B	1
+5	-	108
+2	-	3
 3	-	2
 6	-	3
-5	C	4
-5	-	59
+5	-	1
+5	B	3
+5	-	11
+5	B	4
+5	-	48
+6	-	4
+5	-	5
+6	-	6
+5	-	1
+5	B	9
+5	-	27
+5	C	8
+5	-	8
+2	-	9
+2	C	8
+2	-	31
+2	AC	6
+5	A	1
+5	-	6
+5	AC	5
+5	A	2
+5	-	12
+5	C	9
+5	-	15
+5	C	12
+5	-	10
+8	-	5
+2	-	6
+2	C	7
+2	-	21
+2	D	4
+2	-	3
+2	D	2
+2	-	5
+2	D	6
+2	-	18

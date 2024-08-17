@@ -518,6 +518,7 @@ ElectricBall_HontaiC
 
 
 
+
 ----Char---- AD
 -MISSION-	1
 SP	50
@@ -860,9 +861,9 @@ PersonaAir5C c
 NmlAtk5B c
 Persona5C c
 Ashibarai c
-SpecialWalkA a
-DashAssaultA
-PersonaUltimateHeatRiserA
+SpecialWalkB a
+DashAssaultB
+PersonaUltimateHeatRiserB
 Persona2C c
 CmnMiniJump i c
 PersonaAir5C c
@@ -872,74 +873,84 @@ DashAssaultAB
 PersonaMoujaNoNagekiD
 
 -KEY-
-5	-	9
-9	-	3
+5	-	11
+6	-	1
+9	-	2
+8	-	1
 5	-	5
-6	-	16
-6	C	3
-5	C	6
-5	-	8
+6	-	11
+6	C	7
+5	-	13
 6	-	4
 5	-	5
-6	-	6
-6	B	8
-5	-	44
-5	C	10
-5	-	4
-2	-	8
-2	AB	7
-2	B	2
-2	-	17
-3	-	2
 6	-	3
-6	A	1
-5	A	3
-5	-	7
-5	A	5
-5	-	5
-5	A	1
-2	A	4
-2	-	4
+6	B	4
+6	-	7
+5	-	42
+5	C	7
+5	-	6
+2	-	13
+2	A	1
+2	AB	4
+2	B	3
+2	-	19
 3	-	2
-6	-	4
+6	-	1
+6	B	3
+5	-	6
+5	B	3
+5	-	5
+5	B	4
+5	-	6
+5	B	3
+5	-	19
+2	-	2
+1	-	2
+4	-	3
 5	-	2
 2	-	3
-3	-	1
-6	A	2
-6	-	1
-5	-	101
-2	-	14
-2	C	11
-2	-	25
+1	B	3
+4	-	2
+5	-	110
+4	-	3
+5	-	4
+4	-	4
+1	-	3
+2	-	1
+2	C	6
+5	-	18
+2	-	4
 2	A	1
-2	AC	7
-2	C	2
-2	-	2
-5	-	14
-5	C	9
-5	-	16
-5	C	9
-5	-	38
-2	-	5
-5	-	7
-2	-	4
-3	-	2
-6	A	1
-6	AB	3
+2	AC	6
+2	C	5
+2	-	9
+5	-	13
+5	C	12
+5	-	15
+5	C	13
+5	-	44
+2	-	3
+1	-	2
+4	A	1
+4	AB	2
 5	AB	2
-5	-	8
-5	A	6
-5	-	17
+5	B	5
+5	-	12
+5	B	7
+5	-	11
+2	-	3
+1	-	2
+4	-	3
+5	-	3
 2	-	4
-3	-	2
-6	-	5
-5	-	1
-2	-	4
-3	-	2
-6	-	4
-6	D	1
-5	D	6
-5	-	259
+1	-	3
+4	-	2
+2	-	3
+2	D	2
+1	-	3
+4	-	2
+5	D	5
+5	-	237
 -MISSION-	7
 
 -LIST-
@@ -1121,7 +1132,6 @@ HashiEx
 SP	25
 
 -LIST-
-PersonaAir5C c
 NmlAtk5B c
 Persona5C c
 SpecialWalkAB a
@@ -1131,72 +1141,82 @@ DashAssaultB
 Persona5C c
 Persona2C c
 CmnMiniJump i c
+CmnAirTurn i c
 PersonaAir5C c
-NmlAtk5B c
-NmlAtk2B c
+Persona5C c
+CmnActJumpExUpper	a	c	nOnly
 PersonaAir2C c
+PersonaAir2D c
 
 -KEY-
-5	-	13
-6	-	2
-9	-	2
-8	-	2
-5	-	3
-6	-	11
-6	C	4
-5	C	7
-5	-	9
+5	-	17
 6	-	4
-5	-	4
-6	-	5
-6	B	3
-5	B	3
 5	-	5
-5	C	9
-5	-	9
-2	-	6
-3	-	2
+6	-	7
+6	B	8
 6	-	1
-6	AB	3
-5	AB	1
-5	B	4
-5	-	8
-5	B	4
-5	-	37
-2	-	4
-1	-	1
-4	-	1
-4	B	2
-5	B	3
-5	-	24
-5	B	6
-5	-	72
-5	C	6
-5	-	4
-5	C	5
-2	-	9
-2	C	10
-2	-	27
-2	AC	6
-2	C	5
-2	-	6
 5	-	5
-5	C	11
-5	-	23
-5	B	7
-2	B	1
-2	-	5
-2	B	10
-2	-	14
-2	C	13
-2	-	24
-5	-	40
+5	C	8
+5	-	9
+2	-	4
+3	-	2
 6	-	2
-9	-	3
-8	-	1
+6	A	1
+6	AB	1
+5	AB	2
+5	B	5
+5	-	7
+5	B	7
+5	-	30
+2	-	4
+1	-	2
+4	-	2
+4	B	2
+5	B	8
+5	-	21
+5	B	9
+5	-	35
+5	C	2
+5	-	7
+5	C	3
+5	-	6
+5	C	4
+5	-	5
+5	C	3
+5	-	5
+5	C	4
 5	-	4
-6	-	12
-5	-	57
+5	C	7
+5	-	1
+2	-	6
+2	C	9
+2	-	30
+2	AC	5
+2	C	1
+2	-	3
+5	-	3
+5	AC	3
+5	C	2
+5	-	7
+5	C	6
+5	-	5
+5	C	7
+5	-	5
+5	C	10
+5	-	15
+8	-	2
+5	-	2
+2	-	6
+2	C	1
+2	-	3
+2	D	5
+2	-	11
+2	C	3
+2	-	6
+2	D	7
+2	-	5
+2	D	4
+2	-	21
 -MISSION-	11
 SP 150
 NoMiss
@@ -1314,63 +1334,74 @@ SP 50
 
 -LIST-
 MegiDoraC
-PersonaUltimateHeatRiserA
+PersonaUltimateHeatRiserB
 Persona2C c
 CmnMiniJump i c
 PersonaAir5C c
 NmlAtk5B c
 NmlAtk2B c
 PersonaAir2C c
+CmnFAirDash	i	c
 
 -KEY-
-5	-	12
+5	-	6
 6	-	4
-5	-	5
+5	-	6
 6	-	2
-3	-	2
-2	-	2
+3	-	3
+2	-	1
 1	-	2
 4	C	2
-5	C	8
-5	-	63
-2	-	5
-3	-	1
-6	-	6
-2	-	6
-3	A	1
-6	A	2
-6	-	3
-5	-	1
-2	-	2
-2	A	3
-3	A	1
+5	C	2
+5	-	72
+2	-	4
+3	-	2
 6	-	4
-5	A	6
-5	-	109
-2	-	5
-2	C	11
-2	-	16
-2	AC	16
-2	C	1
-2	-	7
-5	-	10
-5	C	11
-5	-	9
-6	-	4
-5	-	5
-6	-	6
-6	B	5
-5	B	4
-5	-	4
+5	-	2
+2	-	4
+3	-	2
+6	-	1
+6	B	1
+6	-	2
 2	-	3
-2	B	7
-2	-	20
-2	C	8
-2	-	29
-5	-	28
+2	B	1
+3	B	2
+6	-	2
+5	-	2
+5	B	2
+2	B	2
+5	-	117
 6	-	3
+5	-	4
+6	-	3
+3	-	3
+2	C	4
+5	C	4
+5	-	12
+2	-	4
+2	AC	15
+2	-	10
+5	-	11
+5	C	13
+5	-	10
+6	-	4
 5	-	5
-6	-	28
+6	-	4
+6	B	1
+5	B	6
+5	-	5
+2	-	4
+2	B	6
+2	-	18
+2	C	7
+2	-	24
+5	-	26
+6	-	3
+5	-	4
+6	-	17
+9	-	3
+5	-	4
+6	-	11
 -MISSION-	13
 Tooi
 Jump
@@ -1539,57 +1570,79 @@ NmlAtk5B c
 Persona5C c
 Persona2C c
 CmnMiniJump i c
+CmnAirTurn i c
 PersonaAir5C c
-NmlAtk5B c
-NmlAtk2B c
+Persona5C c
+CmnFAirDash i c
+NmlAtkAir5B c
 PersonaAir2C c
-PersonaAir2D c
+CmnBAirDash i c
+PersonaAir5C c
+DevilSmileC	a
 
 -KEY-
-5	-	10
-6	-	4
-5	-	5
-6	-	2
-6	A	1
-6	AB	10
-6	A	1
-6	-	16
 5	-	9
-5	A	1
-5	AB	73
-5	-	2
-5	D	8
-5	-	11
 6	-	4
 5	-	5
-6	-	26
-6	B	1
-5	B	7
-5	-	7
-5	C	6
-2	C	1
-2	-	19
-2	C	11
-2	-	21
-2	AC	9
-2	C	3
-2	-	6
-5	-	10
-5	C	11
-5	-	23
-5	B	12
+6	-	4
+6	A	1
+6	AB	3
+6	B	2
+6	-	29
+5	-	4
+5	AB	78
 5	-	2
+5	D	10
+5	-	9
+6	-	4
+5	-	5
+6	-	31
+6	B	1
+5	B	4
+5	-	11
+5	C	10
+5	-	11
+2	-	9
+2	C	11
+2	-	18
+2	AC	5
 2	-	5
-2	B	9
-2	-	16
-2	C	10
-2	-	12
-2	D	5
+2	AC	4
+2	A	1
+2	-	3
+2	A	1
+2	AC	3
+5	AC	1
+5	C	1
+5	-	6
+5	C	7
+5	-	19
+5	C	11
+5	-	13
+6	-	2
+9	-	3
+8	-	1
+5	-	4
+6	-	15
+6	B	5
+5	B	1
+5	-	7
 2	-	5
-2	D	5
-2	-	4
-2	D	7
-2	-	48
+2	C	8
+2	-	10
+2	D	6
+5	-	13
+7	-	3
+5	-	3
+4	-	6
+5	-	7
+5	C	3
+5	-	6
+2	-	2
+3	-	2
+6	-	3
+5	C	4
+5	-	59
 -MISSION-	17
 SP 25
 Tooi
@@ -1605,77 +1658,86 @@ Persona5C c
 CmnFAirDash i c
 NmlAtkAir5B c
 PersonaAir2C c
-CmnMiniJump i c
+CmnFAirDash i c
+CmnAirTurn i c
 PersonaAir5C c
-NmlAtk5B c
-NmlAtk2B c
-PersonaAir2C c
+Ashibarai c
+SpecialWalkA a
+DashAssaultA
 
 -KEY-
-5	-	6
-6	-	3
+5	-	7
+6	-	4
 5	-	5
 6	-	2
-3	-	3
-3	AB	1
-2	AB	2
-2	B	1
-2	-	12
-1	-	2
-4	-	2
+3	-	4
+2	AB	3
+2	B	2
+2	-	13
+1	-	3
+4	-	1
+4	A	1
 4	AB	1
-5	AB	3
-5	B	1
-5	-	22
+5	AB	2
+5	B	2
+5	-	20
 6	-	3
 5	-	6
-6	-	7
-5	-	1
-5	B	6
-5	-	3
-2	-	5
-2	C	7
-2	-	29
-2	AC	5
+6	-	5
+6	B	4
+5	B	1
+5	-	7
+2	-	4
+2	C	4
+2	-	24
+2	A	1
+2	AC	4
 2	C	3
-2	-	5
-5	-	9
-5	C	11
+2	-	8
 5	-	14
-5	C	10
+5	C	8
 5	-	16
+5	C	7
+5	-	15
 6	-	1
 9	-	3
-5	-	4
-6	-	14
+5	-	5
+6	-	18
 6	B	5
-5	B	3
-5	-	3
-2	-	9
-2	C	7
-2	-	11
-2	D	9
-2	-	5
-2	AC	5
-2	C	3
-2	-	5
-5	-	9
-5	C	6
-5	-	24
-5	B	5
-2	-	3
-2	B	7
-2	-	20
-2	C	8
-2	-	29
-5	-	28
 6	-	3
 5	-	5
-6	-	28
+2	-	6
+2	C	3
+2	-	11
+2	D	6
+2	-	2
+5	-	10
+9	-	4
+5	-	5
+6	-	6
+6	A	1
+5	AC	2
+5	C	1
+5	-	6
+5	C	4
+5	-	5
+2	-	11
+2	A	1
+2	AB	4
+2	B	1
+5	-	10
+2	-	2
+3	-	2
+6	-	2
+6	A	1
+5	A	2
+5	-	11
+5	A	2
+5	-	6
+5	A	3
 -MISSION-	18
-SP 75
+SP 125
 Kakusei
-Jump
 Counter
 -LIST-
 NmlAtk2B c
@@ -1688,143 +1750,196 @@ Persona5C c
 CmnFAirDash i c
 NmlAtkAir5B c
 PersonaAir2C c
-CmnMiniJump i c
-PersonaAir5C c
+Persona5C c
+PersonaYodonda_KuukiB
+NmlAtk2A c
+NmlAtk5B c
+Persona5C c
 SpecialWalkAB a
 DashAssaultAB
 PersonaMoujaNoNagekiD
 
 -KEY-
-5	-	23
-2	-	1
-2	B	3
-5	B	6
-5	-	15
-5	C	8
-5	-	22
-5	B	6
-5	-	3
-2	-	5
-2	C	7
-2	-	29
-2	AC	5
-2	C	3
-2	-	5
 5	-	9
-5	C	11
-5	-	14
-5	C	10
-5	-	16
-6	-	1
-9	-	3
-5	-	4
-6	-	14
-6	B	5
+6	-	4
+5	-	5
+6	-	2
+3	-	2
+2	-	2
+2	B	3
 5	B	3
-5	-	3
-2	-	9
-2	C	7
-2	-	11
-2	D	9
-2	-	5
-2	AC	5
-2	C	3
-2	-	5
-5	-	12
-5	C	6
-5	-	7
-2	-	4
-3	-	2
-6	A	1
-6	AB	3
-5	AB	2
-5	-	8
-5	A	6
-5	-	17
-2	-	4
-3	-	2
-6	-	5
+5	-	10
+5	C	5
+5	-	31
+5	B	7
+5	-	5
+2	C	8
+2	-	24
+2	AC	11
+2	C	1
+5	-	18
+5	C	8
+5	-	16
+5	C	9
+5	-	10
+6	-	2
+9	-	2
+8	-	1
+5	-	6
+6	-	19
+6	B	4
+5	B	3
+5	-	2
+2	-	7
+2	C	5
+2	-	1
+5	-	10
+5	D	4
+5	-	31
+6	-	3
+5	-	5
+6	-	2
+6	C	4
+5	C	4
+5	-	4
+2	-	2
+1	-	3
+4	-	3
 5	-	1
-2	-	4
+5	B	1
+2	B	3
+2	-	1
+1	-	1
+4	-	1
+4	B	2
+5	B	4
+5	-	217
+2	A	5
+2	-	5
+5	-	3
+5	B	6
+5	-	12
+5	C	9
+5	-	56
+2	-	3
+3	-	2
+6	-	2
+6	AB	1
+5	AB	4
+5	B	2
+5	-	13
+5	B	8
+5	-	12
+2	-	5
 3	-	2
 6	-	4
-6	D	1
-5	D	6
-5	-	259
+5	-	4
+2	-	4
+3	-	1
+6	-	4
+3	-	1
+2	D	3
+3	D	1
+3	-	2
+6	-	2
+5	D	7
+5	-	240
 -MISSION-	19
 SP	50
 HashiEx
 
 -LIST-
+PersonaAir5C c
+NmlAtk5B c
+SpecialWalkA a
+DashAssaultA
+PersonaUltimateHeatRiserB
+SpecialWalkB a
+DashAssaultB +DashAssaultB_slide
 NmlAtk5B c
 Persona5C c
-PersonaUltimateHeatRiserB
 Persona2C c
 CmnMiniJump i c
+CmnAirTurn i c
 PersonaAir5C c
 Persona5C c
-CmnFAirDash i c
-NmlAtkAir5B c
+CmnActJumpExUpper	a	c	nOnly
 PersonaAir2C c
-CmnBAirDash i c
-PersonaAir5C c
-DevilSmileC i
+PersonaAir2D c
 
 -KEY-
-5	-	10
+5	-	9
+6	-	1
+9	-	3
+5	-	5
+6	-	12
+6	C	5
+5	-	14
 6	-	4
 5	-	5
-6	-	6
-6	B	6
-6	-	3
-5	-	5
-5	C	7
-5	-	3
+6	-	5
+6	B	4
+6	-	1
+5	-	41
 2	-	4
 3	-	2
 6	-	4
-5	-	1
-2	-	5
-3	-	2
-6	-	1
-6	B	4
-6	-	1
-5	-	121
-2	-	9
-2	C	13
-2	-	18
-2	AC	6
-2	C	3
-2	-	5
-5	-	13
-5	C	10
-5	-	18
-5	C	11
-5	-	11
-6	-	2
-9	-	2
-8	-	1
-5	-	4
-6	-	17
-6	B	4
-5	B	3
-5	-	2
-2	-	6
-2	C	8
-2	-	12
-2	D	4
-5	-	13
-7	-	3
-5	-	3
-4	-	6
-5	-	7
-5	C	3
+5	A	3
 5	-	6
-2	-	2
+5	A	3
+5	-	3
+2	-	4
+3	-	1
+6	-	2
+6	B	2
+3	-	1
+2	-	3
+3	-	1
+3	B	1
+6	B	2
+5	-	5
+5	B	1
+5	-	108
+2	-	3
 3	-	2
 6	-	3
-5	C	4
-5	-	59
+5	-	1
+5	B	3
+5	-	11
+5	B	4
+5	-	48
+6	-	4
+5	-	5
+6	-	6
+5	-	1
+5	B	9
+5	-	27
+5	C	8
+5	-	8
+2	-	9
+2	C	8
+2	-	31
+2	AC	6
+5	A	1
+5	-	6
+5	AC	5
+5	A	2
+5	-	12
+5	C	9
+5	-	15
+5	C	12
+5	-	10
+8	-	5
+2	-	6
+2	C	7
+2	-	21
+2	D	4
+2	-	3
+2	D	2
+2	-	5
+2	D	6
+2	-	18
+
 -MISSION-	20
 HashiEx
 Kakusei
@@ -1832,8 +1947,6 @@ Counter
 SP	150
 
 -LIST-
-Persona5C c
-CmnFAirDash i c
 PersonaAir5C c
 NmlAtk5B c
 SpecialWalkA a
@@ -1843,7 +1956,9 @@ NmlAtk5B c
 Persona5C c
 Persona2C c
 CmnMiniJump i c
+CmnAirTurn i c
 PersonaAir5C c
+Persona5C c
 NmlAtk2B c
 PersonaAir2C c
 PersonaAir2D c
@@ -1852,79 +1967,85 @@ DashAssaultAB
 PersonaMoujaNoNagekiD
 
 -KEY-
-5	-	21
-5	C	6
-5	-	14
+5	-	11
 6	-	1
 9	-	3
-5	-	6
+5	-	4
 6	-	12
-6	C	5
-5	C	3
-5	-	15
-6	-	4
+6	C	8
+5	C	2
+5	-	10
+6	-	5
 5	-	4
 6	-	3
-6	B	7
-6	-	4
-5	-	32
+6	B	6
+5	B	2
+5	-	39
 2	-	3
-3	-	2
-6	-	3
-5	A	4
-5	-	6
-5	A	5
+3	-	3
+6	-	2
+6	A	1
+5	A	2
 5	-	5
-5	A	1
-2	A	3
-2	-	1
+5	A	5
+5	-	4
+2	-	3
 1	-	2
-4	-	3
-5	-	1
-2	-	1
-2	A	1
-2	AB	2
+4	-	4
+5	-	3
+2	-	4
 1	-	2
 4	-	2
-5	AB	4
-5	-	195
-5	B	10
-5	-	7
-5	C	7
-2	C	5
-2	-	13
-2	C	14
-2	-	23
+4	A	1
+4	AB	1
+5	AB	2
+5	B	1
+5	-	199
+5	B	9
+5	-	25
+5	C	9
+5	-	13
+2	-	7
+2	C	11
+2	-	26
 2	C	1
-2	AC	8
-2	C	5
-2	-	3
-5	-	12
-5	C	12
-5	-	5
-2	-	12
-2	B	7
-2	-	10
-2	C	15
+2	AC	4
+5	AC	3
+5	-	6
+5	A	1
+5	AC	4
+5	C	1
+5	-	8
+5	C	10
+5	-	19
+5	C	10
+5	-	8
+2	B	9
 2	-	13
-2	D	10
-2	-	54
-3	-	2
-6	-	1
-6	A	1
-6	AB	3
-5	-	7
-5	B	5
-5	-	20
+2	C	7
+2	-	19
+2	D	9
+2	-	30
+5	-	29
 2	-	4
-3	-	1
-6	-	4
-5	-	2
-2	-	3
 3	-	2
-6	D	2
-5	D	1
-5	-	254
+6	AB	4
+5	AB	2
+5	B	1
+5	-	5
+5	B	6
+5	-	22
+2	-	4
+3	-	2
+6	-	4
+5	-	1
+2	-	5
+3	-	2
+6	-	2
+3	-	1
+3	D	1
+2	D	3
+5	-	206
 -MISSION-	21
 Kakusei
 SP	100
@@ -2305,94 +2426,103 @@ PersonaMoujaNoNagekiD
 -MISSION-	24
 HPRecoverEnemyOnly 0
 SP	100
-HP 45
-Tooi
+HP 50
+Counter
 
 -LIST-
-PersonaAir5C c
+NmlAtk2B c
+PersonaAir5C a |NmlAtkAir5C +PersonaAir5C_miss
 NmlAtk5B c
+Persona2C c
 Persona5C c
-SpecialWalkAB a
-DashAssaultAB
+CmnFAirDash i c
+NmlAtkAir5B c
+PersonaAir2C c
+CmnFAirDash i c
+CmnAirTurn i c
+PersonaAir5C c
 ReversalAction +ReversalAction_single
 PersonaUltimateHeatRiserB
+ReversalAction
 _Kakusei i c
-Persona2C c
-CmnMiniJump i c
-PersonaAir5C c
-SpecialWalkAB a
-DashAssaultAB
-PersonaMoujaNoNagekiD
+PersonaYodonda_KuukiB
 
 -KEY-
-5	-	10
+5	-	9
+6	-	3
+5	-	5
+6	-	2
+3	-	3
+2	B	3
+5	B	1
+5	-	18
+5	C	4
+5	-	28
+5	B	4
+5	-	3
+2	-	5
+2	C	5
+2	-	25
+2	A	1
+2	AC	8
+2	C	1
+2	-	8
+5	-	12
+5	C	9
+5	-	14
+5	C	9
+5	-	14
 9	-	4
 8	-	1
-5	-	4
-6	-	12
-6	C	3
-5	C	7
-5	-	7
-6	-	4
 5	-	5
-6	-	4
-6	B	8
+6	-	16
+6	B	6
+5	-	7
+2	-	6
+2	C	6
+2	-	10
+2	D	1
+5	D	3
+5	-	12
+6	-	1
+9	-	3
+8	-	1
+5	-	4
+6	-	6
+5	AC	3
+5	-	7
+5	C	4
+5	-	9
+5	BD	4
 5	-	6
-5	C	8
-5	-	8
-2	-	4
-3	-	2
-6	-	2
-6	A	1
-6	AB	1
-5	AB	3
-5	B	2
-5	-	7
-5	B	3
-5	-	5
-5	B	5
-5	-	26
-5	BD	6
-5	-	19
-5	BD	6
-5	-	9
-2	-	2
-1	-	3
-4	-	2
-5	-	2
-2	-	2
-2	-	2
-1	-	2
-4	B	3
-5	-	120
-2	-	4
-2	C	12
-2	-	16
-2	A	1
-2	AC	5
-2	C	5
-5	-	23
-5	C	10
-5	-	9
-2	-	4
-1	AB	1
-4	AB	3
-5	B	1
-5	-	7
-5	B	4
+5	BD	4
 5	-	4
-5	B	5
-5	-	19
+2	-	2
+5	BD	5
+5	-	16
+2	-	3
+3	-	1
+6	-	3
+5	-	3
+2	-	2
+3	-	2
+6	B	2
+5	-	120
+6	-	3
+5	-	3
+6	-	2
+5	BD	8
+5	-	43
 2	-	2
 1	-	2
 4	-	3
-5	-	3
+5	-	2
 2	-	3
-1	-	3
-4	D	4
-5	-	4
-5	D	4
-5	-	146
+1	-	1
+1	B	1
+4	B	1
+4	-	2
+5	-	198
 -MISSION-	25
 HashiEx
 Kakusei
@@ -2503,6 +2633,7 @@ NmlAtk5A	c
 -KEY-
 6	-	10
 5	-A	3
+
 
 
 
@@ -5433,6 +5564,7 @@ HitCountOver150	h150	nOnly
 
 
 
+
 ----Char---- AK
 -MISSION-	1
 SP	50
@@ -8207,6 +8339,7 @@ UltimateUpperAB nOnly
 
 
 
+
 ----Char---- CE
 -MISSION- 1
 SP	50
@@ -10882,6 +11015,7 @@ DamageOver6000        c        d6500        nOnly
 
 
 
+
 ----Char---- EL
 -MISSION-	1
 SP	100
@@ -13072,6 +13206,7 @@ MoujyaHit_C |MoujyaHit_D |MoujyaHit_CD +MoujyaHit_final nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -15995,6 +16130,7 @@ DamageOver5000        c        d5000        nOnly
 
 
 
+
 ----Char---- KA
 -MISSION-	1
 SP	50
@@ -18024,6 +18160,7 @@ DamageOver8000        c        d8000        nOnly
 
 
 
+
 ----Char---- AM
 -MISSION-	1
 SP	50
@@ -19193,7 +19330,7 @@ SP	50
 
 -LIST-
 Chudan c
-ChudanOiuchi c
+_ChudanOiuchi	p	+ChudanOiuchiMax	c
 ChudanBlow c
 _Dash +CmnActFDash i c
 NmlAtk2B c
@@ -20985,6 +21122,7 @@ DiaA	|DiaB	|DiaAB	+FinalDia		nOnly
 2	-	3
 1	-	3
 4	-AB	3
+
 
 
 
@@ -23814,6 +23952,7 @@ RocketPunchA	|RocketPunchB	|RocketPunchAB	+FinalRokepan	nOnly
 
 
 
+
 ----Char---- NX
 -MISSION-	1
 SP	50
@@ -26061,6 +26200,7 @@ NmlAtk5A	c
 -KEY-
 6	-	10
 5	-A	3
+
 
 
 
@@ -28511,6 +28651,7 @@ NmlAtk5A	c
 
 
 
+
 ----Char---- NB
 -MISSION-	1
 SP	50
@@ -30497,6 +30638,7 @@ nbef_430ShougekihaCD nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -33145,6 +33287,7 @@ DamageOver8000        c        d8000        nOnly
 5	B	2
 4	B	2
 4	-	23
+
 
 
 
@@ -35985,6 +36128,7 @@ BanditRevolverA	|BanditRevolverB	|BanditRevolverAB	|AirBanditRevolverA	|AirBandi
 
 
 
+
 ----Char---- BC
 -MISSION-	1
 SP        50
@@ -38459,6 +38603,7 @@ DamageOver5000        c        d5000        nOnly
 4	CD	3
 5	D	3
 5	-	30
+
 
 
 
@@ -41387,6 +41532,7 @@ AssaultA	|AssaultB	|AssaultAB	+FinalAssault	nOnly
 
 
 
+
 ----Char---- LS
 -MISSION-	1
 SP	50
@@ -43722,6 +43868,7 @@ DamageOver9000	c	d9000	nOnly
 
 
 
+
 ----Char---- NO
 -MISSION-	1
 SP	50
@@ -45800,6 +45947,7 @@ DamageOver8500 d8500 c nOnly
 -MISSION-	30
 -LIST-
 -KEY-
+
 
 
 
@@ -48270,6 +48418,7 @@ ShadowKuma_s +ShadowKuma nOnly
 5	-	337
 5	A	4
 5	-	229
+
 
 
 
@@ -51231,6 +51380,7 @@ TatsumakiCD nOnly
 4	-	4
 5	D	2
 5	-	228
+
 
 
 
@@ -56768,9 +56918,6 @@ LandAgiA	|LandAgiB	|LandAgirao	|AirAgiA	|AirAgiB	|AirAgirao	+FinalAgi	nOnly
 3	-	3
 6	-A	5
 
-
-
-----Char---- YU
 
 
 ----End----

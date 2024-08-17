@@ -11,54 +11,76 @@ NmlAtk5B c
 Persona5C c
 Persona2C c
 CmnMiniJump i c
+CmnAirTurn i c
 PersonaAir5C c
-NmlAtk5B c
-NmlAtk2B c
+Persona5C c
+CmnFAirDash i c
+NmlAtkAir5B c
 PersonaAir2C c
-PersonaAir2D c
+CmnBAirDash i c
+PersonaAir5C c
+DevilSmileC	a
 
 -KEY-
-5	-	10
-6	-	4
-5	-	5
-6	-	2
-6	A	1
-6	AB	10
-6	A	1
-6	-	16
 5	-	9
-5	A	1
-5	AB	73
-5	-	2
-5	D	8
-5	-	11
 6	-	4
 5	-	5
-6	-	26
-6	B	1
-5	B	7
-5	-	7
-5	C	6
-2	C	1
-2	-	19
-2	C	11
-2	-	21
-2	AC	9
-2	C	3
-2	-	6
-5	-	10
-5	C	11
-5	-	23
-5	B	12
+6	-	4
+6	A	1
+6	AB	3
+6	B	2
+6	-	29
+5	-	4
+5	AB	78
 5	-	2
+5	D	10
+5	-	9
+6	-	4
+5	-	5
+6	-	31
+6	B	1
+5	B	4
+5	-	11
+5	C	10
+5	-	11
+2	-	9
+2	C	11
+2	-	18
+2	AC	5
 2	-	5
-2	B	9
-2	-	16
-2	C	10
-2	-	12
-2	D	5
+2	AC	4
+2	A	1
+2	-	3
+2	A	1
+2	AC	3
+5	AC	1
+5	C	1
+5	-	6
+5	C	7
+5	-	19
+5	C	11
+5	-	13
+6	-	2
+9	-	3
+8	-	1
+5	-	4
+6	-	15
+6	B	5
+5	B	1
+5	-	7
 2	-	5
-2	D	5
-2	-	4
-2	D	7
-2	-	48
+2	C	8
+2	-	10
+2	D	6
+5	-	13
+7	-	3
+5	-	3
+4	-	6
+5	-	7
+5	C	3
+5	-	6
+2	-	2
+3	-	2
+6	-	3
+5	C	4
+5	-	59
